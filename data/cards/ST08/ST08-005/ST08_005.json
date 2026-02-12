@@ -1,0 +1,16 @@
+{
+  "id" : "ST08-005",
+  "rarity" : "SR",
+  "name" : "Shanks",
+  "category" : "CHARACTER",
+  "cost" : 9,
+  "attribute" : "Slash",
+  "power" : 10000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Red-Haired Pirates",
+  "effect" : "[On Play] You may trash 1 card from your hand: K.O. all Characters with a cost of 1 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

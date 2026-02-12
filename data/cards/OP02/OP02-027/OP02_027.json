@@ -1,0 +1,18 @@
+{
+    "id": "OP02-027",
+    "name": "Inuarashi",
+    "rarity": "UC",
+    "color": "Green",
+    "cost": 3,
+    "power": 4000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Minks/Land of Wano/The Akazaya Nine",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "If all of your DON!! cards are rested, this Character cannot be removed from the field by your opponent's effects.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

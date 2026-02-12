@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-047",
+  "rarity" : "C",
+  "name" : "Ice Oni",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Special",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Plague/Animal Kingdom Pirates",
+  "effect" : "[Your Turn] At the end of a battle in which this Character battles your opponent's Character with a cost of 5 or less, place the opponent's Character you battled with at the bottom of the owner's deck.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

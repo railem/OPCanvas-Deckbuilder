@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-035",
+  "rarity" : "C",
+  "name" : "BB",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Minks",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

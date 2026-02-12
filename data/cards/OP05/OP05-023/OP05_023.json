@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-023",
+  "rarity" : "R",
+  "name" : "Vergo",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Navy/Donquixote Pirates",
+  "effect" : "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

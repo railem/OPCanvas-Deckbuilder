@@ -1,0 +1,16 @@
+{
+  "id" : "ST13-012",
+  "rarity" : "C",
+  "name" : "Makino",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Windmill Village",
+  "effect" : "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Look at all of your Life cards and place them back in your Life area in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

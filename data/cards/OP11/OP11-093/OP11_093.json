@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-093",
+  "rarity" : "UC",
+  "name" : "Bogard",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

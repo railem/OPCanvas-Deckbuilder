@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-050",
+  "rarity" : "UC",
+  "name" : "Jaguar.D.Saul",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Giant/Ohara/Navy",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger" : "",
+  "keywords" : [ "Blocker" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST28-001",
+  "rarity" : "C",
+  "name" : "Ashura Doji",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Land of Wano/The Akazaya Nine",
+  "effect" : "[On Play] If your Leader has the {Land of Wano} type and your opponent has 3 or more Life cards, K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

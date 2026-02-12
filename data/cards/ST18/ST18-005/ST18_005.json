@@ -1,0 +1,19 @@
+{
+    "id": "ST18-005",
+    "name": "Luffy-Tarou",
+    "rarity": "SR",
+    "color": "Purple",
+    "cost": 7,
+    "power": 8000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 purple {Straw Hat Crew} type Character card with a cost of 5 or less from your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

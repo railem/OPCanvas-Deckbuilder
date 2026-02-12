@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-012",
+  "rarity" : "C",
+  "name" : "Buggy",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Roger Pirates",
+  "effect" : "[On Play] Up to 1 of your Characters with a type including \"Roger Pirates\" other than [Buggy] gains [Blocker] until the end of your opponent's next End Phase.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

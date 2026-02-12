@@ -1,0 +1,16 @@
+{
+  "id" : "P-009",
+  "rarity" : "P",
+  "name" : "Trafalgar Law",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Heart Pirates",
+  "effect" : "[On Play] If your opponent has 6 or more cards in their hand, your opponent adds 1 card from their Life area to their hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

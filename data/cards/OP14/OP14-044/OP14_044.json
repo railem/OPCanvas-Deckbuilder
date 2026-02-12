@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-044",
+  "rarity" : "C",
+  "name" : "Edward.Newgate",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Special",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "The Four Emperors/Whitebeard Pirates",
+  "effect" : "[Blocker] [On Play] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", draw 2 cards and trash 1 card from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-060",
+  "rarity" : "L",
+  "name" : "Monkey.D.Luffy",
+  "category" : "LEADER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: If you have 0 or 3 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

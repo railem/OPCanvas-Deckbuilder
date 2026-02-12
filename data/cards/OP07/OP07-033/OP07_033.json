@@ -1,0 +1,18 @@
+{
+    "id": "OP07-033",
+    "name": "Monkey.D.Luffy",
+    "rarity": "UC",
+    "color": "Green",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Supernovas/Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "If you have 3 or more Characters, your Characters with a cost of 3 or less other than [Monkey.D.Luffy] cannot be K.O.'d by your opponent's effects.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

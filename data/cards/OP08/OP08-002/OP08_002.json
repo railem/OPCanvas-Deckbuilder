@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-002",
+  "rarity" : "L",
+  "name" : "Marco",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Red/Blue",
+  "blockIcon" : 2,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[DON!! x1] [Activate: Main] [Once Per Turn] Draw 1 card and place 1 card from your hand at the top or bottom of your deck. Then, give up to 1 of your opponent's Characters −2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "DON!!xX" ]
+}

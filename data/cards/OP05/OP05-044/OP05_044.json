@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-044",
+  "rarity" : "C",
+  "name" : "John Giant",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Slash",
+  "power" : 10000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Giant/Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

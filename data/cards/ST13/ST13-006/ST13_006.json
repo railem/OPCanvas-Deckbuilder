@@ -1,0 +1,16 @@
+{
+  "id" : "ST13-006",
+  "rarity" : "C",
+  "name" : "Curly.Dadan",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Mountain Bandits",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Play up to 1 each of [Sabo], [Portgas.D.Ace], and [Monkey.D.Luffy] with a cost of 2 from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

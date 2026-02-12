@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-110",
+  "rarity" : "C",
+  "name" : "Buffalo",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Donquixote Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

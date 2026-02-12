@@ -1,0 +1,16 @@
+{
+  "id" : "ST11-003",
+  "rarity" : "C",
+  "name" : "Backlight",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Music/FILM",
+  "effect" : "[Main] If your Leader is [Uta], choose one: • Rest up to 1 of your opponent's Characters with a cost of 5 or less. • K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+  "trigger" : "",
+  "keywords" : [ "Main" ]
+}

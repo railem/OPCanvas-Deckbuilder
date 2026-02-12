@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-113",
+  "rarity" : "UC",
+  "name" : "Roronoa Zoro",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Supernovas/Straw Hat Crew",
+  "effect" : "[On K.O.] If your Leader has the {Supernovas} type, play up to 1 {Supernovas} type Character card with a cost of 4 or less from your hand rested.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 1 or less and add this card to your hand.",
+  "keywords" : [ "On K.O." ]
+}

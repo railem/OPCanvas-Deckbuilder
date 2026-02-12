@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-095",
+  "rarity" : "C",
+  "name" : "Mr.9",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Baroque Works",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

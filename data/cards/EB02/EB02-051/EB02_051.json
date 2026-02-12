@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-051",
+  "rarity" : "C",
+  "name" : "Three-Pace Hum Soul Notch Slash",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Former Rumbar Pirates",
+  "effect" : "[Main] Choose one: • K.O. up to 1 of your opponent's Characters with a cost of 2 or less. • Give up to 1 of your opponent's Characters −4 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-081",
+  "rarity" : "C",
+  "name" : "Domino",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Impel Down",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger" : "",
+  "keywords" : [ "Blocker" ]
+}

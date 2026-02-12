@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-021",
+  "rarity" : "C",
+  "name" : "Igaram",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Alabasta",
+  "effect" : "[On Play] If your Leader is [Nefeltari Vivi], draw 2 cards and trash 1 card from your hand. [Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Activate: Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-101",
+  "rarity" : "C",
+  "name" : "Oars",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Strike",
+  "power" : 10000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Giant/Thriller Bark Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

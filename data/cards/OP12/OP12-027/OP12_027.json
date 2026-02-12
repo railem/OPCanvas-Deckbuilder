@@ -1,0 +1,19 @@
+{
+    "id": "OP12-027",
+    "name": "Koushirou",
+    "rarity": "UC",
+    "color": "Green",
+    "cost": 2,
+    "power": 1000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "East Blue/Frost Moon Village",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If your <Slash> attribute Character with a cost of 5 or less other than this Character would be K.O.'d by your opponent's effect, you may rest this Character instead. [Blocker]",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST27-001",
+  "rarity" : "C",
+  "name" : "Avalo Pizarro",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Blackbeard Pirates",
+  "effect" : "[Activate: Main] [Once Per Turn] You may rest 1 of your [Fullalead] cards: If your Leader has the {Blackbeard Pirates} type, this Character gains +4000 power during this turn. [On K.O.] Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "On K.O." ]
+}

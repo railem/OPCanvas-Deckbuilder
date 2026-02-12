@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-017",
+  "rarity" : "C",
+  "name" : "Chambres",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "The Seven Warlords of the Sea/Supernovas/Heart Pirates",
+  "effect" : "[Main] Select 2 of your opponent's Characters with 9000 base power or less. Swap the base power of the selected Characters with each other during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Main" ]
+}

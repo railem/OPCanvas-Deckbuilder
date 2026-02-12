@@ -1,0 +1,16 @@
+{
+  "id" : "ST29-011",
+  "rarity" : "C",
+  "name" : "Brook",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Straw Hat Crew",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger" : "",
+  "keywords" : [ "Blocker" ]
+}

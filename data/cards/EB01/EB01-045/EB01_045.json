@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-045",
+  "rarity" : "C",
+  "name" : "Brook",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Rumbar Pirates",
+  "effect" : "[On Play] If your opponent has a Character with a cost of 0, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+  "trigger" : "",
+  "keywords" : [ "Rush", "On Play" ]
+}

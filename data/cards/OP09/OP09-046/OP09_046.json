@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-046",
+  "rarity" : "SR",
+  "name" : "Crocodile",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Cross Guild/Former Baroque Works",
+  "effect" : "[On Play] Play up to 1 {Cross Guild} type Character card or Character card with a type including \"Baroque Works\" with a cost of 5 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

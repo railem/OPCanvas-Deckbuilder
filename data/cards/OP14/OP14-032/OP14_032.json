@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-032",
+  "rarity" : "UC",
+  "name" : "Humandrill",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Animal/Muggy Kingdom",
+  "effect" : "[Your Turn] When this Character becomes rested, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

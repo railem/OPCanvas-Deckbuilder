@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-050",
+  "rarity" : "C",
+  "name" : "Boa Sandersonia",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Kuja Pirates",
+  "effect" : "[On Play] If you have 2 or more {Amazon Lily} or {Kuja Pirates} type Characters on your field, return up to 1 of your opponent's Characters with a cost of 3 or less to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

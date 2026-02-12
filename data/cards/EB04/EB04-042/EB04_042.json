@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-042",
+  "rarity" : "C",
+  "name" : "Alpha",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "CP8",
+  "effect" : "[On Play] You may trash 3 cards from the top of your deck: Give up to 1 of your opponent's Characters −1 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

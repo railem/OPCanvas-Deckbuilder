@@ -1,0 +1,19 @@
+{
+    "id": "OP01-102",
+    "name": "Jack",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 3,
+    "power": 4000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Animal Kingdom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent trashes 1 card from their hand.",
+    "trigger": "",
+    "keywords": [
+        "When Attacking",
+        "DON!! -X"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "OP04-071",
+    "name": "Mr.4(Babe)",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Baroque Works",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Your Opponent's Attack] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Blocker] and +1000 power during this battle. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Your Opponent's Attack",
+        "DON!! -X"
+    ]
+}

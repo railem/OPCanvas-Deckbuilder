@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-105",
+  "rarity" : "C",
+  "name" : "Cavendish",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Dressrosa/Supernovas/Beautiful Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

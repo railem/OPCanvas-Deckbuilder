@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-079",
+  "rarity" : "R",
+  "name" : "Ms. All Sunday",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Baroque Works",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader has the {Baroque Works} type, add up to 1 Event from your trash to your hand.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On K.O." ]
+}

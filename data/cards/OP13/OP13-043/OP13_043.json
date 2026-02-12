@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-043",
+  "rarity" : "R",
+  "name" : "Otama",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Land of Wano",
+  "effect" : "[On Play] If you have 3 or less Life cards, draw 2 cards and trash 1 card from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-043",
+  "rarity" : "R",
+  "name" : "Aladine",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Merfolk/The Sun Pirates",
+  "effect" : "[On Play] Play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 3 or less from your hand. [On K.O.] Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

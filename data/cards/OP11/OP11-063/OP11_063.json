@@ -1,0 +1,19 @@
+{
+    "id": "OP11-063",
+    "name": "Little Sadi",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 2,
+    "power": 2000,
+    "attribute": "Wisdom",
+    "counter": 2000,
+    "type": "Impel Down",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Impel Down} type, rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

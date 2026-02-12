@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-099",
+  "rarity" : "L",
+  "name" : "Charlotte Katakuri",
+  "category" : "LEADER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates",
+  "effect" : "[DON!! x1] [When Attacking] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, this Leader gains +1000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

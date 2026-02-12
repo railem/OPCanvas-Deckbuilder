@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-113",
+  "rarity" : "UC",
+  "name" : "Roronoa Zoro",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Egghead/Straw Hat Crew",
+  "effect" : "-",
+  "trigger" : "[Trigger] If your Leader has the {Egghead} type, rest up to 1 of your opponent's Leader or Character cards.",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-068",
+  "rarity" : "C",
+  "name" : "Charlotte Perospero",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "Big Mom Pirates",
+  "effect" : "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "[Trigger] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+  "keywords" : [ "On K.O." ]
+}

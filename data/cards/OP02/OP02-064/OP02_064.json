@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-064",
+  "rarity" : "R",
+  "name" : "Mr.2.Bon.Kurei(Bentham)",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Impel Down/Former Baroque Works",
+  "effect" : "[DON!! x1] [When Attacking] You may trash 1 card from your hand: Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck. Then, at the end of this battle, place this Character at the bottom of the owner's deck.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

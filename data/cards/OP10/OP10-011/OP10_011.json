@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-011",
+  "rarity" : "R",
+  "name" : "Tony Tony.Chopper",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Punk Hazard/Straw Hat Crew",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] This Character gains +2000 power.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Opponents Turn" ]
+}

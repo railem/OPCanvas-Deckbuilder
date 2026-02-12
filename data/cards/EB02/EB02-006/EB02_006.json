@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-006",
+  "rarity" : "SR",
+  "name" : "Yamato",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Land of Wano",
+  "effect" : "[Activate: Main] [Once Per Turn] If your Leader has the {Land of Wano} type or is [Portgas.D.Ace], give up to 1 rested DON!! card to 1 of your Leader. Then, this Character gains [Rush] during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Rush", "Activate: Main" ]
+}

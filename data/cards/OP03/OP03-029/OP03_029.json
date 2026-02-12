@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-029",
+  "rarity" : "UC",
+  "name" : "Chew",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Ranged",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Fish-Man/East Blue/Arlong Pirates",
+  "effect" : "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "On Play" ]
+}

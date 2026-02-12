@@ -1,0 +1,19 @@
+{
+    "id": "OP03-053",
+    "name": "Yosaku & Johnny",
+    "rarity": "C",
+    "color": "Blue",
+    "cost": 1,
+    "power": 3000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "East Blue",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[DON!! x1] If you have 20 or less cards in your deck, this Character gains +2000 power.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

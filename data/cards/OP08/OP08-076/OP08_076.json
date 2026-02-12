@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-076",
+  "rarity" : "UC",
+  "name" : "It's to Die For...",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "The Four Emperors/Big Mom Pirates",
+  "effect" : "[Main] Add up to 1 DON!! card from your DON!! deck and set it as active. Then, if your opponent has a Character with 6000 power or more, add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger" : "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "keywords" : [ "Main" ]
+}

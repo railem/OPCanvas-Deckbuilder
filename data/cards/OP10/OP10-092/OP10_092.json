@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-092",
+  "rarity" : "C",
+  "name" : "Perona",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "[Activate: Main] [Once Per Turn] You may place 2 {Thriller Bark Pirates} type cards from your trash at the bottom of your deck in any order: Up to 1 of your Characters other than [Perona] gains +2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

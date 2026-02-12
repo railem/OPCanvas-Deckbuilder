@@ -1,0 +1,19 @@
+{
+    "id": "OP15-039",
+    "name": "Rebecca",
+    "rarity": "L",
+    "color": "Blue",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Wisdom",
+    "counter": null,
+    "type": "Dressrosa",
+    "category": "LEADER",
+    "blockIcon": "4",
+    "effect": "This Leader cannot attack\n[Activate: Main] You may rest this Leader and return 1 of your {Dressrosa} type Characters to your hand: play up to 1 {Dressrosa} type Character card with a cost of 3 from your hand. ",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Permanent"
+    ]
+}

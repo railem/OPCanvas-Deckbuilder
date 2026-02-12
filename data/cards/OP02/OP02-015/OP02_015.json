@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-015",
+  "rarity" : "UC",
+  "name" : "Makino",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Windmill Village",
+  "effect" : "[Activate: Main] You may rest this Character: Up to 1 of your red Characters with a cost of 1 gains +3000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

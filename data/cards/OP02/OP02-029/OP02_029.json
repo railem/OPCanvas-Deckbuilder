@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-029",
+  "rarity" : "R",
+  "name" : "Carrot",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Minks",
+  "effect" : "[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "End of Your Turn" ]
+}

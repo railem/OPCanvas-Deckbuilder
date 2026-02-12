@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-022",
+  "rarity" : "UC",
+  "name" : "Inuarashi",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Minks/The Akazaya Nine",
+  "effect" : "[On Play] If your Leader has the {Minks} type, up to 2 of your opponent's rested Characters with a cost of 5 or less will not become active in your opponent's next Refresh Phase.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

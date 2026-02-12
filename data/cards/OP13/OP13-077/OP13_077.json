@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-077",
+  "rarity" : "C",
+  "name" : "Go All the Way to the Top!!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Former Roger Pirates",
+  "effect" : "[Main] You may rest 3 of your DON!! cards: If you have any DON!! cards given, K.O. up to 1 of your opponent's Characters with 4000 base power or less and up to 1 of your opponent's Characters with 3000 base power or less. [Counter] Your Leader gains +3000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Counter", "Main" ]
+}

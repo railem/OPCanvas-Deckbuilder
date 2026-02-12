@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-029",
+  "rarity" : "R",
+  "name" : "Tashigi",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Navy",
+  "effect" : "[Opponent's Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your cards instead. [Activate: Main] [Once Per Turn] You may rest 2 of your cards: This Character gains +2000 power until the end of your opponent's next End Phase.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "Opponents Turn" ]
+}

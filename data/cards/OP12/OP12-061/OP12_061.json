@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-061",
+  "rarity" : "L",
+  "name" : "Donquixote Rosinante",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Purple/Yellow",
+  "blockIcon" : 3,
+  "type" : "Navy/Donquixote Pirates",
+  "effect" : "[Once Per Turn] If your [Trafalgar Law] would be K.O.'d, you may add 1 card from the top of your Life cards to your hand instead. [Activate: Main] [Once Per Turn] DON!! −1: The next time you play [Trafalgar Law] with a cost of 4 or more from your hand during this turn, the cost will be reduced by 2.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

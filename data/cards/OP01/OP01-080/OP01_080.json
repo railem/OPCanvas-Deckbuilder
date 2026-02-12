@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-080",
+  "rarity" : "C",
+  "name" : "Miss Doublefinger(Zala)",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Baroque Works",
+  "effect" : "[On K.O.] Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

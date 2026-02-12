@@ -1,0 +1,16 @@
+{
+  "id" : "P-102",
+  "rarity" : "P",
+  "name" : "Nami",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Egghead/Straw Hat Crew",
+  "effect" : "[On Play] If your Leader has the {Straw Hat Crew} type, set up to 2 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

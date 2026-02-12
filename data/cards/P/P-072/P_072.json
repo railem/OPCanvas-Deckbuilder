@@ -1,0 +1,16 @@
+{
+  "id" : "P-072",
+  "rarity" : "P",
+  "name" : "Ryuma",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Monsters",
+  "effect" : "[On Play]/[On K.O.] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

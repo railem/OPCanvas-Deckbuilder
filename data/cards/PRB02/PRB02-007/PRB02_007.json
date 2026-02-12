@@ -1,0 +1,16 @@
+{
+  "id" : "PRB02-007",
+  "rarity" : "R",
+  "name" : "Jinbe",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Fish-Man/The Seven Warlords of the Sea/The Sun Pirates",
+  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {The Seven Warlords of the Sea} type card other than [Jinbe] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [When Attacking] Place up to 1 Character with a cost of 1 or less at the bottom of the owner's deck.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-005",
+  "rarity" : "SR",
+  "name" : "Sanji",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Punk Hazard/Straw Hat Crew",
+  "effect" : "[Your Turn] This Character gains +3000 power. [On K.O.] Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On K.O.", "Your Turn" ]
+}

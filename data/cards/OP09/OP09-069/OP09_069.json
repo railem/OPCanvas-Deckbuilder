@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-069",
+  "rarity" : "R",
+  "name" : "Trafalgar Law",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Heart Pirates",
+  "effect" : "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} or {Heart Pirates} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-006",
+  "rarity" : "UC",
+  "name" : "Koza",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Alabasta",
+  "effect" : "[When Attacking] You may give your 1 active Leader −5000 power during this turn: This Character gains +2000 power until the start of your next turn.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

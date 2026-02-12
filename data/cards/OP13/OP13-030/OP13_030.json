@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-030",
+  "rarity" : "UC",
+  "name" : "Tony Tony.Chopper",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Animal/FILM/Straw Hat Crew",
+  "effect" : "[On Play] Set up to 2 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

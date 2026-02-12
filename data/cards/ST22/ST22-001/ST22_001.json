@@ -1,0 +1,16 @@
+{
+  "id" : "ST22-001",
+  "rarity" : "L",
+  "name" : "Ace & Newgate",
+  "category" : "LEADER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "The Four Emperors/Whitebeard Pirates",
+  "effect" : "[Activate: Main] [Once Per Turn] You may reveal 1 card with a type including \"Whitebeard Pirates\" from your hand: Draw 1 card and place the revealed card at the top of your deck.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-028",
+  "rarity" : "UC",
+  "name" : "Nekomamushi",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Minks/The Akazaya Nine",
+  "effect" : "[On Play] If your opponent has 7 or more rested cards, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+  "trigger" : "",
+  "keywords" : [ "Rush", "On Play" ]
+}

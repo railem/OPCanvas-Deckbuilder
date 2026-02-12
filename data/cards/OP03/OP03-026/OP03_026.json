@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-026",
+  "rarity" : "UC",
+  "name" : "Kuroobi",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Fish-Man/East Blue/Arlong Pirates",
+  "effect" : "[On Play] If your Leader has the {East Blue} type, rest up to 1 of your opponent's Characters.",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-005",
+  "rarity" : "C",
+  "name" : "Gasparde",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "FILM/Former Navy/Gasparde Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

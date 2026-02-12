@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-064",
+  "rarity" : "R",
+  "name" : "Killer",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Kid Pirates",
+  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Kid Pirates} type card other than [Killer] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

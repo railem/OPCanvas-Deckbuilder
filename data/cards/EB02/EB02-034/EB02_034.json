@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-034",
+  "rarity" : "C",
+  "name" : "Komei",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Wisdom",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Navy/Foxy Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

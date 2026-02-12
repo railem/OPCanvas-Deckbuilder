@@ -1,0 +1,16 @@
+{
+  "id" : "PRB02-005",
+  "rarity" : "SR",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Supernovas/Straw Hat Crew",
+  "effect" : "[Your Turn] [On Play] If your Leader is multicolored and your opponent has 7 or less DON!! cards on their field, your opponent rests 1 of their active DON!! cards at the start of their next Main Phase.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Your Turn" ]
+}

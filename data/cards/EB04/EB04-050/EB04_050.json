@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-050",
+  "rarity" : "R",
+  "name" : "I'll Whip You Into Shape. ♡",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Navy/SWORD",
+  "effect" : "[Main] Up to 1 of your {SWORD} type Leader or Character cards can also attack active Characters during this turn. [Counter] Your Leader gains +3000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Counter", "Main" ]
+}

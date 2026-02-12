@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-084",
+  "rarity" : "UC",
+  "name" : "Mr.2.Bon.Kurei(Bentham)",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Baroque Works",
+  "effect" : "[DON!! x1] [When Attacking] Look at 5 cards from the top of your deck; reveal up to 1 {Baroque Works} type Event card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

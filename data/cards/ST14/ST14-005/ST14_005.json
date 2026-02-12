@@ -1,0 +1,16 @@
+{
+  "id" : "ST14-005",
+  "rarity" : "C",
+  "name" : "Tony Tony.Chopper",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Wisdom",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Animal/Straw Hat Crew",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

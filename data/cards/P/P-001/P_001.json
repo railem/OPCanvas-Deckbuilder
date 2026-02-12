@@ -1,0 +1,16 @@
+{
+  "id" : "P-001",
+  "rarity" : "P",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Straw Hat Crew",
+  "effect" : "[DON!! x2] This Character gains [Rush]. (This card can attack on the turn in which it is played.)",
+  "trigger" : "",
+  "keywords" : [ "Rush", "DON!!xX" ]
+}

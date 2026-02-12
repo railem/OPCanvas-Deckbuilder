@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-047",
+  "rarity" : "R",
+  "name" : "Charlotte Pudding",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Big Mom Pirates",
+  "effect" : "[On Play] Your opponent returns all cards in their hand to their deck and shuffles their deck. Then, your opponent draws 5 cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

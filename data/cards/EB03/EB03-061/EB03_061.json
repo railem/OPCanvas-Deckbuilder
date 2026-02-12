@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-061",
+  "rarity" : "SEC",
+  "name" : "Uta",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Special",
+  "power" : 8000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "FILM",
+  "effect" : "[Activate: Main] [Once Per Turn] Set up to 1 of your DON!! cards as active. Then, rest up to 1 of your opponent's DON!! cards or Characters with a cost of 4 or less. [End of Your Turn] You may rest 1 of your DON!! cards: Set up to 1 of your {FILM} type Characters as active.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "End of Your Turn" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST16-004",
+  "rarity" : "SR",
+  "name" : "Shanks",
+  "category" : "CHARACTER",
+  "cost" : 9,
+  "attribute" : "Slash",
+  "power" : 11000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "FILM/The Four Emperors/Red-Haired Pirates",
+  "effect" : "[On Play] K.O. up to 1 of your opponent's rested Characters.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

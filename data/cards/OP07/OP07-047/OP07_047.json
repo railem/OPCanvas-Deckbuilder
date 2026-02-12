@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-047",
+  "rarity" : "R",
+  "name" : "Trafalgar Law",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "The Seven Warlords of the Sea/Heart Pirates",
+  "effect" : "[Activate: Main] You may return this Character to the owner's hand: If your opponent has 6 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

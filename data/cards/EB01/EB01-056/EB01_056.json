@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-056",
+  "rarity" : "R",
+  "name" : "Charlotte Flampe",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Big Mom Pirates",
+  "effect" : "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

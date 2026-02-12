@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-019",
+  "rarity" : "C",
+  "name" : "Bartolomeo",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Barto Club",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x2] [Opponent's Turn] This Character gains +3000 power.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "DON!!xX", "Opponents Turn" ]
+}

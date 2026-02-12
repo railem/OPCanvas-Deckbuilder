@@ -1,0 +1,16 @@
+{
+  "id" : "P-073",
+  "rarity" : "P",
+  "name" : "Sabo",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Dressrosa/Revolutionary Army",
+  "effect" : "[Activate: Main] [Once Per Turn] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +1000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

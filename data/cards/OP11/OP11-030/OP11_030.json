@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-030",
+  "rarity" : "R",
+  "name" : "Shirahoshi",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Merfolk/Fish-Man Island",
+  "effect" : "[Activate: Main] You may rest 1 of your DON!! cards and this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Neptunian} or {Fish-Man Island} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

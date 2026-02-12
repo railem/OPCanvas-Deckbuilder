@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-108",
+  "rarity" : "C",
+  "name" : "Nola",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Animal/Sky Island",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

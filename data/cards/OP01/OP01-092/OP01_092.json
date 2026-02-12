@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-092",
+  "rarity" : "C",
+  "name" : "Urashima",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Strike",
+  "power" : 9000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Land of Wano",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "P-094",
+  "rarity" : "P",
+  "name" : "Roronoa Zoro",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Straw Hat Crew",
+  "effect" : "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

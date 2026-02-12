@@ -1,0 +1,20 @@
+{
+    "id": "OP15-011",
+    "name": "Pearl",
+    "rarity": "R",
+    "color": "Red",
+    "cost": 4,
+    "power": 4000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "East Blue / Krieg Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[Opponent’s Turn] If your Leader has the {East Blue} type, this card gains [Blocker] and +2000 power.\n\n[On K.O.] If your Leader has the {East Blue} type, K.O. up to 1 of your opponent’s Characters with a base power of 6000 or less.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On K.O.",
+        "Opponents Turn"
+    ]
+}

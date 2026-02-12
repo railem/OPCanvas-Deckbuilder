@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-003",
+  "rarity" : "UC",
+  "name" : "Inazuma",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Revolutionary Army",
+  "effect" : "If you have a Character with 7000 power or more other than this Character, this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
+  "trigger" : "",
+  "keywords" : [ "Rush" ]
+}

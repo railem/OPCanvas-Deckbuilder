@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-036",
+  "rarity" : "C",
+  "name" : "Strive to Surpass me, Roronoa Zoro!!!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "East Blue/The Seven Warlords of the Sea",
+  "effect" : "[Counter] You may rest 1 of your cards: Up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+  "trigger" : "[Trigger] You may rest 1 of your cards: Rest up to 1 of your opponent's Characters with 7000 base power or less.",
+  "keywords" : [ "Counter" ]
+}

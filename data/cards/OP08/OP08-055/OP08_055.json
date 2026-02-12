@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-055",
+  "rarity" : "UC",
+  "name" : "Phoenix Brand",
+  "category" : "EVENT",
+  "cost" : 4,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Former Whitebeard Pirates",
+  "effect" : "[Main] You may reveal 2 cards with a type including \"Whitebeard Pirates\" from your hand: Place up to 1 Character with a cost of 6 or less at the bottom of the owner's deck.",
+  "trigger" : "",
+  "keywords" : [ "Main" ]
+}

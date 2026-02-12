@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-010",
+  "rarity" : "C",
+  "name" : "Lord of the Coast",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Neptunian/East Blue",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

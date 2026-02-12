@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-022",
+  "rarity" : "L",
+  "name" : "Arlong",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Green/Yellow",
+  "blockIcon" : 1,
+  "type" : "Fish-Man/East Blue/Arlong Pirates",
+  "effect" : "[DON!! x2] [When Attacking] ① (You may rest the specified number of DON!! cards in your cost area.): Play up to 1 Character card with a cost of 4 or less and a [Trigger] from your hand.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

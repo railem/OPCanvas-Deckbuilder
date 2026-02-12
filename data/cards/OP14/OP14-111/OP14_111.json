@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-111",
+  "rarity" : "R",
+  "name" : "Perona",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "[On Play]/[On K.O.] Up to 1 of your opponent's Characters with a cost of 6 or less cannot attack until the end of your opponent's next End Phase.",
+  "trigger" : "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+  "keywords" : [ "On Play", "On K.O." ]
+}

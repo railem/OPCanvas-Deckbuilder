@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-095",
+  "rarity" : "UC",
+  "name" : "Iron Body Fang Flash",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Animal Kingdom Pirates/Former CP9",
+  "effect" : "[Main] If you have 10 or more cards in your trash, up to 1 of your Characters gains +2000 power until the end of your opponent's next turn.",
+  "trigger" : "[Trigger] Up to 1 of your Leader or Character cards gains +2000 power during this turn.",
+  "keywords" : [ "Main" ]
+}

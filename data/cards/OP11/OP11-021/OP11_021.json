@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-021",
+  "rarity" : "L",
+  "name" : "Jinbe",
+  "category" : "LEADER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Fish-Man/Straw Hat Crew",
+  "effect" : "[End of Your Turn] If you have 6 or less cards in your hand, set up to 1 of your {Fish-Man} or {Merfolk} type Characters and up to 1 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "End of Your Turn" ]
+}

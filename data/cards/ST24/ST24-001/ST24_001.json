@@ -1,0 +1,16 @@
+{
+  "id" : "ST24-001",
+  "rarity" : "C",
+  "name" : "Capone\"Gang\"Bege",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Ranged",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Supernovas/Firetank Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you have 6 or more rested cards, draw 1 card and trash 1 card from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

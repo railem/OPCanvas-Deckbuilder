@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-077",
+  "rarity" : "C",
+  "name" : "Bellamy",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Donquixote Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] You may rest 2 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Block" ]
+}

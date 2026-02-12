@@ -1,0 +1,16 @@
+{
+  "id" : "ST28-003",
+  "rarity" : "C",
+  "name" : "Kin'emon",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Land of Wano/The Akazaya Nine",
+  "effect" : "-",
+  "trigger" : "[Trigger] If your Leader has the {Land of Wano} type and your opponent has 3 or less Life cards, play this card.",
+  "keywords" : [ ]
+}

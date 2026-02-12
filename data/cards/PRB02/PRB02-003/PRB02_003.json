@@ -1,0 +1,16 @@
+{
+  "id" : "PRB02-003",
+  "rarity" : "R",
+  "name" : "Lucky.Roux",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Ranged",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Red-Haired Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] You may trash 1 Character card with 6000 power or more from your hand: Draw 2 cards.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

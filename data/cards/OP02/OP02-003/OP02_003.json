@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-003",
+  "rarity" : "C",
+  "name" : "Atmos",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Whitebeard Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

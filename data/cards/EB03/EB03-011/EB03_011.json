@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-011",
+  "rarity" : "C",
+  "name" : "But If We Ever See Each Other Again... Will You Call Me Your Shipmate?!!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Alabasta",
+  "effect" : "[Counter] If your Leader is [Nefeltari Vivi], up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+  "trigger" : "[Trigger] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+  "keywords" : [ "Counter" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-088",
+  "rarity" : "UC",
+  "name" : "Hajrudin",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Giant/Dressrosa/New Giant Pirates",
+  "effect" : "[Activate: Main] You may rest your 1 Leader: Give up to 1 of your opponent's Characters −4 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

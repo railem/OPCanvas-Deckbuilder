@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-048",
+  "rarity" : "UC",
+  "name" : "Bastille",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[DON!! x1] [When Attacking] Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

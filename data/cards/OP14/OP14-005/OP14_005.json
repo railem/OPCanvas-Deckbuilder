@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-005",
+  "rarity" : "C",
+  "name" : "Killer",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Supernovas/Kid Pirates",
+  "effect" : "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

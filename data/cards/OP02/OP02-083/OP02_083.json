@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-083",
+  "rarity" : "R",
+  "name" : "Hannyabal",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Impel Down",
+  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Impel Down} type card other than [Hannyabal] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

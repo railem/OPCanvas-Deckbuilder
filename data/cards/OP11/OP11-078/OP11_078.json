@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-078",
+  "rarity" : "UC",
+  "name" : "Decuplets",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Wisdom",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Big Mom Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

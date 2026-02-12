@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-021",
+  "rarity" : "C",
+  "name" : "Alvida",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Cross Guild",
+  "effect" : "[On Play] You may trash 1 card from your hand: Place up to 1 of your opponent's Characters with 4000 base power or less and up to 1 Character with a base cost of 3 or less at the bottom of the owner's deck.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

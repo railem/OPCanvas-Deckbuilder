@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-118",
+  "rarity" : "R",
+  "name" : "You'll Frighten Me... ♡",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "The Seven Warlords of the Sea/Kuja Pirates",
+  "effect" : "[Counter] If you have 2 or less Life cards, up to 1 of your opponent's active Characters cannot attack during this turn.",
+  "trigger" : "[Trigger] Play up to 1 Character card with 6000 power or less and a [Trigger] from your hand.",
+  "keywords" : [ "Counter" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-014",
+  "rarity" : "R",
+  "name" : "Sanji",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "FILM/Straw Hat Crew",
+  "effect" : "[DON!! x1] [Your Turn] This Character gains +1000 power for every 3 of your rested DON!! cards.",
+  "trigger" : "",
+  "keywords" : [ "DON!!xX", "Your Turn" ]
+}

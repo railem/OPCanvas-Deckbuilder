@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-083",
+  "rarity" : "UC",
+  "name" : "Sheepshead",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Animal Kingdom Pirates/SMILE",
+  "effect" : "[DON!! x1] [Your Turn] Give all of your opponent's Characters −1 cost.",
+  "trigger" : "",
+  "keywords" : [ "DON!!xX", "Your Turn" ]
+}

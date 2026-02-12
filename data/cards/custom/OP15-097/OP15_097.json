@@ -1,0 +1,18 @@
+{
+    "id": "OP15-097",
+    "name": "It's embarrassing as a human being",
+    "rarity": "C",
+    "color": "Black",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Straw Hat Crew",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] If you have 10 or more cards in your trash, up to 1 of your opponent's characters with an original cost of 5 or less cannot attack until the end of your opponent's next End Phase.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "keywords": [
+        "Main"
+    ]
+}

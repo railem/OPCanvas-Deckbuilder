@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-035",
+  "rarity" : "R",
+  "name" : "Spiderweb",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea/Donquixote Pirates",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, set up to 1 of your Characters as active.",
+  "trigger" : "[Trigger] Up to 1 of your Leader gains +2000 power during this turn.",
+  "keywords" : [ "Counter" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-049",
+  "rarity" : "R",
+  "name" : "Carrot",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Minks",
+  "effect" : "[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order. [On Your Opponent's Attack] You may trash this Character: Up to 1 of your Leader gains +1000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On Your Opponent's Attack" ]
+}

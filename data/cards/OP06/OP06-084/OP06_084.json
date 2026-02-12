@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-084",
+  "rarity" : "C",
+  "name" : "Jigoro of the Wind",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "[On K.O.] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

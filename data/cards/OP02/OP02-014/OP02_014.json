@@ -1,0 +1,19 @@
+{
+    "id": "OP02-014",
+    "name": "Whitey Bay",
+    "rarity": "UC",
+    "color": "Red",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Whitebeard Pirates Allies",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[DON!! x1] This Character can also attack your opponent's active Characters.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

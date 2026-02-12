@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-036",
+  "rarity" : "R",
+  "name" : "Ryuma",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Land of Wano/Thriller Bark Pirates",
+  "effect" : "[On Play]/[On K.O.] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

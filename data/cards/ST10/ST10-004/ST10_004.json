@@ -1,0 +1,16 @@
+{
+  "id" : "ST10-004",
+  "rarity" : "C",
+  "name" : "Sanji",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Straw Hat Crew",
+  "effect" : "[On Play] If your opponent has a Character with 5000 or more power, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+  "trigger" : "",
+  "keywords" : [ "Rush", "On Play" ]
+}

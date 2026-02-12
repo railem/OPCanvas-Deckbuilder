@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-001",
+  "rarity" : "L",
+  "name" : "Uta",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Red/Purple",
+  "blockIcon" : 2,
+  "type" : "FILM",
+  "effect" : "[When Attacking] You may trash 1 {FILM} type card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn. Then, add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

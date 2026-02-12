@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-037",
+  "rarity" : "R",
+  "name" : "For Fun",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "East Blue/The Seven Warlords of the Sea",
+  "effect" : "[Main] You may rest 3 of your cards: K.O. up to 1 of your opponent's rested Characters with 7000 base power or less. [Counter] Your Leader gains +3000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Counter", "Main" ]
+}

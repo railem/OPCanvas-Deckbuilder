@@ -1,0 +1,16 @@
+{
+  "id" : "ST12-015",
+  "rarity" : "C",
+  "name" : "Patty & Carne",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "East Blue",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

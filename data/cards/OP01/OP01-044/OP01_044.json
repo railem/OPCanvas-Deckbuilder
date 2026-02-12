@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-044",
+  "rarity" : "C",
+  "name" : "Shachi",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Heart Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you don't have [Penguin], play up to 1 [Penguin] from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

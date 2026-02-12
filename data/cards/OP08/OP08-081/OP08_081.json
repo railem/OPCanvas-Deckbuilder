@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-081",
+  "rarity" : "C",
+  "name" : "Guernica",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "CP0",
+  "effect" : "[When Attacking] You may place 3 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

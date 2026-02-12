@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-038",
+  "rarity" : "L",
+  "name" : "Boa Hancock",
+  "category" : "LEADER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "The Seven Warlords of the Sea/Kuja Pirates",
+  "effect" : "[Your Turn] [Once Per Turn] This effect can be activated when a Character is removed from the field by your effect. If you have 5 or less cards in your hand, draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

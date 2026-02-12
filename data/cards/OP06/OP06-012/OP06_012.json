@@ -1,0 +1,18 @@
+{
+    "id": "OP06-012",
+    "name": "Bear.King",
+    "rarity": "UC",
+    "color": "Red",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "FILM/Trump Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "If your opponent has a Leader or Character with a base power of 6000 or more, this Character cannot be K.O.'d in battle.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

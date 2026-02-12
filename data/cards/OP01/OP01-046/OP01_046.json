@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-046",
+  "rarity" : "R",
+  "name" : "Denjiro",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Land of Wano/The Akazaya Nine",
+  "effect" : "[DON!! x1] [When Attacking] If your Leader is [Kouzuki Oden], set up to 2 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

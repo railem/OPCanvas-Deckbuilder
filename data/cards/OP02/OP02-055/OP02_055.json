@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-055",
+  "rarity" : "C",
+  "name" : "Dracule Mihawk",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

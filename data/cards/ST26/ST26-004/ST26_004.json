@@ -1,0 +1,19 @@
+{
+    "id": "ST26-004",
+    "name": "General Franky",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 8,
+    "power": 10000,
+    "attribute": "Ranged",
+    "counter": null,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 2 of your opponent's Characters −2000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "OP04-063",
+    "name": "Franky",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 1,
+    "power": 1000,
+    "attribute": "Wisdom",
+    "counter": 2000,
+    "type": "Water Seven/The Franky Family",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, up to 1 of your Leader or Character cards gains +1000 power during this battle.",
+    "trigger": "",
+    "keywords": [
+        "On Your Opponent's Attack",
+        "DON!! -X"
+    ]
+}

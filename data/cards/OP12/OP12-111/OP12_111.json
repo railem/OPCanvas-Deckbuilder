@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-111",
+  "rarity" : "C",
+  "name" : "Baby 5",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Donquixote Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

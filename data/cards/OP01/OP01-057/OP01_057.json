@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-057",
+  "rarity" : "UC",
+  "name" : "Paradise Waterfall",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Land of Wano/Kouzuki Clan",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, set up to 1 of your Characters as active.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+  "keywords" : [ "Counter" ]
+}

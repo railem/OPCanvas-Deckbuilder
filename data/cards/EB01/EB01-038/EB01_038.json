@@ -1,0 +1,19 @@
+{
+    "id": "EB01-038",
+    "name": "Oh Come My Way",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Baroque Works",
+    "category": "EVENT",
+    "blockIcon": "2",
+    "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", select 1 of your Characters. Change the attack target to the selected Character.",
+    "trigger": "[Trigger] DON!! −1: Draw 2 cards.",
+    "keywords": [
+        "DON!! -X",
+        "Counter"
+    ]
+}

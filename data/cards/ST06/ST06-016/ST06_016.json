@@ -1,0 +1,16 @@
+{
+  "id" : "ST06-016",
+  "rarity" : "C",
+  "name" : "White Out",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+  "trigger" : "[Trigger] Draw 1 card and none of your Characters can be K.O.'d during this turn.",
+  "keywords" : [ "Counter" ]
+}

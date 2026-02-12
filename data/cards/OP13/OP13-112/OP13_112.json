@@ -1,0 +1,19 @@
+{
+    "id": "OP13-112",
+    "name": "Vegapunk",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 1,
+    "power": 1000,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Egghead/Scientist",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If you have a total of 2 or more given DON!! cards, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "OP04-086",
+    "name": "Chinjao",
+    "rarity": "C",
+    "color": "Black",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Dressrosa/Happosui Army",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[DON!! x1] When this Character battles and K.O.'s your opponent's Character, draw 2 cards and trash 2 cards from your hand.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

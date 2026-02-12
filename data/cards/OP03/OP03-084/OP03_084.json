@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-084",
+  "rarity" : "C",
+  "name" : "Jerry",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "CP6",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

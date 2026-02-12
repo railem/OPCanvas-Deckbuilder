@@ -1,0 +1,19 @@
+{
+    "id": "OP06-083",
+    "name": "Oars",
+    "rarity": "UC",
+    "color": "Black",
+    "cost": 4,
+    "power": 7000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Giant/Thriller Bark Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "This Character cannot attack. [Activate: Main] You may K.O. 1 of your {Thriller Bark Pirates} type Characters: This Character's effect is negated during this turn.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Permanent"
+    ]
+}

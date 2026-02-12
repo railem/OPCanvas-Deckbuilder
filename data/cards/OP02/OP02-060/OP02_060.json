@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-060",
+  "rarity" : "C",
+  "name" : "Mohji",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Buggy Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

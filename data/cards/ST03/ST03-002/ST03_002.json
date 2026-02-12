@@ -1,0 +1,16 @@
+{
+  "id" : "ST03-002",
+  "rarity" : "C",
+  "name" : "Edward Weevil",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

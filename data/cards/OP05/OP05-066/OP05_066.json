@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-066",
+  "rarity" : "C",
+  "name" : "Jinbe",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Fish-Man/Straw Hat Crew",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] If you have 10 DON!! cards on your field, this Character gains +1000 power.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Opponents Turn" ]
+}

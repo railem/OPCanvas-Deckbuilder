@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-119",
+  "rarity" : "SEC",
+  "name" : "Trafalgar Law",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Slash",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Dressrosa/Supernovas/Heart Pirates",
+  "effect" : "[On Play] Reveal up to 1 {Supernovas} type Character card from your hand and add it to the top of your Life cards face-down. Then, give up to 1 rested DON!! card to 1 of your {Supernovas} type Leader.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-089",
+  "rarity" : "R",
+  "name" : "Brannew",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Navy} type card other than [Brannew] and add it to your hand. Then, trash the rest.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

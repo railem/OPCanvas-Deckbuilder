@@ -1,0 +1,18 @@
+{
+    "id": "OP11-023",
+    "name": "Arlong",
+    "rarity": "R",
+    "color": "Green",
+    "cost": 7,
+    "power": 7000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Fish-Man/Fish-Man Island/The Sun Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If your Leader has the {Fish-Man} type, you have 3 or less Life cards and your opponent has 5 or more rested cards, give this card in your hand −3 cost.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "keywords": [
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-038",
+  "rarity" : "R",
+  "name" : "Deathly Poison Gas Bomb MH5",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "East Blue/Krieg Pirates",
+  "effect" : "[Main] Rest up to 2 of your opponent's Characters with a cost of 2 or less.",
+  "trigger" : "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+  "keywords" : [ "Main" ]
+}

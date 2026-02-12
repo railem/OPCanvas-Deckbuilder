@@ -1,0 +1,16 @@
+{
+  "id" : "P-023",
+  "rarity" : "P",
+  "name" : "Yasopp",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Ranged",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "FILM/Red-Haired Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

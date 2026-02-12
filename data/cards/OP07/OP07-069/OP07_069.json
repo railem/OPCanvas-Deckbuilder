@@ -1,0 +1,18 @@
+{
+    "id": "OP07-069",
+    "name": "Pickles",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 3,
+    "power": 4000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Foxy Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, your {Foxy Pirates} type Characters other than [Pickles] cannot be K.O.'d by your opponent's effects.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

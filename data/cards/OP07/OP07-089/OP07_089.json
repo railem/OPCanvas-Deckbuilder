@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-089",
+  "rarity" : "C",
+  "name" : "Maha",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "CP0",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-056",
+  "rarity" : "SR",
+  "name" : "Monkey.D.Garp",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Strike",
+  "power" : 8000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "[On Play] You may trash 1 card from your hand: Play up to 1 blue {Navy} type Character card with 8000 power or less other than [Monkey.D.Garp] from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-098",
+  "rarity" : "C",
+  "name" : "Enies Lobby",
+  "category" : "STAGE",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "World Government",
+  "effect" : "[Activate: Main] You may rest this Stage: If your Leader's type includes \"CP\", give up to 1 of your opponent's Characters −2 cost during this turn.",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "Activate: Main" ]
+}

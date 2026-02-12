@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-052",
+  "rarity" : "UC",
+  "name" : "Raizo",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Land of Wano/The Akazaya Nine",
+  "effect" : "[When Attacking] [Once Per Turn] If you have 2 or more rested Characters, draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

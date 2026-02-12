@@ -1,0 +1,20 @@
+{
+    "id": "OP04-060",
+    "name": "Crocodile",
+    "rarity": "SR",
+    "color": "Purple",
+    "cost": 8,
+    "power": 9000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "The Seven Warlords of the Sea/Baroque Works",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 card from the top of your deck to the top of your Life cards. [On Your Opponent's Attack] [Once Per Turn] DON!! −1: Draw 1 card and trash 1 card from your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "On Your Opponent's Attack",
+        "DON!! -X"
+    ]
+}

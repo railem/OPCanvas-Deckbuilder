@@ -1,0 +1,16 @@
+{
+  "id" : "P-056",
+  "rarity" : "P",
+  "name" : "Roronoa Zoro",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Straw Hat Crew",
+  "effect" : "[On Play] ➁ (You may rest the specified number of DON!! cards in your cost area.): Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

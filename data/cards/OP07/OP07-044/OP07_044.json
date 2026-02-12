@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-044",
+  "rarity" : "C",
+  "name" : "Dracule Mihawk",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Slash",
+  "power" : 10000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "The Seven Warlords of the Sea",
+  "effect" : "[On Play] Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

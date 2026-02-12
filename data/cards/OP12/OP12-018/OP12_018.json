@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-018",
+  "rarity" : "R",
+  "name" : "Color of the Supreme King Haki",
+  "category" : "EVENT",
+  "cost" : null,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Former Roger Pirates",
+  "effect" : "[Counter] Up to 1 of your Characters or [Silvers Rayleigh] gains +2000 power during this battle. Then, you may rest 1 of your DON!! cards. If you do, give your opponent's Leader and all of their Characters −1000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Counter" ]
+}

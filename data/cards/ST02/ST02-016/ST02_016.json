@@ -1,0 +1,16 @@
+{
+  "id" : "ST02-016",
+  "rarity" : "C",
+  "name" : "Repel",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Kid Pirates",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, set up to 1 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "Counter" ]
+}

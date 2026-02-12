@@ -1,0 +1,16 @@
+{
+  "id" : "P-086",
+  "rarity" : "P",
+  "name" : "Trafalgar Law",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Red/Purple",
+  "blockIcon" : 3,
+  "type" : "Heart Pirates",
+  "effect" : "[Activate: Main] [Once Per Turn] DON!! −3, You may place 1 Character with 3000 power or more at the bottom of your deck: Play up to 1 {Heart Pirates} type Character card with a cost of 4 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

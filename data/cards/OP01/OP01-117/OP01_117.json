@@ -1,0 +1,19 @@
+{
+    "id": "OP01-117",
+    "name": "Sheep's Horn",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 2,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Animal Kingdom Pirates/SMILE",
+    "category": "EVENT",
+    "blockIcon": "1",
+    "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+    "trigger": "",
+    "keywords": [
+        "DON!! -X",
+        "Main"
+    ]
+}

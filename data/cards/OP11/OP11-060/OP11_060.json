@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-060",
+  "rarity" : "R",
+  "name" : "Let's Crash This Wedding!!!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Main] If your Leader is multicolored, look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Let's Crash This Wedding!!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Main" ]
+}

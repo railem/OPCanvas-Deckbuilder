@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-108",
+  "rarity" : "C",
+  "name" : "Mont Blanc Cricket",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Jaya/Monkey Mountain Alliance",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

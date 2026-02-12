@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-007",
+  "rarity" : "C",
+  "name" : "Caribou",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Caribou Pirates",
+  "effect" : "[On K.O.] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

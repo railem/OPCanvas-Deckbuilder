@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-072",
+  "rarity" : "R",
+  "name" : "Gum-Gum Jet Gatling",
+  "category" : "EVENT",
+  "cost" : null,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Water Seven/Straw Hat Crew",
+  "effect" : "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+  "trigger" : "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "keywords" : [ "Counter" ]
+}

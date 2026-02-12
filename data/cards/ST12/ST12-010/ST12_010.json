@@ -1,0 +1,16 @@
+{
+  "id" : "ST12-010",
+  "rarity" : "SR",
+  "name" : "Emporio.Ivankov",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Impel Down/Revolutionary Army",
+  "effect" : "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2. Then, place the rest at the top or bottom of your deck. [When Attacking] [Once Per Turn] Draw 1 card if you have 6 or less cards in your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking" ]
+}

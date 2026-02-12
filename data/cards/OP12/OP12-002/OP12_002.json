@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-002",
+  "rarity" : "UC",
+  "name" : "Edward.Newgate",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

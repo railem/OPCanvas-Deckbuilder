@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-020",
+  "rarity" : "C",
+  "name" : "LittleOars Jr.",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Strike",
+  "power" : 9000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Giant/Whitebeard Pirates Allies",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST12-007",
+  "rarity" : "C",
+  "name" : "Rika",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "East Blue",
+  "effect" : "[On Play] ➁ (You may rest the specified number of DON!! cards in your cost area.): If your opponent has 3 or more Life cards, set up to 1 of your <Slash> attribute Characters with a cost of 4 or less as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

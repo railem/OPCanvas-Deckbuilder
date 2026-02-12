@@ -1,0 +1,18 @@
+{
+    "id": "EB01-047",
+    "name": "Laboon",
+    "rarity": "C",
+    "color": "Black",
+    "cost": 2,
+    "power": 4000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Animal",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[Once Per Turn] When a Character is K.O.'d, draw 1 card and trash 1 card from your hand.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "OP03-043",
+    "name": "Gaimon",
+    "rarity": "C",
+    "color": "Blue",
+    "cost": 2,
+    "power": null,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "East Blue",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "When you deal damage to your opponent's Life, you may trash 3 cards from the top of your deck. If you do, trash this Character.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

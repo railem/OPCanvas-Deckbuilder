@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-087",
+  "rarity" : "C",
+  "name" : "Officer Agents",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Baroque Works",
+  "effect" : "[Counter] Play up to 1 {Baroque Works} type Character card with a cost of 3 or less from your hand.",
+  "trigger" : "[Trigger] Activate this card's [Counter] effect.",
+  "keywords" : [ "Counter" ]
+}

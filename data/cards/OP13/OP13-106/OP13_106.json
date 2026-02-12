@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-106",
+  "rarity" : "C",
+  "name" : "Conney",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Bonney Pirates",
+  "effect" : "[Opponent's Turn] When a [Trigger] activates, this Character gains [Blocker] during this turn.",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "Blocker", "Opponents Turn" ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "OP02-026",
+    "name": "Sanji",
+    "rarity": "L",
+    "color": "Green/Blue",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Straw Hat Crew",
+    "category": "LEADER",
+    "blockIcon": "1",
+    "effect": "[Once Per Turn] When you play a Character with no base effect from your hand, if you have 3 or less Characters, set up to 2 of your DON!! cards as active.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-010",
+  "rarity" : "UC",
+  "name" : "Nico Robin",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Straw Hat Crew",
+  "effect" : "[On Play] K.O. up to 1 of your opponent's Characters with 1000 power or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

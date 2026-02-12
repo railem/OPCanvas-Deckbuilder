@@ -1,0 +1,16 @@
+{
+  "id" : "P-059",
+  "rarity" : "P",
+  "name" : "The World's Continuation",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Music/FILM",
+  "effect" : "[Counter] If your Leader is [Uta], you may return any number of Characters on your field to the owner's hand. Up to 1 of your Leader or Character cards gains +2000 power during this battle for every returned Character.",
+  "trigger" : "",
+  "keywords" : [ "Counter" ]
+}

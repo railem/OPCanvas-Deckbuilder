@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-019",
+  "rarity" : "R",
+  "name" : "Eleclaw",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Minks",
+  "effect" : "[Main] You may rest 1 of your cards: If your Leader has the {Minks} type, give up to 1 of your opponent's Characters −3 cost during this turn. [Counter] Up to 1 of your {Minks} type Leader or Character cards gains +3000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Counter", "Main" ]
+}

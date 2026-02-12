@@ -1,0 +1,18 @@
+{
+    "id": "OP13-060",
+    "name": "Amatsuki Toki",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 2,
+    "power": 3000,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Land of Wano/Roger Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If your Character with a type including \"Roger Pirates\" would be K.O.'d by your opponent's effect, you may trash this Character instead.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

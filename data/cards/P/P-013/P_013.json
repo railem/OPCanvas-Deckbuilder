@@ -1,0 +1,16 @@
+{
+  "id" : "P-013",
+  "rarity" : "P",
+  "name" : "Gordon",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "FILM",
+  "effect" : "[Activate: Main] You may place this Character at the bottom of the owner's deck: Give up to 1 of your opponent's Characters −3000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

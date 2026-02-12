@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-115",
+  "rarity" : "C",
+  "name" : "Rindo",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Ranged",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Kuja Pirates",
+  "effect" : "[Opponent's Turn] [On K.O.] Add up to 1 card from the top of your deck to the top of your Life cards. Then, you take 1 damage.",
+  "trigger" : "[Trigger] If your Leader has the {Kuja Pirates} type, play this card.",
+  "keywords" : [ "On K.O.", "Opponents Turn" ]
+}

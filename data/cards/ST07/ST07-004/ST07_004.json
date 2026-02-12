@@ -1,0 +1,16 @@
+{
+  "id" : "ST07-004",
+  "rarity" : "C",
+  "name" : "Charlotte Snack",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates",
+  "effect" : "[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains [Banish] and +1000 power during this battle. (When this card deals damage, the target card is trashed without activating its Trigger.)",
+  "trigger" : "",
+  "keywords" : [ "Banish", "When Attacking", "DON!!xX" ]
+}

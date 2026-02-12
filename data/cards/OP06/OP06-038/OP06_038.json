@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-038",
+  "rarity" : "UC",
+  "name" : "The Billion-fold World Trichiliocosm",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Dressrosa/Straw Hat Crew",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 8 or more rested cards, that card gains an additional +2000 power during this battle.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+  "keywords" : [ "Counter" ]
+}

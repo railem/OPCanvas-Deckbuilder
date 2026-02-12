@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-104",
+  "rarity" : "R",
+  "name" : "Kikunojo",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Land of Wano/The Akazaya Nine",
+  "effect" : "[On K.O.] If your opponent has 3 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
+  "trigger" : "[Trigger] If your opponent has 3 or less Life cards, play this card.",
+  "keywords" : [ "On K.O." ]
+}

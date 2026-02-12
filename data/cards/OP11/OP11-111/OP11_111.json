@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-111",
+  "rarity" : "UC",
+  "name" : "Mamboshi",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Merfolk/Fish-Man Island",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

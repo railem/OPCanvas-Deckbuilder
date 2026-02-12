@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-071",
+  "rarity" : "R",
+  "name" : "Charlotte Pudding",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Big Mom Pirates",
+  "effect" : "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Sanji] or Event card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

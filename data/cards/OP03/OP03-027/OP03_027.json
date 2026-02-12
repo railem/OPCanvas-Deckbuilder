@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-027",
+  "rarity" : "C",
+  "name" : "Sham",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "East Blue/Black Cat Pirates",
+  "effect" : "[On Play] If your Leader has the {East Blue} type, rest up to 1 of your opponent's Characters with a cost of 2 or less and, if you don't have [Buchi], play up to 1 [Buchi] from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

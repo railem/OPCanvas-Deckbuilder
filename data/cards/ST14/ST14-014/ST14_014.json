@@ -1,0 +1,16 @@
+{
+  "id" : "ST14-014",
+  "rarity" : "C",
+  "name" : "Gum-Gum Giant Rifle",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Counter] If you have a Character with a cost of 8 or more, up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+  "trigger" : "[Trigger] Add up to 1 of your Character cards with a cost of 2 or less from your trash to your hand.",
+  "keywords" : [ "Counter" ]
+}

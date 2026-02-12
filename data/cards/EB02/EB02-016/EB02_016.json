@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-016",
+  "rarity" : "C",
+  "name" : "Chopperman",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Animal/Straw Hat Crew",
+  "effect" : "Also treat this card's name as [Tony Tony.Chopper] according to the rules. [On Play] Play up to 1 {Animal} type Character card with a cost of 3 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

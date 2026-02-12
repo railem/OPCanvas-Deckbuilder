@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-082",
+  "rarity" : "C",
+  "name" : "Issho",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Slash",
+  "power" : 10000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Dressrosa/Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

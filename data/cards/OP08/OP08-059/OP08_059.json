@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-059",
+  "rarity" : "UC",
+  "name" : "Alber",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "Lunarian/Animal Kingdom Pirates",
+  "effect" : "[Activate: Main] You may trash this Character: If your Leader has the {Animal Kingdom Pirates} type and you have 10 DON!! cards on your field, play up to 1 [King] with a cost of 7 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

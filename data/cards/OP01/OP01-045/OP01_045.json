@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-045",
+  "rarity" : "C",
+  "name" : "Jean Bart",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Heart Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

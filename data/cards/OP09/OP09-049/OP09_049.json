@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-049",
+  "rarity" : "C",
+  "name" : "Jozu",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST12-013",
+  "rarity" : "C",
+  "name" : "Zeff",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "East Blue",
+  "effect" : "[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order. [When Attacking] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2 rested. Then, place the rest at the top or bottom of your deck.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking" ]
+}

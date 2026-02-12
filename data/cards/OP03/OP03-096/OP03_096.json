@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-096",
+  "rarity" : "UC",
+  "name" : "Tempest Kick Sky Slicer",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "CP9",
+  "effect" : "[Main] K.O. up to 1 of your opponent's Characters with a cost of 0 or your opponent's Stages with a cost of 3 or less.",
+  "trigger" : "[Trigger] Draw 2 cards.",
+  "keywords" : [ "Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-109",
+  "rarity" : "C",
+  "name" : "Pagaya",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Sky Island",
+  "effect" : "[Once Per Turn] When a [Trigger] activates, draw 2 cards and trash 2 cards from your hand.",
+  "trigger" : "",
+  "keywords" : [ ]
+}

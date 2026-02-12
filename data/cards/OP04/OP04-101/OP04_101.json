@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-101",
+  "rarity" : "C",
+  "name" : "Carmel",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "The House of Lambs",
+  "effect" : "[Your Turn] [On Play] Draw 1 card.",
+  "trigger" : "[Trigger] Play this card. Then, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "keywords" : [ "On Play", "Your Turn" ]
+}

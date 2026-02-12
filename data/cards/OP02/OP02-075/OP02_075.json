@@ -1,0 +1,18 @@
+{
+    "id": "OP02-075",
+    "name": "Shiki",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 2,
+    "power": 3000,
+    "attribute": "Slash",
+    "counter": 2000,
+    "type": "FILM/Golden Lion Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "-",
+    "trigger": "[Trigger] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+    "keywords": [
+        "DON!! -X"
+    ]
+}

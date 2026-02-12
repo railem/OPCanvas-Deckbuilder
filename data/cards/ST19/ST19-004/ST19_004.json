@@ -1,0 +1,16 @@
+{
+  "id" : "ST19-004",
+  "rarity" : "SR",
+  "name" : "Hina",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "[DON!! x1] [Opponent's Turn] This Character gains +4 cost. [Activate: Main] [Once Per Turn] You may place 1 card from your trash at the bottom of your deck: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "DON!!xX", "Opponents Turn" ]
+}

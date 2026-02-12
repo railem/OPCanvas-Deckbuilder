@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-067",
+  "rarity" : "C",
+  "name" : "Jinbe",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Strike",
+  "power" : 9000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Fish-Man/Straw Hat Crew",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

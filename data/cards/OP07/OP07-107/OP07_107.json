@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-107",
+  "rarity" : "R",
+  "name" : "Franky",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Egghead/Straw Hat Crew",
+  "effect" : "-",
+  "trigger" : "[Trigger] Draw 1 card. Then, if you have 1 or less Life cards, play this card.",
+  "keywords" : [ ]
+}

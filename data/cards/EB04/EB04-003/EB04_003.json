@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-003",
+  "rarity" : "R",
+  "name" : "Smoker & Tashigi",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Slash/Special",
+  "power" : 8000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Punk Hazard/Navy",
+  "effect" : "[Rush] (This card can attack on the turn in which it is played.) [Opponent's Turn] Your {Navy} type Leader's base power becomes 7000.",
+  "trigger" : "",
+  "keywords" : [ "Rush", "Opponents Turn" ]
+}

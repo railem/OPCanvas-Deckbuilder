@@ -1,0 +1,16 @@
+{
+  "id" : "ST03-014",
+  "rarity" : "C",
+  "name" : "Marshall.D.Teach",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea/Blackbeard Pirates",
+  "effect" : "[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

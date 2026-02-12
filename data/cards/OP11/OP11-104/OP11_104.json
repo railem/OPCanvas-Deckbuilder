@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-104",
+  "rarity" : "R",
+  "name" : "Shirley",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Merfolk/Fish-Man Island",
+  "effect" : "[Blocker] [On Play] You may turn 1 card from the top of your Life cards face-down: Look at 3 cards from the top of your deck; reveal up to 1 {Fish-Man Island} type card and add it to your hand. Then, place the rest at the top or bottom of the deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

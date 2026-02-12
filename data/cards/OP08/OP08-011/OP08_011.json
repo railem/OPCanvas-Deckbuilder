@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-011",
+  "rarity" : "C",
+  "name" : "Musshuru",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "FILM/Drum Kingdom",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

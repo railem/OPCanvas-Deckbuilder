@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-084",
+  "rarity" : "SR",
+  "name" : "Ms. All Sunday",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Strike",
+  "power" : 8000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Baroque Works",
+  "effect" : "[On Play] If your Leader's type includes \"Baroque Works\", play up to 1 Character card with a type including \"Baroque Works\" and a cost of 4 or less and up to 1 Character card with a type including \"Baroque Works\" and a cost of 1 from your trash.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

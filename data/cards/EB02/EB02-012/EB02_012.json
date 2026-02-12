@@ -1,0 +1,19 @@
+{
+    "id": "EB02-012",
+    "name": "Gaimon",
+    "rarity": "C",
+    "color": "Green",
+    "cost": 1,
+    "power": 1000,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "East Blue",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If you have a [Sarfunkel], this Character gains [Blocker].",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

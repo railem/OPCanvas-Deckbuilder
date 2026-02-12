@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-025",
+  "rarity" : "C",
+  "name" : "Ishilly",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Merfolk/Fish-Man Island",
+  "effect" : "[On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards and this Character: Up to 1 of your Leader or Character cards gains +1000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "On Your Opponent's Attack" ]
+}

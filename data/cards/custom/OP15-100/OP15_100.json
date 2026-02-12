@@ -1,0 +1,18 @@
+{
+    "id": "OP15-100",
+    "name": "Kamakiri",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Sky Island / Shandian Warrior",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] You may trash this Character and add 1 card from the top of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 6 or less.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-087",
+  "rarity" : "C",
+  "name" : "Charlotte Pudding",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Big Mom Pirates",
+  "effect" : "[On Play] If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

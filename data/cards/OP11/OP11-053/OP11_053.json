@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-053",
+  "rarity" : "UC",
+  "name" : "Tony Tony.Chopper",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Animal/Straw Hat Crew",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

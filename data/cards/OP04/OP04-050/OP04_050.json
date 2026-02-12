@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-050",
+  "rarity" : "C",
+  "name" : "Hanger",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "East Blue",
+  "effect" : "[Activate: Main] You may trash 1 card from your hand and rest this Character: Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

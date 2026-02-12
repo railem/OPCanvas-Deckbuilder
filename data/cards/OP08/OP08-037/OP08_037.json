@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-037",
+  "rarity" : "UC",
+  "name" : "Garchu",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Minks",
+  "effect" : "[Main] You may rest 1 of your {Minks} type Characters: Rest up to 1 of your opponent's Characters.",
+  "trigger" : "[Trigger] Draw 1 card.",
+  "keywords" : [ "Main" ]
+}

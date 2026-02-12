@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-012",
+  "rarity" : "C",
+  "name" : "Sai",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Happosui Army",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

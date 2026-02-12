@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-047",
+  "rarity" : "C",
+  "name" : "Basil Hawkins",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Animal Kingdom Pirates/Hawkins Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] Draw 1 card if you have 3 or less cards in your hand. Then, this Character gains +1000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Block" ]
+}

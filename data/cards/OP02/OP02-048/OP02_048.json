@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-048",
+  "rarity" : "C",
+  "name" : "Land of Wano",
+  "category" : "STAGE",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Land of Wano",
+  "effect" : "[Activate: Main] You may trash 1 {Land of Wano} type card from your hand and rest this Stage: Set up to 1 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

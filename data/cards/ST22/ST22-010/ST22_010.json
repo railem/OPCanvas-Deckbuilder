@@ -1,0 +1,16 @@
+{
+  "id" : "ST22-010",
+  "rarity" : "C",
+  "name" : "Portgas.D.Ace",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-058",
+  "rarity" : "R",
+  "name" : "Lilith",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Wisdom",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Scientist",
+  "effect" : "[Your Turn] [On Play] If you have 2 or less Life cards, draw 1 card.",
+  "trigger" : "[Trigger] If your Leader is [Vegapunk], play this card.",
+  "keywords" : [ "On Play", "Your Turn" ]
+}

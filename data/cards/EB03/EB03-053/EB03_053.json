@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-053",
+  "rarity" : "SR",
+  "name" : "Nami",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Straw Hat Crew",
+  "effect" : "[On Play] Give up to 1 rested DON!! card to your Leader. Then, if your opponent has 3 or more Life cards, add up to 1 card from the top of your opponent's Life cards to the owner's hand. [On K.O.] You may turn 1 card from the top of your Life cards face-up: Play up to 1 Character card with 6000 power or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

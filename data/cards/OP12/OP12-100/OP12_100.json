@@ -1,0 +1,20 @@
+{
+    "id": "OP12-100",
+    "name": "Sabo",
+    "rarity": "R",
+    "color": "Yellow",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Dressrosa/Revolutionary Army",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If you have 3 or less Life cards, this Character gains [Blocker] and +3 cost. [On Play] You may add 1 card from the top of your Life cards to your hand: Draw 2 cards and trash 1 card from your hand.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Play",
+        "Permanent"
+    ]
+}

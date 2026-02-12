@@ -1,0 +1,16 @@
+{
+  "id" : "ST06-011",
+  "rarity" : "C",
+  "name" : "Momonga",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

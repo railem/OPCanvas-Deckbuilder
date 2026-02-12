@@ -1,0 +1,17 @@
+{
+    "id": "OP15-106",
+    "name": "Octopus Balloon",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 2,
+    "power": 0,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Animal / Sky Island",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "",
+    "trigger": "[Trigger] Draw 1 card. Then, play up to 1 yellow Character or Stage card with a cost of 2 or less from your hand.",
+    "keywords": [
+    ]
+}

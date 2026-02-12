@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-097",
+  "rarity" : "R",
+  "name" : "Six King Pistol",
+  "category" : "EVENT",
+  "cost" : null,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "CP9",
+  "effect" : "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+  "trigger" : "[Trigger] Draw 1 card. Then, K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+  "keywords" : [ "Counter" ]
+}

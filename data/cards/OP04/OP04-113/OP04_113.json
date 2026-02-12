@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-113",
+  "rarity" : "C",
+  "name" : "Rabiyan",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates/Homies",
+  "effect" : "-",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ ]
+}

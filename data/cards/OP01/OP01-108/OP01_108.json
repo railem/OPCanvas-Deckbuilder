@@ -1,0 +1,19 @@
+{
+    "id": "OP01-108",
+    "name": "Hitokiri Kamazo",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Supernovas/Kid Pirates/SMILE",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": "",
+    "keywords": [
+        "On K.O.",
+        "DON!! -X"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-058",
+  "rarity" : "C",
+  "name" : "Island of Women",
+  "category" : "STAGE",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Amazon Lily",
+  "effect" : "[Activate: Main] You may trash 1 card from your hand and rest this Stage: If your Leader has the {Kuja Pirates} type, return up to 1 of your {Amazon Lily} or {Kuja Pirates} type Characters to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

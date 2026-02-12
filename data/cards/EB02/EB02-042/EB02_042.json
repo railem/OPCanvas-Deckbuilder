@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-042",
+  "rarity" : "C",
+  "name" : "All-Hunt Grount",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-035",
+  "rarity" : "C",
+  "name" : "Brook",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY/Straw Hat Crew",
+  "effect" : "[On K.O.] Rest up to 1 of your opponent's Leader or Character cards with a cost of 5 or less.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

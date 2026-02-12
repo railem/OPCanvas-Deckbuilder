@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-094",
+  "rarity" : "R",
+  "name" : "Haute Couture Patch★Work",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "The Tontattas/Dressrosa",
+  "effect" : "[Main] Give up to 1 of your opponent's Characters −3 cost during this turn. Then, up to 1 of your opponent's Characters with a cost of 0 will not become active in the next Refresh Phase.",
+  "trigger" : "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+  "keywords" : [ "Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-052",
+  "rarity" : "C",
+  "name" : "Charlotte Lola",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Firetank Pirates/Former Rolling Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST22-013",
+  "rarity" : "C",
+  "name" : "LittleOars Jr.",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Giant/Whitebeard Pirates Allies",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

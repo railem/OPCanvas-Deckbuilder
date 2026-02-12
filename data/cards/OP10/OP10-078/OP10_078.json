@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-078",
+  "rarity" : "R",
+  "name" : "I Do Not Forgive Those Who Laugh at My Family!!!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "The Seven Warlords of the Sea/Donquixote Pirates",
+  "effect" : "[Main]/[Counter] Look at 3 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card other than [I Do Not Forgive Those Who Laugh at My Family!!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "Counter", "Main" ]
+}

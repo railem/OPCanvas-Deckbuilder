@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-037",
+  "rarity" : "UC",
+  "name" : "Flapping Thread",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea/Donquixote Pirates",
+  "effect" : "[Counter] If your Leader has the {Donquixote Pirates} type, up to 1 of your Leader or Character cards gains +2000 power during this turn.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+  "keywords" : [ "Counter" ]
+}

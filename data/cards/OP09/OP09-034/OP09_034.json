@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-034",
+  "rarity" : "R",
+  "name" : "Perona",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Muggy Kingdom/Thriller Bark Pirates",
+  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Dracule Mihawk] or {Thriller Bark Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order and trash 1 card from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

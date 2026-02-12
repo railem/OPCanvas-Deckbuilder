@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-091",
+  "rarity" : "UC",
+  "name" : "Victoria Cindry",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "[On Play] If your Leader has the {Thriller Bark Pirates} type, trash 5 cards from the top of your deck.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

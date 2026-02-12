@@ -1,0 +1,19 @@
+{
+    "id": "OP15-045",
+    "name": "Sai",
+    "rarity": "UC",
+    "color": "Blue",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Dressrosa / Happosui Army",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[Blocker]\n\n[On Play] You may trash 1 Event from your hand: Draw 2 cards. ",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Play"
+    ]
+}

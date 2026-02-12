@@ -1,0 +1,16 @@
+{
+  "id" : "ST22-012",
+  "rarity" : "C",
+  "name" : "Marco",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[Once Per Turn] If this Character would be K.O.'d by your opponent's effect, you may trash 1 card from your hand instead. [When Attacking] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", this Character gains +1000 power until the end of your opponent's next turn.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

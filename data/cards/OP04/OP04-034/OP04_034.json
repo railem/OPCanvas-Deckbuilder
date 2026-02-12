@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-034",
+  "rarity" : "UC",
+  "name" : "Lao.G",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Donquixote Pirates",
+  "effect" : "[End of Your Turn] If you have 3 or more active DON!! cards, K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+  "trigger" : "",
+  "keywords" : [ "End of Your Turn" ]
+}

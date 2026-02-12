@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-051",
+  "rarity" : "R",
+  "name" : "Finger Pistol",
+  "category" : "EVENT",
+  "cost" : 4,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "CP9",
+  "effect" : "[Main] You may trash 2 cards from the top of your deck: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Main" ]
+}

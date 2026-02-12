@@ -1,0 +1,18 @@
+{
+    "id": "EB04-005",
+    "name": "Trafalgar Law",
+    "rarity": "C",
+    "color": "Red",
+    "cost": 3,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 2000,
+    "type": "The Seven Warlords of the Sea/Supernovas/Heart Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "This Character cannot attack unless your opponent has 2 or more Characters with a base power of 5000 or more.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

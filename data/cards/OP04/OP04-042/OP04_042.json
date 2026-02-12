@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-042",
+  "rarity" : "C",
+  "name" : "Ipponmatsu",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "East Blue",
+  "effect" : "[On Play] Up to 1 of your attribute Characters gains +3000 power during this turn. Then, trash 1 card from the top of your deck.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

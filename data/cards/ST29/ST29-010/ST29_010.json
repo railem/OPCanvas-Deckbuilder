@@ -1,0 +1,16 @@
+{
+  "id" : "ST29-010",
+  "rarity" : "C",
+  "name" : "Franky",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Ranged",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Straw Hat Crew",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

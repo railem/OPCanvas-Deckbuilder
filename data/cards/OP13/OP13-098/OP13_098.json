@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-098",
+  "rarity" : "UC",
+  "name" : "Never Existed... in the First Place...",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Celestial Dragons/Five Elders",
+  "effect" : "[Main] You may rest 1 of your DON!! cards: If your Leader is [Imu], K.O. up to 1 of your opponent's Stages with a cost of 7. [Counter] If your Leader is [Imu], up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Counter", "Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-013",
+  "rarity" : "R",
+  "name" : "Carrot",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Minks",
+  "effect" : "[Activate: Main] [Once Per Turn] If this Character was played on this turn, K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less. Then, play up to 1 [Zou] from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

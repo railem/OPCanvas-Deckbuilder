@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-098",
+  "rarity" : "C",
+  "name" : "Blue Hole",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "[Main] You may trash 3 cards from the top of your deck: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger" : "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+  "keywords" : [ "Main" ]
+}

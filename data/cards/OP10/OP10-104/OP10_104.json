@@ -1,0 +1,19 @@
+{
+    "id": "OP10-104",
+    "name": "Caribou",
+    "rarity": "UC",
+    "color": "Yellow",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Supernovas/Caribou Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[DON!! x1] If your Leader has the {Supernovas} type and your opponent has 3 or more Life cards, this Character cannot be K.O.'d in battle.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

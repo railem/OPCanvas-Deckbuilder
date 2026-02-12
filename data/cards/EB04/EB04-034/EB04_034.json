@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-034",
+  "rarity" : "C",
+  "name" : "Charlotte Pudding",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Big Mom Pirates",
+  "effect" : "[Blocker] [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: If you have 4 or more Events in your trash, up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Your Opponent's Attack" ]
+}

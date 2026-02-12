@@ -1,0 +1,19 @@
+{
+    "id": "OP02-120",
+    "name": "Uta",
+    "rarity": "SP CARD",
+    "color": "Purple",
+    "cost": 8,
+    "power": 8000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "FILM",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your Leader and all of your Characters gain +1000 power until the start of your next turn.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-024",
+  "rarity" : "C",
+  "name" : "Usopp",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Ranged",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY/Straw Hat Crew",
+  "effect" : "[On Play] If you have 2 or more rested Characters, draw 2 cards and trash 2 cards from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

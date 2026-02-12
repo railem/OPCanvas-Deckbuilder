@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-028",
+  "rarity" : "R",
+  "name" : "Gum-Gum Champion Rifle",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Impel Down/Straw Hat Crew",
+  "effect" : "[Counter] If your Leader has the {Impel Down} type, up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, your opponent returns 1 of their active Characters to the owner's hand.",
+  "trigger" : "[Trigger] Return up to 1 Character with a cost of 3 or less to the bottom of the owner's deck.",
+  "keywords" : [ "Counter" ]
+}

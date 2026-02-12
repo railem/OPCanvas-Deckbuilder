@@ -1,0 +1,19 @@
+{
+    "id": "OP09-004",
+    "name": "Shanks",
+    "rarity": "SR",
+    "color": "Red",
+    "cost": 10,
+    "power": 12000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "The Four Emperors/Red-Haired Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "Give all of your opponent's Characters −1000 power. [Rush] (This card can attack on the turn in which it is played.)",
+    "trigger": "",
+    "keywords": [
+        "Rush",
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-004",
+  "rarity" : "SR",
+  "name" : "Edward.Newgate",
+  "category" : "CHARACTER",
+  "cost" : 9,
+  "attribute" : "Special",
+  "power" : 10000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "The Four Emperors/Whitebeard Pirates",
+  "effect" : "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn. [DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking", "DON!!xX" ]
+}

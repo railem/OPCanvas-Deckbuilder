@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-036",
+  "rarity" : "UC",
+  "name" : "Helmeppo",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "FILM/Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

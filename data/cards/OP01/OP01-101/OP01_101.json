@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-101",
+  "rarity" : "UC",
+  "name" : "Sasaki",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Animal Kingdom Pirates",
+  "effect" : "[DON!! x1] [When Attacking] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

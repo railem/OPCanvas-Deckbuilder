@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-088",
+  "rarity" : "C",
+  "name" : "Miss.MerryChristmas(Drophy)",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Baroque Works",
+  "effect" : "[On K.O.] If your Leader's type includes \"Baroque Works\", draw 1 card and K.O. up to 1 of your opponent's Stages with a cost of 1.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

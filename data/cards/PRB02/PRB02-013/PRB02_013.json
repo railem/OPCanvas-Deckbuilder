@@ -1,0 +1,16 @@
+{
+  "id" : "PRB02-013",
+  "rarity" : "R",
+  "name" : "Gecko Moria",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "The Seven Warlords of the Sea/Thriller Bark Pirates",
+  "effect" : "[On Play] If your Leader has the {Thriller Bark Pirates} type, play up to 1 Character card with a cost of 4 or less from your trash rested. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

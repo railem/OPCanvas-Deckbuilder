@@ -1,0 +1,19 @@
+{
+    "id": "P-027",
+    "name": "General Franky",
+    "rarity": "P",
+    "color": "Red",
+    "cost": 2,
+    "power": 4000,
+    "attribute": "Ranged",
+    "counter": null,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "Also treat this card's name as [Franky] according to the rules. [Opponent's Turn] All of your Characters with 3000 base power or less gain +1000 power.",
+    "trigger": "",
+    "keywords": [
+        "Opponents Turn",
+        "Permanent"
+    ]
+}

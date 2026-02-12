@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-004",
+  "rarity" : "C",
+  "name" : "Karoo",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Animal/Alabasta",
+  "effect" : "[Activate: Main] You may rest this Character: Give up to 1 rested DON!! card to each of your {Alabasta} type Characters.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

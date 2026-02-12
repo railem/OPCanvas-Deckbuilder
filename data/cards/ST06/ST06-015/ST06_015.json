@@ -1,0 +1,16 @@
+{
+  "id" : "ST06-015",
+  "rarity" : "C",
+  "name" : "Great Eruption",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+  "trigger" : "[Trigger] Your opponent chooses 1 card from their hand and trashes it.",
+  "keywords" : [ "Main" ]
+}

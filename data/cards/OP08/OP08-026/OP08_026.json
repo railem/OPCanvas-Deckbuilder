@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-026",
+  "rarity" : "C",
+  "name" : "Giovanni",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Minks",
+  "effect" : "[DON!! x1] [When Attacking] Up to 1 of your opponent's rested Characters with a cost of 1 or less will not become active in your opponent's next Refresh Phase.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

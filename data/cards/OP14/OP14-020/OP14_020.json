@@ -1,0 +1,19 @@
+{
+    "id": "OP14-020",
+    "name": "Dracule Mihawk",
+    "rarity": "L",
+    "color": "Green",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "The Seven Warlords of the Sea",
+    "category": "LEADER",
+    "blockIcon": "4",
+    "effect": "If your opponent's Leader has the <Slash> attribute, this Leader gains +1000 power. [Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Permanent"
+    ]
+}

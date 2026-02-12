@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-002",
+  "rarity" : "C",
+  "name" : "Ain",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "FILM/Neo Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-032",
+  "rarity" : "UC",
+  "name" : "Nekomamushi",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Minks/Land of Wano/The Akazaya Nine",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

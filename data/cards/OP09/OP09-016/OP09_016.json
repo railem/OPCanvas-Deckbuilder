@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-016",
+  "rarity" : "C",
+  "name" : "Rockstar",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Red-Haired Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

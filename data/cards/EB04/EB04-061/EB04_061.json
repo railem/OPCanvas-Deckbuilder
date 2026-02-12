@@ -1,0 +1,20 @@
+{
+    "id": "EB04-061",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SEC",
+    "color": "Yellow",
+    "cost": 10,
+    "power": 12000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Egghead/The Four Emperors/Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If you have 1 or less Life cards, give this card in your hand −1 cost. [On Play] You may trash 1 card from your hand: Your Leader gains +2000 power until the end of your opponent's next End Phase. Then, this Character gains [Blocker] until the end of your opponent's next End Phase.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Play",
+        "Permanent"
+    ]
+}

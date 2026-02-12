@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-017",
+  "rarity" : "UC",
+  "name" : "Wire",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Kid Pirates",
+  "effect" : "[DON!! x1] If your Leader has 7000 power or more and the {Kid Pirates} type, this Character gains [Rush].",
+  "trigger" : "",
+  "keywords" : [ "Rush", "DON!!xX" ]
+}

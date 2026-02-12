@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-042",
+  "rarity" : "R",
+  "name" : "Issho",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[On Play] Up to 1 of your opponent's Characters with a cost of 7 or less cannot attack until the start of your next turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

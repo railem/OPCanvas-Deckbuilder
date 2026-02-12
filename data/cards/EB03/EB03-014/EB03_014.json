@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-014",
+  "rarity" : "C",
+  "name" : "Kuina",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "East Blue/Frost Moon Village",
+  "effect" : "[Activate: Main] You may rest this Character: Give up to 2 rested DON!! cards to your <Slash> attribute Leader.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

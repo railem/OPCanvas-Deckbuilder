@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-011",
+  "rarity" : "UC",
+  "name" : "Nefeltari Cobra",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Wisdom",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Alabasta",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

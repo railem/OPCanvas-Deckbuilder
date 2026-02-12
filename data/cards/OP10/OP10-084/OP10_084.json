@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-084",
+  "rarity" : "C",
+  "name" : "Sanjuan.Wolf",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Giant/Blackbeard Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

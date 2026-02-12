@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-113",
+  "rarity" : "R",
+  "name" : "Lilith",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Scientist",
+  "effect" : "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 card with a [Trigger] other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "[Trigger] Activate this card's [On Play] effect.",
+  "keywords" : [ "On Play" ]
+}

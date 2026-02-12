@@ -1,0 +1,16 @@
+{
+  "id" : "P-065",
+  "rarity" : "P",
+  "name" : "Tony Tony.Chopper",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Animal/Straw Hat Crew",
+  "effect" : "[When Attacking] If your opponent has a Character with a cost of 0, this Character gains +2000 power until the start of your next turn.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

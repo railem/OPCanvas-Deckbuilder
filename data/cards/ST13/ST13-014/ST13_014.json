@@ -1,0 +1,16 @@
+{
+  "id" : "ST13-014",
+  "rarity" : "C",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Goa Kingdom",
+  "effect" : "[Activate: Main] You may trash this Character: Reveal 1 card from the top of your Life cards. If that card is a [Monkey.D.Luffy] with a cost of 5, you may play that card. If you do, up to 1 of your Leader gains +2000 power until the end of your opponent's next turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

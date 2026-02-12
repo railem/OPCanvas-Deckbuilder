@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-118",
+  "rarity" : "SP CARD",
+  "name" : "Gol.D.Roger",
+  "category" : "CHARACTER",
+  "cost" : 10,
+  "attribute" : "Slash",
+  "power" : 13000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "King of the Pirates/Roger Pirates",
+  "effect" : "[Rush] (This card can attack on the turn in which it is played.) When your opponent activates [Blocker], if either you or your opponent has 0 Life cards, you win the game.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Rush" ]
+}

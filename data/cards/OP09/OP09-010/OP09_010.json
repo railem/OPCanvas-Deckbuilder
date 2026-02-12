@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-010",
+  "rarity" : "C",
+  "name" : "Bonk Punch",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Red-Haired Pirates",
+  "effect" : "[On Play] Play up to 1 [Monster] from your hand. [DON!! x1] [When Attacking] This Character gains +2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking", "DON!!xX" ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "OP01-114",
+    "name": "X.Drake",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 2000,
+    "type": "Navy/Drake Pirates/Animal Kingdom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent trashes 1 card from their hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

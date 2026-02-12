@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-045",
+  "rarity" : "UC",
+  "name" : "Carne",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "East Blue",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] If you have 20 or less cards in your deck, this Character gains +3000 power.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Opponents Turn" ]
+}

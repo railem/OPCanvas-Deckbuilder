@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-020",
+  "rarity" : "C",
+  "name" : "There You Are, Sore Loser!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "FILM",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 2 or more {FILM} type Characters, that card gains an additional +2000 power during this battle.",
+  "trigger" : "[Trigger] Set up to 1 of your Characters as active.",
+  "keywords" : [ "Counter" ]
+}

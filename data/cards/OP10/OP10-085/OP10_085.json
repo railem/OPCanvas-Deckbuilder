@@ -1,0 +1,20 @@
+{
+    "id": "OP10-085",
+    "name": "Jesus Burgess",
+    "rarity": "UC",
+    "color": "Black",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Dressrosa/Blackbeard Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[DON!! x1] If you have 8 or more cards in your trash, this Character gains [Rush].",
+    "trigger": "",
+    "keywords": [
+        "Rush",
+        "DON!!xX",
+        "Permanent"
+    ]
+}

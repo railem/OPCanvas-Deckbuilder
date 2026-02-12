@@ -1,0 +1,19 @@
+{
+    "id": "OP05-040",
+    "name": "Birdcage",
+    "rarity": "C",
+    "color": "Green",
+    "cost": 5,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Donquixote Pirates",
+    "category": "STAGE",
+    "blockIcon": "2",
+    "effect": "If your Leader is [Donquixote Doflamingo], all Characters with a cost of 5 or less do not become active in your and your opponent's Refresh Phases. [End of Your Turn] If you have 10 DON!! cards on your field, K.O. all rested Characters with a cost of 5 or less. Then, trash this Stage.",
+    "trigger": "",
+    "keywords": [
+        "End of Your Turn",
+        "Permanent"
+    ]
+}

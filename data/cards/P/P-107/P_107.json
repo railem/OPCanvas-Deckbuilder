@@ -1,0 +1,16 @@
+{
+  "id" : "P-107",
+  "rarity" : "P",
+  "name" : "Gol.D.Roger",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Slash",
+  "power" : 10000,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "King of the Pirates/Roger Pirates",
+  "effect" : "[On Play] If either you or your opponent has 10 DON!! cards on the field, your Leader gains +2000 power until the end of your opponent's next End Phase.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

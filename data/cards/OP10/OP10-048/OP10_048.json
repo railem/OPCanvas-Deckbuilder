@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-048",
+  "rarity" : "C",
+  "name" : "Sai",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Dressrosa/Happosui Army",
+  "effect" : "[On Play] You may rest 1 of your {Dressrosa} type Leader or Stage cards: Return up to 1 of your opponent's Characters with a cost of 1 or less to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

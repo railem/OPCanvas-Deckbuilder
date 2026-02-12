@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-117",
+  "rarity" : "C",
+  "name" : "Egghead",
+  "category" : "STAGE",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Egghead",
+  "effect" : "[End of Your Turn] If you have 3 or less Life cards, set up to 1 {Egghead} type Character with a cost of 5 or less as active.",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "End of Your Turn" ]
+}

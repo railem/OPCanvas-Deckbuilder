@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-051",
+  "rarity" : "R",
+  "name" : "Tsuru",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Navy",
+  "effect" : "[On Play] You may trash 2 cards from your hand: Your opponent returns 1 of their Characters to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

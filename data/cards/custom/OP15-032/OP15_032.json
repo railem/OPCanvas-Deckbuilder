@@ -1,0 +1,19 @@
+{
+    "id": "OP15-032",
+    "name": "Brook",
+    "rarity": "SR",
+    "color": "Green",
+    "cost": 6,
+    "power": 6000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Rest up to 1 of your opponent’s cards.\n\n[Activate: Main] You may trash this Character: if your Leader has the {Straw Hat Crew} type, set up to 1 of your Characters with a base cost of 8 or less as active",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Activate: Main"
+    ]
+}

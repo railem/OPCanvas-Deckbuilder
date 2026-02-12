@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-044",
+  "rarity" : "SR",
+  "name" : "Koby",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Navy/SWORD",
+  "effect" : "[Once Per Turn] If your Leader's type includes \"Navy\" and this Character would be removed from the field, you may trash 1 card from your hand instead. [Your Turn] [Once Per Turn] When your opponent's Character is K.O.'d, draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

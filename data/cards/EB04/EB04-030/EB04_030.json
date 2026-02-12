@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-030",
+  "rarity" : "R",
+  "name" : "Kaido",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Strike",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "The Four Emperors/Animal Kingdom Pirates",
+  "effect" : "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead. [On Play] DON!! −2: If your Leader has the {Animal Kingdom Pirates} type, this Character gains [Rush] during this turn. Then, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+  "trigger" : "",
+  "keywords" : [ "Rush", "On Play" ]
+}

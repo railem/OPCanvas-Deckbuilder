@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-023",
+  "rarity" : "C",
+  "name" : "Alvida",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "East Blue/Alvida Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

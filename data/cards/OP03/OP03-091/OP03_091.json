@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-091",
+  "rarity" : "C",
+  "name" : "Helmeppo",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[On Play] Set the cost of up to 1 of your opponent's Characters with no base effect to 0 during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

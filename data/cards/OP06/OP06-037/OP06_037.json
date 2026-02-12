@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-037",
+  "rarity" : "C",
+  "name" : "Wadatsumi",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Fish-Man/Flying Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

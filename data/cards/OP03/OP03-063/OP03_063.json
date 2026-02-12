@@ -1,0 +1,20 @@
+{
+    "id": "OP03-063",
+    "name": "Zambai",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 3,
+    "power": 2000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "Water Seven/The Franky Family",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, draw 1 card.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Play",
+        "DON!! -X"
+    ]
+}

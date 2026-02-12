@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-038",
+  "rarity" : "C",
+  "name" : "We Would Never Sell a Comrade to an Enemy!!!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Minks/The Akazaya Nine",
+  "effect" : "[Main] You may rest 2 of your Characters: None of your Characters can be K.O.'d by your opponent's effects until the end of your opponent's next turn.",
+  "trigger" : "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "keywords" : [ "Main" ]
+}

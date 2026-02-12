@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-118",
+  "rarity" : "SEC",
+  "name" : "Roronoa Zoro",
+  "category" : "CHARACTER",
+  "cost" : 9,
+  "attribute" : "Slash",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Straw Hat Crew",
+  "effect" : "[When Attacking] [Once Per Turn] You may rest 1 of your DON!! cards: Set this Character as active. [Activate: Main] [Once Per Turn] You may rest 2 of your DON!! cards: Set this Character as active.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "When Attacking" ]
+}

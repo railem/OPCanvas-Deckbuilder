@@ -1,0 +1,19 @@
+{
+    "id": "OP03-073",
+    "name": "Hull Dismantler Slash",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Water Seven/The Franky Family",
+    "category": "EVENT",
+    "blockIcon": "1",
+    "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "keywords": [
+        "DON!! -X",
+        "Main"
+    ]
+}

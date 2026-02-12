@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-076",
+  "rarity" : "L",
+  "name" : "Rob Lucci",
+  "category" : "LEADER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "CP9",
+  "effect" : "[Your Turn] [Once Per Turn] You may trash 2 cards from your hand: When your opponent's Character is K.O.'d, set this Leader as active.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

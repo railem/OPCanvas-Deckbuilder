@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-058",
+  "rarity" : "R",
+  "name" : "Punk Gibson",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Kid Pirates",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger" : "[Trigger] Rest up to 1 of your opponent's Characters.",
+  "keywords" : [ "Counter" ]
+}

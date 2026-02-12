@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-058",
+  "rarity" : "L",
+  "name" : "Charlotte Pudding",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Wisdom",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Purple/Yellow",
+  "blockIcon" : 2,
+  "type" : "Big Mom Pirates",
+  "effect" : "[When Attacking] You may turn 2 cards from the top of your Life cards face-up: Add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "OP07-051",
+    "name": "Boa Hancock",
+    "rarity": "SR",
+    "color": "Blue",
+    "cost": 6,
+    "power": 8000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "The Seven Warlords of the Sea/Kuja Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play] Up to 1 of your opponent's Characters other than [Monkey.D.Luffy] cannot attack until the end of your opponent's next turn. Then, place up to 1 Character with a cost of 1 or less at the bottom of the owner's deck.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

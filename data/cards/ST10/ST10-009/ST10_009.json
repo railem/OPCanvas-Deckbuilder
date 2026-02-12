@@ -1,0 +1,16 @@
+{
+  "id" : "ST10-009",
+  "rarity" : "C",
+  "name" : "Jean Bart",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "Heart Pirates",
+  "effect" : "[On Play] ➀ (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

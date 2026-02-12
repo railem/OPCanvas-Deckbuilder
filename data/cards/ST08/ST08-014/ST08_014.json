@@ -1,0 +1,16 @@
+{
+  "id" : "ST08-014",
+  "rarity" : "C",
+  "name" : "Gum-Gum Bell",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Main] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters −7 cost during this turn.",
+  "trigger" : "[Trigger] Add up to 1 black Character card with a cost of 2 or less from your trash to your hand.",
+  "keywords" : [ "Main" ]
+}

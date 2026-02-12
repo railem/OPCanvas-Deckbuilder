@@ -1,0 +1,19 @@
+{
+    "id": "OP11-072",
+    "name": "Charlotte Mont-d'or",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 3,
+    "power": 4000,
+    "attribute": "Special",
+    "counter": 2000,
+    "type": "Big Mom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[Activate: Main] [Once Per Turn] DON!! −1, You may rest this Character: Your opponent places 2 cards from their trash at the bottom of their deck in any order. Then, add 1 card from the top of your Life cards to your hand.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "DON!! -X"
+    ]
+}

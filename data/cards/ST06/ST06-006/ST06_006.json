@@ -1,0 +1,16 @@
+{
+  "id" : "ST06-006",
+  "rarity" : "SP CARD",
+  "name" : "Tashigi",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

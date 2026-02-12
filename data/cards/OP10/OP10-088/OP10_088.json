@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-088",
+  "rarity" : "UC",
+  "name" : "Nami",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Dressrosa/Straw Hat Crew",
+  "effect" : "[Activate: Main] You may rest this Character and 1 of your {Dressrosa} type Leader or Stage cards: Draw 1 card. Then, trash 2 cards from the top of your deck.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-066",
+  "rarity" : "UC",
+  "name" : "Jean Bart",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Heart Pirates",
+  "effect" : "[On Play] If your opponent has more DON!! cards on their field than you, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

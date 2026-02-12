@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-034",
+  "rarity" : "C",
+  "name" : "Hatchan",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Fish-Man/Fish-Man Island/Former Arlong Pirates",
+  "effect" : "[Activate: Main] You may rest this Character: If your Leader has the {Fish-Man} or {Merfolk} type, up to 1 of your opponent's Characters with a cost of 3 or less cannot be rested until the end of your opponent's next turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

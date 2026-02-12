@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-013",
+  "rarity" : "C",
+  "name" : "Nami",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Punk Hazard/Straw Hat Crew",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

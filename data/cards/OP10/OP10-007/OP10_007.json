@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-007",
+  "rarity" : "UC",
+  "name" : "Ceaser Soldier",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Punk Hazard",
+  "effect" : "[On Play] Play up to 1 {Punk Hazard} type Character card with a cost of 2 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

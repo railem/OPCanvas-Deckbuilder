@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-001",
+  "rarity" : "L",
+  "name" : "Trafalgar Law",
+  "category" : "LEADER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "The Seven Warlords of the Sea/Supernovas/Heart Pirates",
+  "effect" : "[Activate: Main] [Once Per Turn] Select 2 of your {Supernovas} or {Heart Pirates} type Characters. Swap the base power of the selected Characters with each other during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

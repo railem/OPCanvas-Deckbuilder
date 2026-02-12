@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-053",
+  "rarity" : "UC",
+  "name" : "Page One",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Animal Kingdom Pirates",
+  "effect" : "[DON!! x1] [Once Per Turn] When you activate an Event, draw 1 card. Then, place 1 card from your hand at the bottom of your deck.",
+  "trigger" : "",
+  "keywords" : [ "DON!!xX" ]
+}

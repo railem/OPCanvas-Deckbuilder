@@ -1,0 +1,16 @@
+{
+  "id" : "ST06-009",
+  "rarity" : "C",
+  "name" : "Fullbody",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

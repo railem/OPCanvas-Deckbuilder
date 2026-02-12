@@ -1,0 +1,19 @@
+{
+    "id": "OP02-078",
+    "name": "Daifugo",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 3,
+    "power": 5000,
+    "attribute": "Ranged",
+    "counter": null,
+    "type": "Animal Kingdom Pirates/SMILE",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 {SMILE} type Character card other than [Daifugo] with a cost of 3 or less from your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

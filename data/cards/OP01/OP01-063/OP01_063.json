@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-063",
+  "rarity" : "UC",
+  "name" : "Arlong",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Fish-Man/Arlong Pirates",
+  "effect" : "[DON!! x1] [Activate: Main] You may rest this Character: Choose 1 card from your opponent's hand; your opponent reveals that card. If the revealed card is an Event, place up to 1 card from your opponent's Life area at the bottom of the owner's deck.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "DON!!xX" ]
+}

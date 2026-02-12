@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-062",
+  "rarity" : "C",
+  "name" : "Vinsmoke Reiju",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "Kingdom of GERMA/The Vinsmoke Family",
+  "effect" : "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, return up to 1 of your {The Vinsmoke Family} type Characters with a cost of 1 to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

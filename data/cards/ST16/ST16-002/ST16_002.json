@@ -1,0 +1,16 @@
+{
+  "id" : "ST16-002",
+  "rarity" : "C",
+  "name" : "Gordon",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "FILM",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] You may trash any number of {Music} type cards from your hand. Your Leader or 1 of your Characters gains +1000 power during this battle for every card trashed.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Your Opponent's Attack" ]
+}

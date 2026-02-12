@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-087",
+  "rarity" : "R",
+  "name" : "Miss.Valentine(Mikita)",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Baroque Works",
+  "effect" : "[On Play] If your Leader's type includes \"Baroque Works\", look at 4 cards from the top of your deck; reveal up to 1 card with a type including \"Baroque Works\" other than [Miss.Valentine(Mikita)] and add it to your hand. Then, trash the rest.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

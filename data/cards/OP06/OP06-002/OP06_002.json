@@ -1,0 +1,19 @@
+{
+    "id": "OP06-002",
+    "name": "Inazuma",
+    "rarity": "C",
+    "color": "Red",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Revolutionary Army",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "If this Character has 7000 power or more, this Character gains [Banish]. (When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "trigger": "",
+    "keywords": [
+        "Banish",
+        "Permanent"
+    ]
+}

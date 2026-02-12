@@ -1,0 +1,16 @@
+{
+  "id" : "P-048",
+  "rarity" : "P",
+  "name" : "Arlong",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Fish-Man/Arlong Pirates",
+  "effect" : "[DON!! x1] [When Attacking] If you have 4 or more Life cards, your opponent places 1 card from their hand at the bottom of their deck.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

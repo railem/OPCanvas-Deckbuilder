@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-033",
+  "rarity" : "UC",
+  "name" : "Bird Neptunian",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Neptunian",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

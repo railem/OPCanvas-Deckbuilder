@@ -1,0 +1,16 @@
+{
+  "id" : "ST29-002",
+  "rarity" : "C",
+  "name" : "Usopp",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Ranged",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Straw Hat Crew",
+  "effect" : "[On Play]/[When Attacking] Rest up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking" ]
+}

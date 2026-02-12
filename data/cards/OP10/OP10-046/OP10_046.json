@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-046",
+  "rarity" : "SR",
+  "name" : "Kyros",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Slash",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Dressrosa",
+  "effect" : "[On Play] Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

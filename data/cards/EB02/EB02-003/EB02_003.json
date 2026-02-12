@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-003",
+  "rarity" : "R",
+  "name" : "Tony Tony.Chopper",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Animal/Drum Kingdom/Straw Hat Crew",
+  "effect" : "[DON!! x2] [Opponent's Turn] This Character gains +2000 power. [On Play] If your Leader has the {Straw Hat Crew} type, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "DON!!xX", "Opponents Turn" ]
+}

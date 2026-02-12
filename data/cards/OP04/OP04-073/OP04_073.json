@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-073",
+  "rarity" : "C",
+  "name" : "Mr.13 & Ms.Friday",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 1000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Animal/Baroque Works",
+  "effect" : "[Activate: Main] You may trash this Character and 1 of your Characters with a type including \"Baroque Works\": Add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "Activate: Main" ]
+}

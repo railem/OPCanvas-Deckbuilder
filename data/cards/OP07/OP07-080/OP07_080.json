@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-080",
+  "rarity" : "R",
+  "name" : "Kaku",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "CP0",
+  "effect" : "[On Play] You may place 2 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: Give up to 1 of your opponent's Characters −3 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

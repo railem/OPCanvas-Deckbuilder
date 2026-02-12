@@ -1,0 +1,16 @@
+{
+  "id" : "P-002",
+  "rarity" : "P",
+  "name" : "I Smell Adventure!!!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Main] Return all cards in your hand to your deck and shuffle your deck. Then, draw cards equal to the number you returned to your deck.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Main" ]
+}

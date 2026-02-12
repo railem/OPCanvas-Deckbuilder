@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-043",
+  "rarity" : "SR",
+  "name" : "Aramaki",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Special",
+  "power" : 8000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Navy",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Activate: Main] [Once Per Turn] You may trash 1 card from your hand and place 1 Character with a cost of 2 or less at the bottom of the owner's deck: This Character gains +3000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Activate: Main" ]
+}

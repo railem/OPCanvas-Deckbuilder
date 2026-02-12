@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-097",
+  "rarity" : "C",
+  "name" : "The World's Equilibrium Cannot Be Maintained Forever",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Celestial Dragons/Five Elders",
+  "effect" : "[Main] You may rest 5 of your DON!! cards: If the only Characters on your field are {Celestial Dragons} type Characters, K.O. up to 1 of your opponent's Characters with a base cost of 6 or less. [Counter] Your Leader gains +3000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Counter", "Main" ]
+}

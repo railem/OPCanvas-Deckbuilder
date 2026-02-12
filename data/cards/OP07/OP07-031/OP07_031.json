@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-031",
+  "rarity" : "UC",
+  "name" : "Bartolomeo",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Supernovas/Barto Club",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Your Turn] [Once Per Turn] If a Character is rested by your effect, draw 1 card and trash 1 card from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Your Turn" ]
+}

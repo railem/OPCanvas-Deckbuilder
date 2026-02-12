@@ -1,0 +1,18 @@
+{
+    "id": "OP15-092",
+    "name": "Monkey D. Luffy",
+    "rarity": "R",
+    "color": "Black",
+    "cost": 7,
+    "power": 7000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "• If there are 10 or more cards, this Character’s base power is 9000 and gains +10 cost.\n• If there are 20 or more cards, during your opponent’s turn, your Leader’s base power is 7000.\n• If there are 30 or more cards, this Character gains +1000 power.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

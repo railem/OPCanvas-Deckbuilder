@@ -1,0 +1,18 @@
+{
+    "id": "OP08-029",
+    "name": "Pekoms",
+    "rarity": "C",
+    "color": "Green",
+    "cost": 4,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Minks/Big Mom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "If this Character is active, your {Minks} type Characters with a cost of 3 or less other than [Pekoms] cannot be K.O.'d by effects.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

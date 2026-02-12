@@ -1,0 +1,16 @@
+{
+  "id" : "P-113",
+  "rarity" : "P",
+  "name" : "Jewelry Bonney",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Bonney Pirates",
+  "effect" : "[DON!! x2] [Opponent's Turn] This Character gains [Blocker] and +2000 power.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "keywords" : [ "Blocker", "DON!!xX", "Opponents Turn" ]
+}

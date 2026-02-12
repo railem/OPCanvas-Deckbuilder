@@ -1,0 +1,16 @@
+{
+  "id" : "ST22-004",
+  "rarity" : "C",
+  "name" : "Elmy",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates Allies",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

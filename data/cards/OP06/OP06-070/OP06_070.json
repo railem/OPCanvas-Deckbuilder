@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-070",
+  "rarity" : "C",
+  "name" : "Eldoraggo",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "FILM/Eldoraggo Crew",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST15-001",
+  "rarity" : "C",
+  "name" : "Atmos",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[When Attacking] If your Leader is [Edward.Newgate], you cannot add Life cards to your hand using your own effects during this turn.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

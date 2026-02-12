@@ -1,0 +1,19 @@
+{
+    "id": "ST08-013",
+    "name": "Mr.2.Bon.Kurei(Bentham)",
+    "rarity": "C",
+    "color": "Black",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Former Baroque Works",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent’s Character you battled with. If you do, K.O. this Character.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-055",
+  "rarity" : "R",
+  "name" : "X.Drake",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Navy/Drake Pirates/Animal Kingdom Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-004",
+  "rarity" : "C",
+  "name" : "Zeff",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Strike",
+  "power" : 8000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "East Blue",
+  "effect" : "[When Attacking] Your Leader's base power becomes 7000 until the end of your opponent's next End Phase.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-005",
+  "rarity" : "UC",
+  "name" : "Thatch",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[Activate: Main] [Once Per Turn] This Character gains +2000 power during this turn. Then, trash this Character at the end of this turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

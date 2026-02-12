@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-030",
+  "rarity" : "C",
+  "name" : "Loguetown",
+  "category" : "STAGE",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "East Blue",
+  "effect" : "[Activate: Main] You may place this card and 1 card from your hand at the bottom of your deck in any order: Draw 2 cards.",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "Activate: Main" ]
+}

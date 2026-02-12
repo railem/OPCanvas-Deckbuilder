@@ -1,0 +1,19 @@
+{
+    "id": "OP09-078",
+    "name": "Gum-Gum Giant",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "The Four Emperors/Straw Hat Crew",
+    "category": "EVENT",
+    "blockIcon": "3",
+    "effect": "[Counter] DON!! −2, You may trash 1 card from your hand: If your Leader has the {Straw Hat Crew} type, up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, draw 2 cards.",
+    "trigger": "",
+    "keywords": [
+        "DON!! -X",
+        "Counter"
+    ]
+}

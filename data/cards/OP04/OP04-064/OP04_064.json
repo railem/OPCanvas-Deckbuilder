@@ -1,0 +1,19 @@
+{
+    "id": "OP04-064",
+    "name": "Ms. All Sunday",
+    "rarity": "SP CARD",
+    "color": "Purple",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Wisdom",
+    "counter": null,
+    "type": "Baroque Works",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it. Then, if you have 6 or more DON!! cards on your field, draw 1 card.",
+    "trigger": "[Trigger] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

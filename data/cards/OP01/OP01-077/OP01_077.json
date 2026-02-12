@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-077",
+  "rarity" : "UC",
+  "name" : "Perona",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

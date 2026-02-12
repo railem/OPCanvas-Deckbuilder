@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-099",
+  "rarity" : "UC",
+  "name" : "Disappointed?",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "The Seven Warlords of the Sea/Baroque Works",
+  "effect" : "[Main] Look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"Baroque Works\" other than [Disappointed?] and add it to your hand. Then, trash the rest.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Main" ]
+}

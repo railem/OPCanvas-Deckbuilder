@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-061",
+  "rarity" : "UC",
+  "name" : "Uso-Hachi",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Ranged",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Straw Hat Crew",
+  "effect" : "[DON!! x1] [When Attacking] If you have 8 or more DON!! cards on your field, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

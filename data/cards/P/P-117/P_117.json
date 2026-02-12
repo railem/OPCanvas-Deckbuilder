@@ -1,0 +1,19 @@
+{
+    "id": "P-117",
+    "name": "Nami",
+    "rarity": "P",
+    "color": "Blue",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Wisdom",
+    "counter": null,
+    "type": "East Blue",
+    "category": "LEADER",
+    "blockIcon": "4",
+    "effect": "Under the rules of this game, you can only include {East Blue} type cards in your deck and when your deck is reduced to 0, you win the game instead of losing. [DON!! x1] When this Leader's attack deals damage to your opponent's Life, you may trash 1 card from the top of your deck.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-025",
+  "rarity" : "C",
+  "name" : "Kin'emon",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Land of Wano/The Akazaya Nine",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

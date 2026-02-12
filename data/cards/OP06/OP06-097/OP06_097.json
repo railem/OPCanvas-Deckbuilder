@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-097",
+  "rarity" : "R",
+  "name" : "Negative Hollow",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "[Main] Trash 1 card from your opponent's hand.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Main" ]
+}

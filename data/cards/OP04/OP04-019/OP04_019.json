@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-019",
+  "rarity" : "L",
+  "name" : "Donquixote Doflamingo",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Green/Purple",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea/Donquixote Pirates",
+  "effect" : "[End of Your Turn] Set up to 2 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "End of Your Turn" ]
+}

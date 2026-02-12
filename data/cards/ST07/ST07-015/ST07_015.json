@@ -1,0 +1,16 @@
+{
+  "id" : "ST07-015",
+  "rarity" : "C",
+  "name" : "Soul Pocus",
+  "category" : "EVENT",
+  "cost" : 5,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "The Four Emperors/Big Mom Pirates",
+  "effect" : "[Main] Your opponent chooses one: - Trash 1 card from the top of your opponent's Life cards. - Add 1 card from the top of your deck to the top of your Life cards.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Main" ]
+}

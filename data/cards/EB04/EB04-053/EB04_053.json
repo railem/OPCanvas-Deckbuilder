@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-053",
+  "rarity" : "C",
+  "name" : "Sentomaru",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Navy",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] If you have 2 or less Life cards, draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Block" ]
+}

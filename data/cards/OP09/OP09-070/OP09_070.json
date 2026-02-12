@@ -1,0 +1,19 @@
+{
+    "id": "OP09-070",
+    "name": "Nami",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 3,
+    "power": 2000,
+    "attribute": "Special",
+    "counter": 2000,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "OP15-060",
+    "name": "Enel",
+    "rarity": "SR",
+    "color": "Purple",
+    "cost": 6,
+    "power": 8000,
+    "attribute": "Special",
+    "counter": 0,
+    "type": "Sky Island",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If you have 6 or less DON!! cards on your field, this Character cannot be removed by your opponent’s effects and gains +2000 power.\n\n[Activate: Main] DON!! -1: This Character gains [Blocker] until the end of your opponent’s next turn. Then, trash 1 card from your hand.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Permanent"
+    ]
+}

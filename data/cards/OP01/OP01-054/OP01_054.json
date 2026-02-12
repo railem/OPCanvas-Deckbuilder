@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-054",
+  "rarity" : "R",
+  "name" : "X.Drake",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Navy/Drake Pirates",
+  "effect" : "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

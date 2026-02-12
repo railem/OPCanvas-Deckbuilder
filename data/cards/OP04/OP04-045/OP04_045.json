@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-045",
+  "rarity" : "R",
+  "name" : "King",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Slash",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Animal Kingdom Pirates",
+  "effect" : "[On Play] Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

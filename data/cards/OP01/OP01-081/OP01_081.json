@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-081",
+  "rarity" : "C",
+  "name" : "Mocha",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Punk Hazard",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

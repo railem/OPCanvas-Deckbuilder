@@ -1,0 +1,19 @@
+{
+    "id": "OP10-118",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SEC",
+    "color": "Black",
+    "cost": 6,
+    "power": 7000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Dressrosa/Supernovas/Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "Once per turn, this Character cannot be K.O.'d by your opponent's effects. [When Attacking] You may place 3 cards from your trash at the bottom of your deck in any order: If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+    "trigger": "",
+    "keywords": [
+        "When Attacking",
+        "Permanent"
+    ]
+}

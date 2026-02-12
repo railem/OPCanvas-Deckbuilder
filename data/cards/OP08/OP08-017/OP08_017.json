@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-017",
+  "rarity" : "C",
+  "name" : "I'd Never Shoot You!!!!",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Drum Kingdom",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
+  "trigger" : "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+  "keywords" : [ "Counter" ]
+}

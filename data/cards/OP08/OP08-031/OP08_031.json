@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-031",
+  "rarity" : "C",
+  "name" : "Miyagi",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Minks",
+  "effect" : "[On Play] Set up to 1 of your {Minks} type Characters with a cost of 2 or less as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

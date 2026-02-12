@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-024",
+  "rarity" : "C",
+  "name" : "Kin'emon",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Land of Wano/The Akazaya Nine",
+  "effect" : "[On Play] Set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn. [On K.O.] Rest up to 1 of your opponent's cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

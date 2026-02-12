@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-048",
+  "rarity" : "C",
+  "name" : "Nekomamushi",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Minks/Land of Wano/The Akazaya Nine",
+  "effect" : "[On Play] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

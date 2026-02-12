@@ -1,0 +1,16 @@
+{
+  "id" : "ST03-016",
+  "rarity" : "C",
+  "name" : "Thrust Pad Cannon",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea/Revolutionary Army",
+  "effect" : "[Counter] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+  "trigger" : "[Trigger] Activate this card's [Counter] effect.",
+  "keywords" : [ "Counter" ]
+}

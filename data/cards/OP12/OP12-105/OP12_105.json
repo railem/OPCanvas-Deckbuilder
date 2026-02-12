@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-105",
+  "rarity" : "C",
+  "name" : "Trafalgar Lammy",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Flevance",
+  "effect" : "[Your Turn] [On Play] Up to 1 of your [Trafalgar Law] cards gains +2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Your Turn" ]
+}

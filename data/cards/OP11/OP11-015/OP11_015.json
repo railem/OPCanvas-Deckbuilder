@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-015",
+  "rarity" : "C",
+  "name" : "Mocha",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Wisdom",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Punk Hazard",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

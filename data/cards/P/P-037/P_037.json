@@ -1,0 +1,16 @@
+{
+  "id" : "P-037",
+  "rarity" : "P",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Straw Hat Crew",
+  "effect" : "[When Attacking] If you have 2 or more rested Characters, this Character gains +1000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

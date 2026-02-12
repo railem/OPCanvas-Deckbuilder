@@ -1,0 +1,19 @@
+{
+    "id": "OP15-068",
+    "name": "Divine Soldier",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 1,
+    "power": 1000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Sky Island",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If you have 6 or less DON!! cards on your field, this Character gains [Blocker].\n(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

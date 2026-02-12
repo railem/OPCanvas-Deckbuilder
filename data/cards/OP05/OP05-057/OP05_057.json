@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-057",
+  "rarity" : "R",
+  "name" : "Hound Blaze",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Navy",
+  "effect" : "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
+  "trigger" : "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+  "keywords" : [ "Main" ]
+}

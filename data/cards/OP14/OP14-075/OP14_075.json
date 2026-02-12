@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-075",
+  "rarity" : "C",
+  "name" : "Lao.G",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Donquixote Pirates",
+  "effect" : "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it. Then, give up to 1 of your opponent's Characters −2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

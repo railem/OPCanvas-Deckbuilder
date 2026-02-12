@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-010",
+  "rarity" : "UC",
+  "name" : "Douglas Bullet",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "FILM/The Pirates Fest/Former Roger Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

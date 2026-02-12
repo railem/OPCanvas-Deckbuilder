@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-099",
+  "rarity" : "C",
+  "name" : "Kalgara",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Jaya/Sky Island/Shandian Warrior",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "OP10-074",
+    "name": "Pica",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Donquixote Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[Once Per Turn] If this Character would be K.O.'d by your opponent's effect, you may rest 2 of your active DON!! cards instead.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "P-115",
+  "rarity" : "P",
+  "name" : "Boa Hancock",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "The Seven Warlords of the Sea/Kuja Pirates",
+  "effect" : "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger" : "[Trigger] Play up to 1 yellow Character card with 5000 power or less and a [Trigger] from your hand.",
+  "keywords" : [ "On Play" ]
+}

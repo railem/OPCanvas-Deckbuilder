@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-111",
+  "rarity" : "UC",
+  "name" : "Hotori",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Sky Island",
+  "effect" : "[On Play] You may play 1 [Kotori] from your hand: Add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of your opponent's Life cards face-up.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

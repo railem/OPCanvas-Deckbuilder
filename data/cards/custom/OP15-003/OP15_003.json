@@ -1,0 +1,19 @@
+{
+    "id": "OP15-003",
+    "name": "Alvida",
+    "rarity": "R",
+    "color": "Red",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Alvida Pirates / East Blue",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If this Character would be K.O.’d, you may trash 1 Character with 6000 power or less from your hand instead.\n\n[Activate: Main] [Once per Turn] You may give 1 of your opponent’s rested DON!! cards to 1 of your opponent’s Characters: give up to 1 rested DON!! card from their owner’s cost area and give it to their Leader or 1 of their Characters.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Permanent"
+    ]
+}

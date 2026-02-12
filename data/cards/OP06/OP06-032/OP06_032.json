@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-032",
+  "rarity" : "C",
+  "name" : "Hammond",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Fish-Man/New Fish-Man Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger" : "",
+  "keywords" : [ "Blocker" ]
+}

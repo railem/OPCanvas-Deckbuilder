@@ -1,0 +1,16 @@
+{
+  "id" : "P-028",
+  "rarity" : "P",
+  "name" : "Portgas.D.Ace",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[Double Attack] (This card deals 2 damage.)",
+  "trigger" : "",
+  "keywords" : [ "Double Attack" ]
+}

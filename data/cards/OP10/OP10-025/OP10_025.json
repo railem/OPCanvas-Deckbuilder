@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-025",
+  "rarity" : "R",
+  "name" : "Enel",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY/Sky Island",
+  "effect" : "[On Play] If you have 2 or more rested Characters, draw 3 cards and trash 2 cards from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

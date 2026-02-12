@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-053",
+  "rarity" : "C",
+  "name" : "Mozambia",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[Your Turn] [Once Per Turn] When you draw a card outside of your Draw Phase, this Character gains +2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

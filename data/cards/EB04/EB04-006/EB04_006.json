@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-006",
+  "rarity" : "C",
+  "name" : "Moda",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Lulucia Kingdom",
+  "effect" : "[On Play] Look at 7 cards from the top of your deck; reveal up to 1 [Lulucia Kingdom] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

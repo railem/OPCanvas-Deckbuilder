@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-056",
+  "rarity" : "UC",
+  "name" : "Sanji's Pilaf",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "East Blue",
+  "effect" : "[Main] Draw 2 cards.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Main" ]
+}

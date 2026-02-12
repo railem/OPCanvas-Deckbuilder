@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-055",
+  "rarity" : "C",
+  "name" : "The Macro Gang",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Fish-Man/The Sun Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-074",
+  "rarity" : "C",
+  "name" : "Patty",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "East Blue",
+  "effect" : "[On Play] You may trash 1 Event from your hand: If your Leader is [Sanji], add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

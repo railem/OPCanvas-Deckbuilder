@@ -1,0 +1,16 @@
+{
+  "id" : "ST06-012",
+  "rarity" : "SR",
+  "name" : "Monkey.D.Garp",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[Activate: Main] You may trash 1 card from your hand and rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

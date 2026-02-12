@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-023",
+  "rarity" : "R",
+  "name" : "Chaka & Pell",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Slash",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Alabasta",
+  "effect" : "[Double Attack] (This card deals 2 damage.) [On Play] You may give your active Leader −5000 power during this turn: Draw 2 cards.",
+  "trigger" : "",
+  "keywords" : [ "Double Attack", "On Play" ]
+}

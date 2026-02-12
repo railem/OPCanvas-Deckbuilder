@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-105",
+  "rarity" : "C",
+  "name" : "Kouzuki Momonosuke",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Land of Wano/Kouzuki Clan",
+  "effect" : "[On Play] Look at all of your Life cards and place them back in your Life area in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

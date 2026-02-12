@@ -1,0 +1,16 @@
+{
+  "id" : "ST17-002",
+  "rarity" : "SR",
+  "name" : "Trafalgar Law",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "The Seven Warlords of the Sea/Heart Pirates",
+  "effect" : "[On Play] You may return 1 of your Characters to the owner's hand: If your Leader has the {The Seven Warlords of the Sea} type, return up to 1 Character with a cost of 4 or less to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

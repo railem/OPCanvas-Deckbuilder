@@ -1,0 +1,20 @@
+{
+    "id": "ST06-004",
+    "name": "Smoker",
+    "rarity": "SR",
+    "color": "Black",
+    "cost": 5,
+    "power": 7000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Navy",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "This Character cannot be K.O.'d by effects. [DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack]. (This card deals 2 damage.)",
+    "trigger": "",
+    "keywords": [
+        "Double Attack",
+        "DON!!xX",
+        "Permanent"
+    ]
+}

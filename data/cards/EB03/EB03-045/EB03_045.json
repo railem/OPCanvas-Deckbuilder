@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-045",
+  "rarity" : "SR",
+  "name" : "Perona",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Muggy Kingdom/Thriller Bark Pirates",
+  "effect" : "[Blocker] [On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. Then, if you have 10 or more cards in your trash, play up to 1 {Thriller Bark Pirates} type Character card with a cost of 2 or less from your trash rested.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

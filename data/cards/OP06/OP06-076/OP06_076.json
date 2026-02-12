@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-076",
+  "rarity" : "UC",
+  "name" : "Hitokiri Kamazo",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "Supernovas/Kid Pirates/SMILE",
+  "effect" : "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

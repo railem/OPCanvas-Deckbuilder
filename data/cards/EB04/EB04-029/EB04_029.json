@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-029",
+  "rarity" : "UC",
+  "name" : "I Heard the Sound...of a Lady's Teardrops Falling",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Punk Hazard/Straw Hat Crew",
+  "effect" : "[Main] If your Leader is [Sanji], look at 3 cards from the top of your deck; reveal up to 1 [Sanji] or Event card and add it to your hand. Then, trash the rest. [Counter] You may trash 1 card from your hand: Up to 1 of your [Sanji] cards gains +4000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Counter", "Main" ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "P-104",
+    "name": "Shanks",
+    "rarity": "P",
+    "color": "Purple",
+    "cost": 8,
+    "power": 10000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "The Four Emperors/Red-Haired Pirates/Former Roger Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If either you or your opponent has 10 DON!! cards on the field, this Character cannot be removed from the field by your opponent's effects.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

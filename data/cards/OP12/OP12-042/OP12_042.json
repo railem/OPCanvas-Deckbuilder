@@ -1,0 +1,19 @@
+{
+    "id": "OP12-042",
+    "name": "Alvida",
+    "rarity": "C",
+    "color": "Blue",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Cross Guild",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains +1 cost. [On Play] Place up to 1 of your opponent's Characters with a base cost of 1 or less at the bottom of the owner's deck.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Permanent"
+    ]
+}

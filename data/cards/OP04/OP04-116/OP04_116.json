@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-116",
+  "rarity" : "UC",
+  "name" : "Diable Jambe Joue Shot",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "The Vinsmoke Family",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, if you and your opponent have a total of 4 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger" : "[Trigger] Draw 1 card.",
+  "keywords" : [ "Counter" ]
+}

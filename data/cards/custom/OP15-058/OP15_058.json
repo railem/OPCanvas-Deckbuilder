@@ -1,0 +1,19 @@
+{
+    "id": "OP15-058",
+    "name": "Enel",
+    "rarity": "L",
+    "color": "Purple",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Sky Island",
+    "category": "LEADER",
+    "blockIcon": "4",
+    "effect": "Under the rules of this game, your DON!! deck is 6. \n[Activate: Main] [Once Per Turn] If it is your second turn or later, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 4 rested DON!! cards from your DON!! deck. Then, give up to 4 rested DON!! cards to one of your Characters. ",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Permanent"
+    ]
+}

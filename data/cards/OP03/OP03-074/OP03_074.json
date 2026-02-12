@@ -1,0 +1,19 @@
+{
+    "id": "OP03-074",
+    "name": "Top Knot",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 2,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Water Seven/Galley-La Company",
+    "category": "EVENT",
+    "blockIcon": "1",
+    "effect": "[Main] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Place up to 1 of your opponent's Characters with a cost of 4 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "keywords": [
+        "DON!! -X",
+        "Main"
+    ]
+}

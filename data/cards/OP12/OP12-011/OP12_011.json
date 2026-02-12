@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-011",
+  "rarity" : "C",
+  "name" : "Duval",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Ranged",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "The Flying Fish Riders",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

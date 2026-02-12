@@ -1,0 +1,16 @@
+{
+  "id" : "ST03-007",
+  "rarity" : "C",
+  "name" : "Sentomaru",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[DON!! x1] [Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Play up to 1 [Pacifista] with a cost of 4 or less from your deck, then shuffle your deck.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "DON!!xX" ]
+}

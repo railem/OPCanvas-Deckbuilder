@@ -1,0 +1,16 @@
+{
+  "id" : "ST29-016",
+  "rarity" : "C",
+  "name" : "Kizaru!! Compared to Two Years Ago We're a Hundred Times Stronger Now!!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/The Four Emperors/Straw Hat Crew",
+  "effect" : "[Main] Your [Monkey.D.Luffy] Leader gains [Unblockable] during this turn. (This card cannot be blocked.) [Counter] Your Leader gains +3000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Unblockable", "Counter", "Main" ]
+}

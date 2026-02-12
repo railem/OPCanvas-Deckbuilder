@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-087",
+  "rarity" : "C",
+  "name" : "Nero",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Ranged",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "CP9",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

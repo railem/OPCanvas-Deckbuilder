@@ -1,0 +1,19 @@
+{
+    "id": "P-007",
+    "name": "Monkey.D.Luffy",
+    "rarity": "P",
+    "color": "Red",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Supernovas/Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by ＜Strike＞ attribute Leaders or Characters.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

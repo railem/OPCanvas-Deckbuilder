@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-073",
+  "rarity" : "R",
+  "name" : "Little Sadi",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Impel Down",
+  "effect" : "[On Play] Play up to 1 {Jailer Beast} type Character card from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

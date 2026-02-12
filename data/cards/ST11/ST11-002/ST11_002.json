@@ -1,0 +1,16 @@
+{
+  "id" : "ST11-002",
+  "rarity" : "SR",
+  "name" : "Uta",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Music/FILM",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] You may trash 1 Event from your hand: Set up to 1 of your {FILM} type Characters as active.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "End of Your Turn" ]
+}

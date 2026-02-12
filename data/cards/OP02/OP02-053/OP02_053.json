@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-053",
+  "rarity" : "C",
+  "name" : "Crocodile",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Impel Down/Former Baroque Works",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST29-006",
+  "rarity" : "C",
+  "name" : "Stussy",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

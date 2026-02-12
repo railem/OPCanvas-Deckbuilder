@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-023",
+  "rarity" : "C",
+  "name" : "You May Be a Fool...but I Still Love You",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "The Four Emperors/Whitebeard Pirates",
+  "effect" : "[Main] If you have 3 or less Life cards, you cannot add Life cards to your hand using your own effects during this turn.",
+  "trigger" : "[Trigger] Up to 1 of your Leader gains +1000 power during this turn.",
+  "keywords" : [ "Main" ]
+}

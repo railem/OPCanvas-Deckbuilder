@@ -1,0 +1,19 @@
+{
+    "id": "P-084",
+    "name": "Buggy",
+    "rarity": "P",
+    "color": "Blue",
+    "cost": 7,
+    "power": 8000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "The Four Emperors/Cross Guild",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "This Character cannot attack. If your Leader is [Buggy], all Characters with a cost of 3 or 4 cannot attack. [On Play] Play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Permanent"
+    ]
+}

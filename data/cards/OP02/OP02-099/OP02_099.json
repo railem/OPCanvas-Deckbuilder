@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-099",
+  "rarity" : "SR",
+  "name" : "Sakazuki",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

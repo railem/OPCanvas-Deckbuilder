@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-018",
+  "rarity" : "R",
+  "name" : "Honesty Impact",
+  "category" : "EVENT",
+  "cost" : 6,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Navy/SWORD",
+  "effect" : "[Main] Give up to 1 of your opponent's Characters −4000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+  "keywords" : [ "Main" ]
+}

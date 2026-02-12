@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-094",
+  "rarity" : "R",
+  "name" : "Imperial Flame",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Animal Kingdom Pirates",
+  "effect" : "[Main]/[Counter] You may place 3 cards from your trash at the bottom of your deck in any order: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Counter", "Main" ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "OP14-072",
+    "name": "Baby 5",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 4,
+    "power": 1000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Donquixote Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [On K.O.] DON!! −1: Add up to 1 card from the top of your deck to the top of your Life cards.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "On K.O.",
+        "DON!! -X"
+    ]
+}

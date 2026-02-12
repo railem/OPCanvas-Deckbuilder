@@ -1,0 +1,18 @@
+{
+    "id": "OP04-099",
+    "name": "Olin",
+    "rarity": "R",
+    "color": "Yellow",
+    "cost": 7,
+    "power": 7000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Land of Wano/The Four Emperors/Big Mom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "Also treat this card's name as [Charlotte Linlin] according to the rules.",
+    "trigger": "[Trigger] If you have 1 or less Life cards, play this card.",
+    "keywords": [
+        "Permanent"
+    ]
+}

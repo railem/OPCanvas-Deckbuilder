@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-029",
+  "rarity" : "C",
+  "name" : "Grandpa Ryu",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Animal/East Blue",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

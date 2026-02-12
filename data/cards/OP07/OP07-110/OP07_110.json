@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-110",
+  "rarity" : "C",
+  "name" : "York",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Wisdom",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Scientist/Egghead",
+  "effect" : "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger" : "[Trigger] If your Leader is [Vegapunk], play this card.",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST12-002",
+  "rarity" : "C",
+  "name" : "Kuina",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Frost Moon Village",
+  "effect" : "[Activate: Main] You may rest this Character: Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-117",
+  "rarity" : "UC",
+  "name" : "Brick Bat",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "[Counter] Up to 1 of your {Thriller Bark Pirates} type Leader or Character cards gains +3000 power during this battle.",
+  "trigger" : "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+  "keywords" : [ "Counter" ]
+}

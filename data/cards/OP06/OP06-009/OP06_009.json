@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-009",
+  "rarity" : "SR",
+  "name" : "Shuraiya",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "FILM/Shipbuilding Town",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [When Attacking]/[On Block] [Once Per Turn] This Character's base power becomes the same as your opponent's Leader until the start of your next turn.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "When Attacking", "On Block" ]
+}

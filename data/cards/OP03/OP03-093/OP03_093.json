@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-093",
+  "rarity" : "UC",
+  "name" : "Wanze",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "CP7",
+  "effect" : "[On Play] You may trash 1 card from your hand: If your Leader's type includes \"CP\", K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

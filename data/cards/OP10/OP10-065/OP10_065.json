@@ -1,0 +1,18 @@
+{
+    "id": "OP10-065",
+    "name": "Sugar",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 1,
+    "power": 1000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Donquixote Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[Activate: Main] Rest 1 of your DON!! cards and you may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main"
+    ]
+}

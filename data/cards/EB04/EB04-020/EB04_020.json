@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-020",
+  "rarity" : "C",
+  "name" : "Shark Brick Fist",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Fish-Man/Fish-Man Island/The Sun Pirates",
+  "effect" : "[Counter] Up to 1 of your {Fish-Man} type Leader or Character cards gains +3000 power during this battle. Then, set up to 1 of your {Fish-Man} type Characters as active.",
+  "trigger" : "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "keywords" : [ "Counter" ]
+}

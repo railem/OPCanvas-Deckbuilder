@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-003",
+  "rarity" : "UC",
+  "name" : "Crocus",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Former Roger Pirates",
+  "effect" : "[On K.O.] You may reveal 2 Events from your hand: Play up to 1 red Character card with 3000 power or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

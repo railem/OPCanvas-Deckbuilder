@@ -1,0 +1,16 @@
+{
+  "id" : "ST05-015",
+  "rarity" : "C",
+  "name" : "Dr. Indigo",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "FILM/Scientist/Golden Lion Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

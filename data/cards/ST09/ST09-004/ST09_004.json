@@ -1,0 +1,19 @@
+{
+    "id": "ST09-004",
+    "name": "Kaido",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "The Four Emperors/Animal Kingdom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[DON!! x1] If you have 2 or less Life cards, this Character cannot be K.O.'d in battle.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

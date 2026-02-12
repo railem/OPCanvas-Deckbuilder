@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-038",
+  "rarity" : "C",
+  "name" : "Nekomamushi",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Minks/Land of Wano/The Akazaya Nine",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger" : "",
+  "keywords" : [ "Blocker" ]
+}

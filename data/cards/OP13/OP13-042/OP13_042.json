@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-042",
+  "rarity" : "SR",
+  "name" : "Edward.Newgate",
+  "category" : "CHARACTER",
+  "cost" : 10,
+  "attribute" : "Special",
+  "power" : 12000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "The Four Emperors/Whitebeard Pirates",
+  "effect" : "[Blocker] [On Play] Draw 2 cards and trash 1 card from your hand. Then, give your Leader and 1 Character up to 2 rested DON!! cards each.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

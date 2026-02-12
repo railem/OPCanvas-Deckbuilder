@@ -1,0 +1,20 @@
+{
+    "id": "OP15-024",
+    "name": "Usopp",
+    "rarity": "R",
+    "color": "Green",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Ranged",
+    "counter": 1000,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[Opponent's Turn] This Character cannot be rested by your opponent's Leader or Character effects and gains [Blocker].\n[On K.O.] Rest up to 1 of your opponent's Leaders or Characters with a cost of 7 or less. ",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On K.O.",
+        "Opponents Turn"
+    ]
+}

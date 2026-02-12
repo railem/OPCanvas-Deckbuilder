@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-114",
+  "rarity" : "UC",
+  "name" : "X.Drake",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Supernovas/Navy/Drake Pirates",
+  "effect" : "[Activate: Main] You may rest this Character: If the number of your Life cards is equal to or less than the number of your opponent's Life cards, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

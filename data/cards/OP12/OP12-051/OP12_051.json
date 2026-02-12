@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-051",
+  "rarity" : "UC",
+  "name" : "Hina",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "[Activate: Main] You may rest this Character and trash 1 card from your hand: Up to 1 of your opponent's Characters with a base cost of 4 or less cannot activate [Blocker] during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Activate: Main" ]
+}

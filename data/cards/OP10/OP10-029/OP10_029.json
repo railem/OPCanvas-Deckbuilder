@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-029",
+  "rarity" : "R",
+  "name" : "Dracule Mihawk",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY/The Seven Warlords of the Sea",
+  "effect" : "[On Play] If you have 2 or more rested Characters, set up to 1 of your rested {ODYSSEY} type Characters with a cost of 5 or less as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST09-003",
+  "rarity" : "C",
+  "name" : "Ulti",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Animal Kingdom Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

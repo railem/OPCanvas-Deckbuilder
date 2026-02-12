@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-106",
+  "rarity" : "C",
+  "name" : "Charlotte Opera",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

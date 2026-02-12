@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-030",
+  "rarity" : "C",
+  "name" : "Chaka & Pell",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Alabasta",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

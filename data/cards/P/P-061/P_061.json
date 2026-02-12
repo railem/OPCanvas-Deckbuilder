@@ -1,0 +1,16 @@
+{
+  "id" : "P-061",
+  "rarity" : "P",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Strike",
+  "power" : 10000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "FILM/Straw Hat Crew",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

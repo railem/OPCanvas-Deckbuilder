@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-099",
+  "rarity" : "C",
+  "name" : "Aisa",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Sky Island",
+  "effect" : "[On Play] Look at up to 1 card from the top of your or your opponent's Life cards and place it at the top or bottom of the Life cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

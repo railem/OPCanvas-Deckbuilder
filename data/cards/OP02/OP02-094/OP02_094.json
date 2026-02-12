@@ -1,0 +1,19 @@
+{
+    "id": "OP02-094",
+    "name": "Isuka",
+    "rarity": "UC",
+    "color": "Black",
+    "cost": 3,
+    "power": 4000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Navy",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[DON!! x1] [Once Per Turn] When this Character battles and K.O.'s your opponent's Character, set this Character as active.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

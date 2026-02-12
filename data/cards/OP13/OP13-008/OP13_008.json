@@ -1,0 +1,18 @@
+{
+    "id": "OP13-008",
+    "name": "Emporio.Ivankov",
+    "rarity": "C",
+    "color": "Red",
+    "cost": 2,
+    "power": 3000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Revolutionary Army",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If your {Revolutionary Army} type Character would be K.O.'d by your opponent's effect, you may trash this Character instead.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

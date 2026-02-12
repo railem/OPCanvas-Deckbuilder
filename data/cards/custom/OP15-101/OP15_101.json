@@ -1,0 +1,18 @@
+{
+    "id": "OP15-101",
+    "name": "Kalgara",
+    "rarity": "UC",
+    "color": "Yellow",
+    "cost": 3,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 0,
+    "type": "Sky Island / Shandian Warrior",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] You may trash 1 card from your hand: Look at 5 cards from the top of your deck; reveal a total of up to 2 [Mont Blanc Norland] or {Shandian Warrior} type cards and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

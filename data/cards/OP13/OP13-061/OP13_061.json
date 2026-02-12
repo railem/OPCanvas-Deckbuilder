@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-061",
+  "rarity" : "C",
+  "name" : "Inuarashi",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Minks/Roger Pirates",
+  "effect" : "[On Play] If you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and rest it. Then, K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

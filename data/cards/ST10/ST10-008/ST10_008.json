@@ -1,0 +1,16 @@
+{
+  "id" : "ST10-008",
+  "rarity" : "C",
+  "name" : "Shachi & Penguin",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Ranged",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "Heart Pirates",
+  "effect" : "[On Play] If you have 3 or less DON!! cards on your field, add up to 2 DON!! cards from your DON!! deck and rest them.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

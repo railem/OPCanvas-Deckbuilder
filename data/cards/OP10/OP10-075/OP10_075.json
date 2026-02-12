@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-075",
+  "rarity" : "UC",
+  "name" : "Foxy",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Foxy Pirates",
+  "effect" : "[Activate: Main] You may trash this Character: If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

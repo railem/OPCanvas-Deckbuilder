@@ -1,0 +1,19 @@
+{
+    "id": "OP15-116",
+    "name": "Gum Gum Golden Rifle",
+    "rarity": "R",
+    "color": "Yellow",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Sky Island / Straw Hat Crew",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main]: If your Leader has the {Straw Hat Crew} type, trash the top card of your life. Then, add up to 1 card from the top of your deck to your life, and discard 1 card.\n\n[Counter] Up to 1 of your Leaders gains +4000 power during this battle.",
+    "trigger": "",
+    "keywords": [
+        "Counter",
+        "Main"
+    ]
+}

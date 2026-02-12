@@ -1,0 +1,16 @@
+{
+  "id" : "ST02-002",
+  "rarity" : "C",
+  "name" : "Vito",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Ranged",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Firetank Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

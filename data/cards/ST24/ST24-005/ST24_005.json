@@ -1,0 +1,16 @@
+{
+  "id" : "ST24-005",
+  "rarity" : "C",
+  "name" : "X.Drake",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Supernovas/Navy/Drake Pirates",
+  "effect" : "[On Play] If your Leader has the {Supernovas} type, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, set up to 1 of your DON!! cards as active at the end of this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

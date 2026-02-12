@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-054",
+  "rarity" : "UC",
+  "name" : "Monkey.D.Garp",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[On Play] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

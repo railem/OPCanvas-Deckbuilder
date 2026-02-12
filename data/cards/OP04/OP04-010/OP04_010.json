@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-010",
+  "rarity" : "C",
+  "name" : "Tony Tony.Chopper",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Animal/Alabasta/Straw Hat Crew",
+  "effect" : "[On Play] Play up to 1 {Animal} type Character card with 3000 power or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

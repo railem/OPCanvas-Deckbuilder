@@ -1,0 +1,19 @@
+{
+    "id": "OP08-084",
+    "name": "Jack",
+    "rarity": "SR",
+    "color": "Black",
+    "cost": 7,
+    "power": 8000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "Animal Kingdom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "This Character gains +4 cost. [Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Permanent"
+    ]
+}

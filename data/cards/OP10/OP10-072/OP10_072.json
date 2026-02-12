@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-072",
+  "rarity" : "SR",
+  "name" : "Donquixote Rosinante",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Navy/Donquixote Pirates",
+  "effect" : "[On Play] You may trash 1 Event from your hand: Draw 2 cards. [End of Your Turn] If you have 7 or more DON!! cards on your field, set up to 2 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "End of Your Turn" ]
+}

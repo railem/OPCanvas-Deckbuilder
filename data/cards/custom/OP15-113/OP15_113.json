@@ -1,0 +1,18 @@
+{
+    "id": "OP15-113",
+    "name": "Roronoa Zoro",
+    "rarity": "SR",
+    "color": "Yellow",
+    "cost": 4,
+    "power": 6000,
+    "attribute": "Slash",
+    "counter": 0,
+    "type": "Sky Island / Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] You may discard 1 card from your hand: Add up to 1 card from the top of your deck to your life.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

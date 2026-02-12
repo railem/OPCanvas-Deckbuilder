@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-014",
+  "rarity" : "R",
+  "name" : "Eustass\"Captain\"Kid",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Supernovas/Kid Pirates",
+  "effect" : "[Blocker] [On Play] If your Leader has the {Supernovas} type, play up to 1 red Character card with 2000 power or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-014",
+  "rarity" : "UC",
+  "name" : "Monkey.D.Garp",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[When Attacking] Play up to 1 red Character card with a cost of 1 from your hand.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

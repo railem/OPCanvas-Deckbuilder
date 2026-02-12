@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-035",
+  "rarity" : "C",
+  "name" : "Karmic Punishment",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Supernovas/Fallen Monk Pirates",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 3 or more Characters, that card gains an additional +1000 power during this battle.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+  "keywords" : [ "Counter" ]
+}

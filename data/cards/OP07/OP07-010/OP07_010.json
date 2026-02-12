@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-010",
+  "rarity" : "R",
+  "name" : "Baccarat",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "FILM/Grantesoro",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Your Opponent's Attack" ]
+}

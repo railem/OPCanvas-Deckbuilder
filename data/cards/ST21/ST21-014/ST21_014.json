@@ -1,0 +1,16 @@
+{
+  "id" : "ST21-014",
+  "rarity" : "SR",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "The Four Emperors/Straw Hat Crew",
+  "effect" : "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger" : "",
+  "keywords" : [ "Rush", "When Attacking" ]
+}

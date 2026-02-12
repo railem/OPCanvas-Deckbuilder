@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-099",
+  "rarity" : "C",
+  "name" : "Kurozumi Semimaru",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Land of Wano/Kurozumi Clan",
+  "effect" : "{Kurozumi Clan} type Characters other than your [Kurozumi Semimaru] cannot be K.O.'d in battle.",
+  "trigger" : "",
+  "keywords" : [ ]
+}

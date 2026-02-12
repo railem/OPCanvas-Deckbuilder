@@ -1,0 +1,16 @@
+{
+  "id" : "P-036",
+  "rarity" : "P",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Land of Wano/Straw Hat Crew",
+  "effect" : "[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character and up to 1 of your Leader gain +1000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

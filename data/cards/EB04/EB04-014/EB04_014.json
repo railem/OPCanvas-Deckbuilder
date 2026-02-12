@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-014",
+  "rarity" : "C",
+  "name" : "Kozuki Sukiyaki",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Land of Wano/Kouzuki Clan",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your {Land of Wano} type Leader.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Activate: Main" ]
+}

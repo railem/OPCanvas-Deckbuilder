@@ -1,0 +1,16 @@
+{
+  "id" : "ST07-003",
+  "rarity" : "SR",
+  "name" : "Charlotte Katakuri",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates",
+  "effect" : "[On Play] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, if you have less Life cards than your opponent, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+  "trigger" : "",
+  "keywords" : [ "Rush", "On Play" ]
+}

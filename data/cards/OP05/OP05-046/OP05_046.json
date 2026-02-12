@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-046",
+  "rarity" : "C",
+  "name" : "Dalmatian",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[On K.O.] Draw 1 card and place 1 card from your hand at the bottom of your deck.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

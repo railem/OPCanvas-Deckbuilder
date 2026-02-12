@@ -1,0 +1,16 @@
+{
+  "id" : "ST03-017",
+  "rarity" : "C",
+  "name" : "Love-Love Mellow",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea/Kuja Pirates",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, draw 1 card if you have 3 or less cards in your hand.",
+  "trigger" : "",
+  "keywords" : [ "Counter" ]
+}

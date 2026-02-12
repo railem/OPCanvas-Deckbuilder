@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-013",
+  "rarity" : "R",
+  "name" : "Prince Grus",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Navy/SWORD",
+  "effect" : "[When Attacking] All of your opponent's Characters with 2000 power or less cannot activate [Blocker] during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "When Attacking" ]
+}

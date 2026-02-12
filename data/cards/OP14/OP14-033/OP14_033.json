@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-033",
+  "rarity" : "SR",
+  "name" : "Perona",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Muggy Kingdom/Thriller Bark Pirates",
+  "effect" : "[On Play] Up to 2 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next End Phase. [On K.O.] You may rest 1 of your cards: Play up to 1 green Character card with a cost of 5 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

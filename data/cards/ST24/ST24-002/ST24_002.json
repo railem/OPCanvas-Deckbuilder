@@ -1,0 +1,16 @@
+{
+  "id" : "ST24-002",
+  "rarity" : "SR",
+  "name" : "Kid & Killer",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash/Special",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Supernovas/Kid Pirates",
+  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [On Your Opponent's Attack] You may trash this Character: Set up to 1 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On Your Opponent's Attack" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-108",
+  "rarity" : "C",
+  "name" : "Tenguyama Hitetsu",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Land of Wano/Kouzuki Clan",
+  "effect" : "-",
+  "trigger" : "[Trigger] Up to 1 of your {Land of Wano} type Leader or Character cards gains +2000 power during this turn.",
+  "keywords" : [ ]
+}

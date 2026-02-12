@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-026",
+  "rarity" : "UC",
+  "name" : "Kuina",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "East Blue/Frost Moon Village",
+  "effect" : "[Activate: Main] You may rest this Character: Rest up to 1 of your opponent's Characters with a base cost of 4 or less. Then, give up to 3 rested DON!! cards to your [Roronoa Zoro] Leader.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

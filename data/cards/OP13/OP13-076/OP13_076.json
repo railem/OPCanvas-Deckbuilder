@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-076",
+  "rarity" : "R",
+  "name" : "Divine Departure",
+  "category" : "EVENT",
+  "cost" : null,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "King of the Pirates/Roger Pirates",
+  "effect" : "[Main] You may rest 5 of your DON!! cards: If you have any DON!! cards given, give up to 1 of your opponent's Characters −8000 power during this turn. [Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Counter", "Main" ]
+}

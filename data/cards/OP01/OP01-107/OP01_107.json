@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-107",
+  "rarity" : "C",
+  "name" : "Babanuki",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Ranged",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Animal Kingdom Pirates/SMILE",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

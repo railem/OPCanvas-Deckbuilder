@@ -1,0 +1,19 @@
+{
+    "id": "OP04-069",
+    "name": "Mr.2.Bon.Kurei(Bentham)",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 3,
+    "power": 4000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Baroque Works",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Your Opponent's Attack] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character's base power becomes the same as the power of your opponent's attacking Leader or Character during this turn.",
+    "trigger": "[Trigger] DON!! −1: Play this card.",
+    "keywords": [
+        "On Your Opponent's Attack",
+        "DON!! -X"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-028",
+  "rarity" : "SR",
+  "name" : "Shanks",
+  "category" : "CHARACTER",
+  "cost" : 10,
+  "attribute" : "Slash",
+  "power" : 12000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "FILM/The Four Emperors/Red-Haired Pirates",
+  "effect" : "[On Play] Set all of your DON!! cards as active. Then, you cannot play cards from your hand during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

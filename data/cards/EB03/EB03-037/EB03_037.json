@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-037",
+  "rarity" : "R",
+  "name" : "Lim",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Wisdom",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "ODYSSEY",
+  "effect" : "[On Play] If you have 7 or more DON!! cards on your field, all of your {ODYSSEY} type Leader and Character cards gain +1000 power until the end of your opponent's next End Phase.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

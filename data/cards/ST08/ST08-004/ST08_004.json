@@ -1,0 +1,16 @@
+{
+  "id" : "ST08-004",
+  "rarity" : "C",
+  "name" : "Koby",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

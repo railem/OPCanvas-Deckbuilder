@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-113",
+  "rarity" : "C",
+  "name" : "S-Bear",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Egghead/Seraphim",
+  "effect" : "-",
+  "trigger" : "[Trigger] You may trash 1 card from your hand: If you have 2 or less Life cards, play this card and K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "keywords" : [ ]
+}

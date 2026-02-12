@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-032",
+  "rarity" : "UC",
+  "name" : "Donquixote Rosinante",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY/Navy/Donquixote Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] [Once Per Turn] Set this Character as active.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Your Opponent's Attack" ]
+}

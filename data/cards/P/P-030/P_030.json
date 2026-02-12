@@ -1,0 +1,16 @@
+{
+  "id" : "P-030",
+  "rarity" : "P",
+  "name" : "Jinbe",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Fish-Man/The Seven Warlords of the Sea/The Sun Pirates",
+  "effect" : "[On K.O.] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

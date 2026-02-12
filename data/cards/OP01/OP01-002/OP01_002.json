@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-002",
+  "rarity" : "L",
+  "name" : "Trafalgar Law",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Red/Green",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Heart Pirates",
+  "effect" : "[Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): If you have 5 Characters, return 1 of your Characters to the owner's hand. Then, play up to 1 Character with a cost of 5 or less from your hand that is a different color than the returned Character.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

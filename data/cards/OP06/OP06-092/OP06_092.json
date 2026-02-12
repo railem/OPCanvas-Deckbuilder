@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-092",
+  "rarity" : "R",
+  "name" : "Brook",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Former Rumbar Pirates",
+  "effect" : "[On Play] Choose one: • Trash up to 1 of your opponent's Characters with a cost of 4 or less. • Your opponent places 3 cards from their trash at the bottom of their deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

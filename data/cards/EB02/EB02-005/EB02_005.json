@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-005",
+  "rarity" : "C",
+  "name" : "Fake Straw Hat Crew",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Ranged",
+  "power" : 3000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Fake Straw Hat Crew",
+  "effect" : "[Your Turn] This Character gains +2000 power. [Opponent's Turn] Give this Character −2000 power.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn", "Opponents Turn" ]
+}

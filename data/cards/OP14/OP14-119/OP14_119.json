@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-119",
+  "rarity" : "SEC",
+  "name" : "Dracule Mihawk",
+  "category" : "CHARACTER",
+  "cost" : 9,
+  "attribute" : "Slash",
+  "power" : 10000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "The Seven Warlords of the Sea",
+  "effect" : "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost of 9 or less cannot be rested until the end of your opponent's next End Phase. [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "On Your Opponent's Attack", "Your Turn" ]
+}

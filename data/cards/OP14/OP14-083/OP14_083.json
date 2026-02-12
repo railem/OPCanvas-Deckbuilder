@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-083",
+  "rarity" : "UC",
+  "name" : "Ms. Wednesday",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 1000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Baroque Works",
+  "effect" : "[Activate: Main] You may trash this Character: Give up to 1 of your opponent's 0 cost Characters −3000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

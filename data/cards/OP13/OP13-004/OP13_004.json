@@ -1,0 +1,19 @@
+{
+    "id": "OP13-004",
+    "name": "Sabo",
+    "rarity": "L",
+    "color": "Red/Black",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Dressrosa/Revolutionary Army",
+    "category": "LEADER",
+    "blockIcon": "4",
+    "effect": "If you have 4 or more Life cards, give this Leader −1000 power. [DON!! x1] If you have a Character with a cost of 8 or more, your Leader and all of your Characters gain +1000 power.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

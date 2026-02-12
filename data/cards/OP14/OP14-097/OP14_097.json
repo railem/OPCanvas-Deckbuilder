@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-097",
+  "rarity" : "UC",
+  "name" : "Hurry Up and Make Me the Pirate King!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "The Seven Warlords of the Sea/Thriller Bark Pirates",
+  "effect" : "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Thriller Bark Pirates} type card other than [Hurry Up and Make Me the Pirate King!] and add it to your hand. Then, trash the rest.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Main" ]
+}

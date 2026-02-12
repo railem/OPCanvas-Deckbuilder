@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-113",
+  "rarity" : "C",
+  "name" : "Morley",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Giant/Revolutionary Army",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

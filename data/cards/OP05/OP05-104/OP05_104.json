@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-104",
+  "rarity" : "UC",
+  "name" : "Conis",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Sky Island",
+  "effect" : "[On Play] You may place 1 of your Stages at the bottom of your deck: Draw 1 card and trash 1 card from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

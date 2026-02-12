@@ -1,0 +1,20 @@
+{
+    "id": "OP15-053",
+    "name": "Rebecca",
+    "rarity": "SR",
+    "color": "Blue",
+    "cost": 1,
+    "power": 0,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Dressrosa",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[DON!! x1] This Character gains [Blocker]. \n\n[On Play] Look at 3 cards from the top of your deck; reveal and add up to 1 {Dressrosa} type card to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Play",
+        "DON!!xX"
+    ]
+}

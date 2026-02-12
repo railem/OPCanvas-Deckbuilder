@@ -1,0 +1,19 @@
+{
+    "id": "OP03-060",
+    "name": "Kalifa",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 4,
+    "power": 4000,
+    "attribute": "Wisdom",
+    "counter": 2000,
+    "type": "Water Seven/Galley-La Company",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
+    "trigger": "",
+    "keywords": [
+        "When Attacking",
+        "DON!! -X"
+    ]
+}

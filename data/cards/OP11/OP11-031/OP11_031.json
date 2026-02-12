@@ -1,0 +1,20 @@
+{
+    "id": "OP11-031",
+    "name": "Jinbe",
+    "rarity": "SR",
+    "color": "Green",
+    "cost": 6,
+    "power": 8000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Fish-Man/Fish-Man Island/The Sun Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] If your Leader has the {Fish-Man} or {Merfolk} type, rest up to 1 of your opponent's Characters with a cost of 5 or less. [Activate: Main] [Once Per Turn] Up to 1 of your {Fish-Man} or {Merfolk} type Characters can attack Characters on the turn in which it is played.",
+    "trigger": "",
+    "keywords": [
+        "Rush: Character",
+        "On Play",
+        "Activate: Main"
+    ]
+}

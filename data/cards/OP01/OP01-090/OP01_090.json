@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-090",
+  "rarity" : "UC",
+  "name" : "Baroque Works",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Baroque Works",
+  "effect" : "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Baroque Works} type card other than [Baroque Works] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "Main" ]
+}

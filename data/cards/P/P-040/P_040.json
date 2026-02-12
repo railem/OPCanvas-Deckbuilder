@@ -1,0 +1,18 @@
+{
+    "id": "P-040",
+    "name": "Kaido",
+    "rarity": "P",
+    "color": "Purple",
+    "cost": 8,
+    "power": 10000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "The Four Emperors/Animal Kingdom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "If your opponent has 10 DON!! cards on their field, this Character cannot be K.O.'d.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

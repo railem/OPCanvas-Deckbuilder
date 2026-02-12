@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-041",
+  "rarity" : "C",
+  "name" : "The Ark Noah",
+  "category" : "STAGE",
+  "cost" : 6,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Fish-Man Island",
+  "effect" : "[On Play] Rest all of your opponent's Characters.",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "On Play" ]
+}

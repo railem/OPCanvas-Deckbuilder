@@ -1,0 +1,19 @@
+{
+    "id": "OP15-077",
+    "name": "Jamboule",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 0,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Sky Island",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] DON!!-1: Draw 1 card. Then, up to 1 of your opponent's rested Characters with a power of 6000 or less do not become active during your opponent's next refresh phase.",
+    "trigger": "",
+    "keywords": [
+        "DON!! -X",
+        "Main"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-036",
+  "rarity" : "C",
+  "name" : "Minochihuahua",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "Impel Down/Jailer Beast",
+  "effect" : "[Rush] (This card can attack on the turn in which it is played.) [On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "",
+  "keywords" : [ "Rush", "On K.O." ]
+}

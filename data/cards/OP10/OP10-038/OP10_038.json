@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-038",
+  "rarity" : "C",
+  "name" : "Roronoa Zoro",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY/Supernovas/Straw Hat Crew",
+  "effect" : "[Opponent's Turn] If you have 2 or more rested Characters, this Character gains +2000 power.",
+  "trigger" : "",
+  "keywords" : [ "Opponents Turn" ]
+}

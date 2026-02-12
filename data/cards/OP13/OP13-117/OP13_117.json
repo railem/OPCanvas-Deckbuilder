@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-117",
+  "rarity" : "R",
+  "name" : "Gum-Gum Dawn Stamp",
+  "category" : "EVENT",
+  "cost" : 5,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/The Four Emperors/Straw Hat Crew",
+  "effect" : "[Main] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a base cost of 6 or less.",
+  "trigger" : "[Trigger] Draw 1 card.",
+  "keywords" : [ "Main" ]
+}

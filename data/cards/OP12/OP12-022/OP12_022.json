@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-022",
+  "rarity" : "C",
+  "name" : "Inuarashi",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Minks/Land of Wano/The Akazaya Nine",
+  "effect" : "[Activate: Main] You may rest this Character: Up to 1 of your opponent's rested Characters with a cost of 5 or less will not become active in your opponent's next Refresh Phase.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

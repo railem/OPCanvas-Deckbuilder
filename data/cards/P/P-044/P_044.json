@@ -1,0 +1,16 @@
+{
+  "id" : "P-044",
+  "rarity" : "P",
+  "name" : "Sabo",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Revolutionary Army",
+  "effect" : "[DON!! x1] If you have 4 or less cards in your hand, this Character gains +2000 power.",
+  "trigger" : "",
+  "keywords" : [ "DON!!xX" ]
+}

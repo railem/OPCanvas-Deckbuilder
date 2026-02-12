@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-051",
+  "rarity" : "R",
+  "name" : "Boa Hancock",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "The Seven Warlords of the Sea/Kuja Pirates",
+  "effect" : "[On K.O.] If your Leader is [Boa Hancock] or multicolored, draw 2 cards.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-044",
+  "rarity" : "SR",
+  "name" : "Sengoku",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Wisdom",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "[Blocker] [On Play] Play up to 1 black {Navy} type Character card with a cost of 4 or less from your trash rested.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

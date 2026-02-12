@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-100",
+  "rarity" : "SR",
+  "name" : "Enel",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Sky Island",
+  "effect" : "[Rush] [Once Per Turn] If this Character would leave the field, you may trash 1 card from the top of your Life cards instead. If there is a [Monkey.D.Luffy] Character, this effect is negated.",
+  "trigger" : "",
+  "keywords" : [ "Rush" ]
+}

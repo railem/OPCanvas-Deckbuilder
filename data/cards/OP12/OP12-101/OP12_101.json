@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-101",
+  "rarity" : "C",
+  "name" : "Jewelry Bonney",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Supernovas/Bonney Pirates",
+  "effect" : "[Activate: Main] You may rest this Character: Your {Supernovas} type Leader gains +1000 power until the end of your opponent's next turn.",
+  "trigger" : "[Trigger] If your Leader has the {Supernovas} type, play this card.",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "OP09-045",
+    "name": "Cabaji",
+    "rarity": "UC",
+    "color": "Blue",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 2000,
+    "type": "Cross Guild",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If you have a [Buggy] or [Mohji] Character, this Character cannot be K.O.'d in battle.",
+    "trigger": "",
+    "keywords": [
+        "Main"
+    ]
+}

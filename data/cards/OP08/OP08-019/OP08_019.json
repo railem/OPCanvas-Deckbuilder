@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-019",
+  "rarity" : "UC",
+  "name" : "Munch-Munch Mutation",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Drum Kingdom",
+  "effect" : "[Main]/[Counter] Give up to 1 of your opponent's Characters −3000 power during this turn. Then, up to 1 of your Characters gains +3000 power during this turn.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+  "keywords" : [ "Counter", "Main" ]
+}

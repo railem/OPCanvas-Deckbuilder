@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-066",
+  "rarity" : "C",
+  "name" : "Impel Down All Stars",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Impel Down",
+  "effect" : "[Main] You may trash 2 cards from your hand: If your Leader has the {Impel Down} type, draw up to 2 cards.",
+  "trigger" : "[Trigger] Draw 2 cards.",
+  "keywords" : [ "Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-115",
+  "rarity" : "R",
+  "name" : "The Earth Will Not Lose!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Sky Island/Shandian Warrior",
+  "effect" : "[Counter] If your Leader has the {Shandian Warrior} type, up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, play up to 1 [Upper Yard] from your hand.",
+  "trigger" : "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+  "keywords" : [ "Counter" ]
+}

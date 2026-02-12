@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-066",
+  "rarity" : "SR",
+  "name" : "Silvers Rayleigh",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Slash",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Roger Pirates",
+  "effect" : "[Rush] [On Play] If you have any DON!! cards given, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, add up to 1 DON!! card from your DON!! deck and set it as active at the end of this turn.",
+  "trigger" : "",
+  "keywords" : [ "Rush", "On Play" ]
+}

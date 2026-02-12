@@ -1,0 +1,19 @@
+{
+    "id": "ST25-001",
+    "name": "Alvida",
+    "rarity": "C",
+    "color": "Blue",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Cross Guild",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains +1 cost. [On Play] If your Leader is [Buggy], draw 3 cards and trash 2 cards from your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Permanent"
+    ]
+}

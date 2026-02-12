@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-092",
+  "rarity" : "R",
+  "name" : "Mr.3(Galdino)",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Baroque Works",
+  "effect" : "[Opponent's Turn] [Once Per Turn] If this Character would be K.O.'d, you may place 3 cards from your trash at the bottom of your deck in any order instead.",
+  "trigger" : "",
+  "keywords" : [ "Opponents Turn" ]
+}

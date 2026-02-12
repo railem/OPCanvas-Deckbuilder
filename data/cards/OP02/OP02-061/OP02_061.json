@@ -1,0 +1,19 @@
+{
+    "id": "OP02-061",
+    "name": "Morley",
+    "rarity": "UC",
+    "color": "Blue",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Giant/Revolutionary Army",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[When Attacking] If you have 1 or less cards in your hand, your opponent cannot activate the [Blocker] of any Character with a cost of 5 or less during this battle.",
+    "trigger": "",
+    "keywords": [
+        "Unblockable",
+        "When Attacking"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-034",
+  "rarity" : "UC",
+  "name" : "Tony Tony.Chopper",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "FILM/Animal/Straw Hat Crew",
+  "effect" : "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

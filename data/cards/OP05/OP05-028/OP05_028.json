@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-028",
+  "rarity" : "C",
+  "name" : "Donquixote Doflamingo",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Ranged",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Donquixote Pirates",
+  "effect" : "[Activate: Main] You may trash this Character: K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-046",
+  "rarity" : "C",
+  "name" : "Miss Doublefinger(Zala)",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Baroque Works",
+  "effect" : "[On Play] If there is a Character with a cost of 0 or with a cost of 8 or more, draw 1 card. [On K.O.] Trash 2 cards from the top of your deck.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

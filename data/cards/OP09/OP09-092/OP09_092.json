@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-092",
+  "rarity" : "C",
+  "name" : "Marshall.D.Teach",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[Activate: Main] You may rest this Character: If the number of cards in your hand is at least 3 less than the number in your opponent's hand, draw 2 cards and trash 1 card from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

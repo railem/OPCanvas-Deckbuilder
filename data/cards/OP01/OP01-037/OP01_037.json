@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-037",
+  "rarity" : "C",
+  "name" : "Kawamatsu",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Fish-Man/Land of Wano/The Akazaya Nine",
+  "effect" : "-",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ ]
+}

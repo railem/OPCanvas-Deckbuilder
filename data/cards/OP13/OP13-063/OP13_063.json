@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-063",
+  "rarity" : "UC",
+  "name" : "Kouzuki Oden",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Land of Wano/Kouzuki Clan/Roger Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

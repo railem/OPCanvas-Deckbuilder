@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-055",
+  "rarity" : "UC",
+  "name" : "Bartolomeo",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Dressrosa/Supernovas",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

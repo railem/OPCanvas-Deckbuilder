@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-095",
+  "rarity" : "C",
+  "name" : "Saint Rosward",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Ranged",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Celestial Dragons",
+  "effect" : "[On Play] You may trash 1 card from your hand: If you only have {Celestial Dragons} type Characters, K.O. up to 2 of your opponent's Characters with a base cost of 3 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

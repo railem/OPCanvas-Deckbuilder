@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-080",
+  "rarity" : "UC",
+  "name" : "Elizabello II",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Kingdom of Prodence/Dressrosa",
+  "effect" : "[When Attacking] [Once Per Turn] You may return 20 cards from your trash to your deck and shuffle it: This Character gains [Double Attack] and +10000 power during this battle. (This card deals 2 damage.)",
+  "trigger" : "",
+  "keywords" : [ "Double Attack", "When Attacking" ]
+}

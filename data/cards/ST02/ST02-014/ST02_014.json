@@ -1,0 +1,16 @@
+{
+  "id" : "ST02-014",
+  "rarity" : "C",
+  "name" : "X.Drake",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Navy/Supernovas/Drake Pirates",
+  "effect" : "[DON!! x1] [Your Turn] If this Character is rested, your {Supernovas} or {Navy} type Leaders and Characters gain +1000 power.",
+  "trigger" : "",
+  "keywords" : [ "DON!!xX", "Your Turn" ]
+}

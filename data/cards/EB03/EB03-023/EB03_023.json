@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-023",
+  "rarity" : "C",
+  "name" : "Kaya",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "East Blue",
+  "effect" : "[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

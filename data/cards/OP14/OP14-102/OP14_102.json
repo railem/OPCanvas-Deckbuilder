@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-102",
+  "rarity" : "C",
+  "name" : "Kumacy",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "-",
+  "trigger" : "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+  "keywords" : [ ]
+}

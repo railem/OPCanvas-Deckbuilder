@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-118",
+  "rarity" : "SEC",
+  "name" : "Silvers Rayleigh",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Slash",
+  "power" : 8000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Former Roger Pirates",
+  "effect" : "[On Play] Select up to 2 of your opponent's Characters, and give 1 Character −3000 power and the other −2000 power until the end of your opponent's next turn. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-078",
+  "rarity" : "C",
+  "name" : "Oimo & Kashii",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Giant/World Government",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

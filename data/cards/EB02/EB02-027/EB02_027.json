@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-027",
+  "rarity" : "C",
+  "name" : "Vista",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[On Play] Place up to 1 of your opponent's Characters with 1000 power or less at the bottom of the owner's deck.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

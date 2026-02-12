@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-123",
+  "rarity" : "SEC",
+  "name" : "Charlotte Katakuri",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Strike",
+  "power" : 8000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates",
+  "effect" : "[On Play] Add up to 1 Character with a cost of 8 or less to the top or bottom of the owner's Life cards face-up.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-022",
+  "rarity" : "SR",
+  "name" : "Inazuma",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Impel Down/Revolutionary Army",
+  "effect" : "[End of Your Turn] If you have 2 or less cards in your hand, draw 2 cards.",
+  "trigger" : "",
+  "keywords" : [ "End of Your Turn" ]
+}

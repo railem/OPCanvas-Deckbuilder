@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-030",
+  "rarity" : "C",
+  "name" : "Dosun",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Fish-Man/New Fish-Man Pirates",
+  "effect" : "[When Attacking] If your Leader has the {New Fish-Man Pirates} type, this Character cannot be K.O.'d in battle and gains +2000 power until the start of your next turn. Then, add 1 card from the top of your Life cards to your hand.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

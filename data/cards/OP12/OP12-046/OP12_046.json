@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-046",
+  "rarity" : "C",
+  "name" : "Zephyr(Navy)",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "FILM/Navy",
+  "effect" : "[On Play] Trash 2 cards from your hand. [Activate: Main] You may trash this Character: Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Activate: Main" ]
+}

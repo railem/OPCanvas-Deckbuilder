@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-109",
+  "rarity" : "R",
+  "name" : "Basil Hawkins",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Supernovas/Hawkins Pirates",
+  "effect" : "[On K.O.] Trash up to 1 card from the top of your opponent's Life cards.",
+  "trigger" : "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+  "keywords" : [ "On K.O." ]
+}

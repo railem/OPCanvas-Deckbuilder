@@ -1,0 +1,18 @@
+{
+    "id": "OP12-036",
+    "name": "Roronoa Zoro",
+    "rarity": "C",
+    "color": "Green",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Supernovas/Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "This card in your hand cannot be played by effects. If your Leader has the <Slash> attribute, this Character cannot be K.O.'d in battle by <Slash> attribute cards and gains +1000 power.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

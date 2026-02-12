@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-050",
+  "rarity" : "R",
+  "name" : "Hina",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[On Play] Draw 1 card if you have 5 or less cards in your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

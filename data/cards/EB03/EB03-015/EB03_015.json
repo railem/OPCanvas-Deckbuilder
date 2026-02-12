@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-015",
+  "rarity" : "C",
+  "name" : "Camie",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Merfolk/Fish-Man Island",
+  "effect" : "[Activate: Main] You may rest this Character: Give up to 1 rested DON!! card to 1 of your {Fish-Man} or {Merfolk} type Leader or Character cards. Then, rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

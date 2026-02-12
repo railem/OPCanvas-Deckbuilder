@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-024",
+  "rarity" : "C",
+  "name" : "Terracotta",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Alabasta",
+  "effect" : "[Activate: Main] You may rest this Character and trash 1 card from your hand: Up to 1 of your {Alabasta} type Characters gains [Unblockable] during this turn. (This card cannot be blocked.)",
+  "trigger" : "",
+  "keywords" : [ "Unblockable", "Activate: Main" ]
+}

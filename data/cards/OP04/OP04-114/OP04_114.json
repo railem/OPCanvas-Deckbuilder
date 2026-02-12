@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-114",
+  "rarity" : "C",
+  "name" : "Randolph",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates/Homies",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

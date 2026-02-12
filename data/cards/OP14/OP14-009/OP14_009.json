@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-009",
+  "rarity" : "SR",
+  "name" : "Trafalgar Law",
+  "category" : "CHARACTER",
+  "cost" : 9,
+  "attribute" : "Slash",
+  "power" : 10000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "The Seven Warlords of the Sea/Supernovas/Heart Pirates",
+  "effect" : "[Rush] [On Your Opponent's Attack] [Once Per Turn] You may trash 2 cards from your hand: Select your Leader and 1 Character. Swap the base power of the selected cards with each other during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Rush", "On Your Opponent's Attack" ]
+}

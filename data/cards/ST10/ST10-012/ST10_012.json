@@ -1,0 +1,16 @@
+{
+  "id" : "ST10-012",
+  "rarity" : "C",
+  "name" : "Bepo",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "Minks/Heart Pirates",
+  "effect" : "[On Play]/[When Attacking] If your opponent has more DON!! cards on their field than you, add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking" ]
+}

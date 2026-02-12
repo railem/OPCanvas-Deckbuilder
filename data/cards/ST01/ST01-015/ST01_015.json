@@ -1,0 +1,16 @@
+{
+  "id" : "ST01-015",
+  "rarity" : "C",
+  "name" : "Gum-Gum Jet Pistol",
+  "category" : "EVENT",
+  "cost" : 4,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Straw Hat Crew",
+  "effect" : "[Main] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-026",
+  "rarity" : "R",
+  "name" : "Sakazuki",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY/Navy",
+  "effect" : "[On Play] If you have 2 or more rested Characters, K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

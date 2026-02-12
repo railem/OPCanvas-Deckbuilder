@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-055",
+  "rarity" : "C",
+  "name" : "Mr.1(Daz.Bonez)",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Cross Guild/Former Baroque Works",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-028",
+  "rarity" : "C",
+  "name" : "Green Star Rafflesia",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Counter] Give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
+  "trigger" : "[Trigger] Activate this card's [Counter] effect.",
+  "keywords" : [ "Counter" ]
+}

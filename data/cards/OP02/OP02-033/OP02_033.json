@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-033",
+  "rarity" : "C",
+  "name" : "Jinbe",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "FILM/Fish-Man/Straw Hat Crew",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

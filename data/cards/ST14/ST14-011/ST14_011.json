@@ -1,0 +1,16 @@
+{
+  "id" : "ST14-011",
+  "rarity" : "C",
+  "name" : "Heracles",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Bowin Island",
+  "effect" : "[Activate: Main] You may rest this Character: Up to 1 of your black {Straw Hat Crew} type Characters gains +2 cost until the end of your opponent's next turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

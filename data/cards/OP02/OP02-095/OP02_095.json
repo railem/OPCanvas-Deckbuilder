@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-095",
+  "rarity" : "UC",
+  "name" : "Onigumo",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "If there is a Character with a cost of 0, this Character gains [Banish]. (When this card deals damage, the target card is trashed without activating its Trigger.)",
+  "trigger" : "",
+  "keywords" : [ "Banish" ]
+}

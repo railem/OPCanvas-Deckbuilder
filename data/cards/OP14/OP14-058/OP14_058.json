@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-058",
+  "rarity" : "R",
+  "name" : "Ocean Current Shoulder Throw",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Fish-Man/The Seven Warlords of the Sea/The Sun Pirates",
+  "effect" : "[Main] You may rest 3 of your DON!! cards: Play up to 1 {Fish-Man} type Character card with a cost of 3 or less from your hand. Then, return up to 1 Character with 6000 base power to the owner's hand. [Counter] Draw 1 card and your Leader gains +3000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Counter", "Main" ]
+}

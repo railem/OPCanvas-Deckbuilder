@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-082",
+  "rarity" : "C",
+  "name" : "Monet",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Donquixote Pirates/Punk Hazard",
+  "effect" : "-",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ ]
+}

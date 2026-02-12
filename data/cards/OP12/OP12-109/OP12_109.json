@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-109",
+  "rarity" : "C",
+  "name" : "Pacifista",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Biological Weapon/Egghead/Navy",
+  "effect" : "-",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 1 or less and add this card to your hand.",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-110",
+  "rarity" : "C",
+  "name" : "Pierre",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Animal/Sky Island",
+  "effect" : "[On Play] Draw 2 cards and trash 2 cards from your hand.",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-052",
+  "rarity" : "C",
+  "name" : "Merry",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "East Blue",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

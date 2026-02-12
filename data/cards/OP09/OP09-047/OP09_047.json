@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-047",
+  "rarity" : "C",
+  "name" : "Kouzuki Oden",
+  "category" : "CHARACTER",
+  "cost" : 9,
+  "attribute" : "Slash",
+  "power" : 10000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Land of Wano/Whitebeard Pirates",
+  "effect" : "[Double Attack] (This card deals 2 damage.) [On K.O.] Draw 2 cards and trash 1 card from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Double Attack", "On K.O." ]
+}

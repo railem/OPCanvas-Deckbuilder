@@ -1,0 +1,18 @@
+{
+    "id": "ST29-003",
+    "name": "Kaku",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Egghead/CP0",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If the number of your Life cards is equal to or less than the number of your opponent's Life cards, this Character gains +1000 power.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "keywords": [
+        "Permanent"
+    ]
+}

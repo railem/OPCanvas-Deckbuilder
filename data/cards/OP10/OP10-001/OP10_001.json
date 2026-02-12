@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-001",
+  "rarity" : "L",
+  "name" : "Smoker",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Red/Green",
+  "blockIcon" : 3,
+  "type" : "Punk Hazard/Navy",
+  "effect" : "[Opponent's Turn] All of your {Navy} or {Punk Hazard} type Characters gain +1000 power. [Activate: Main] [Once Per Turn] If you have a Character with 7000 power or more, set up to 2 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "Opponents Turn" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-044",
+  "rarity" : "R",
+  "name" : "Sakazuki",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Special",
+  "power" : 8000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "[On Play] If your Leader has the {Navy} type, draw 2 cards. [Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Activate: Main" ]
+}

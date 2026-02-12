@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-049",
+  "rarity" : "C",
+  "name" : "Finger Pistol Yellow Lotus",
+  "category" : "EVENT",
+  "cost" : 4,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "CP9",
+  "effect" : "[Main] You may trash 2 cards from the top of your deck: K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Main" ]
+}

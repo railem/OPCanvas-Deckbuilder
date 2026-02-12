@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-107",
+  "rarity" : "C",
+  "name" : "Charlotte Perospero",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

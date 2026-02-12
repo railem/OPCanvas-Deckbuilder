@@ -1,0 +1,19 @@
+{
+    "id": "OP09-076",
+    "name": "Roronoa Zoro",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 3,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

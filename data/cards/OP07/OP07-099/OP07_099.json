@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-099",
+  "rarity" : "C",
+  "name" : "Usopp",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Ranged",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Egghead/Straw Hat Crew",
+  "effect" : "-",
+  "trigger" : "[Trigger] Up to 1 of your {Egghead} type Leader or Character cards gains +2000 power until the end of your next turn.",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "P-106",
+  "rarity" : "P",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/The Four Emperors/Straw Hat Crew",
+  "effect" : "[End of Your Turn] You may turn 1 card from the top of your Life cards face-up: Set up to 1 of your {Egghead} type Characters as active.",
+  "trigger" : "[Trigger] Draw 1 card and K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "keywords" : [ "End of Your Turn" ]
+}

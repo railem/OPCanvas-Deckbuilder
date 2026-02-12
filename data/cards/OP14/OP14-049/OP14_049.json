@@ -1,0 +1,20 @@
+{
+    "id": "OP14-049",
+    "name": "Jinbe",
+    "rarity": "SR",
+    "color": "Blue",
+    "cost": 8,
+    "power": 10000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Fish-Man/The Seven Warlords of the Sea/The Sun Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "When a card is trashed from your hand by an effect, this Character gains [Rush] during this turn. [On Play] You may rest 2 of your DON!! cards: Draw 2 cards and return up to 1 Character with a cost of 7 or less to the owner's hand.",
+    "trigger": "",
+    "keywords": [
+        "Rush",
+        "On Play",
+        "Permanent"
+    ]
+}

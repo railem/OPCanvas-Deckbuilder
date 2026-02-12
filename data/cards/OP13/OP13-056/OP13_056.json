@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-056",
+  "rarity" : "C",
+  "name" : "LittleOars Jr.",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Giant/Whitebeard Pirates Allies",
+  "effect" : "[When Attacking] If your Leader's type includes \"Whitebeard Pirates\", draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

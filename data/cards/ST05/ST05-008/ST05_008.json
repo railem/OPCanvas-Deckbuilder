@@ -1,0 +1,18 @@
+{
+    "id": "ST05-008",
+    "name": "Shiki",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 6,
+    "power": 7000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "FILM/Golden Lion Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "If you have 8 or more DON!! cards on your field, this Character cannot be K.O.'d in battle.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

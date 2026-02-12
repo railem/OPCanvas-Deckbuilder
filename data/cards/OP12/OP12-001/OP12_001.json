@@ -1,0 +1,19 @@
+{
+    "id": "OP12-001",
+    "name": "Silvers Rayleigh",
+    "rarity": "L",
+    "color": "Red",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "Former Roger Pirates",
+    "category": "LEADER",
+    "blockIcon": "3",
+    "effect": "Under the rules of this game, you cannot include cards with a cost of 5 or more in your deck. [Activate: Main] [Once Per Turn] You may reveal 2 Events from your hand: Up to 1 of your Characters with 4000 base power or less gains +2000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Permanent"
+    ]
+}

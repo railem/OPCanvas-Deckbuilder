@@ -1,0 +1,20 @@
+{
+    "id": "OP13-031",
+    "name": "Trafalgar Law",
+    "rarity": "R",
+    "color": "Green",
+    "cost": 6,
+    "power": 6000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "FILM/Supernovas/Heart Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If you have 1 or less Life cards, this Character gains [Blocker]. [On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 5 or less from your hand rested.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Play",
+        "Permanent"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "P-025",
+    "name": "Smoker",
+    "rarity": "P",
+    "color": "Black",
+    "cost": 3,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Navy",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by Characters without the <Special> attribute.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

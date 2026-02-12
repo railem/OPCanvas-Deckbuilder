@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-073",
+  "rarity" : "UC",
+  "name" : "Prometheus",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Homies/Big Mom Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

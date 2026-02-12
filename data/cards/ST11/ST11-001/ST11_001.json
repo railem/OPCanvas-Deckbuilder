@@ -1,0 +1,16 @@
+{
+  "id" : "ST11-001",
+  "rarity" : "L",
+  "name" : "Uta",
+  "category" : "LEADER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "FILM",
+  "effect" : "[DON!! x1] [When Attacking] [Once Per Turn] Reveal 1 card from the top of your deck and add up to 1 {FILM} type card to your hand. Then, place the rest at the bottom of your deck.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

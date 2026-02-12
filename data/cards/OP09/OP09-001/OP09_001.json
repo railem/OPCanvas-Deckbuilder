@@ -1,0 +1,18 @@
+{
+    "id": "OP09-001",
+    "name": "Shanks",
+    "rarity": "L",
+    "color": "Red",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "The Four Emperors/Red-Haired Pirates",
+    "category": "LEADER",
+    "blockIcon": "3",
+    "effect": "[Once Per Turn] This effect can be activated when your opponent attacks. Give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "On Your Opponent's Attack"
+    ]
+}

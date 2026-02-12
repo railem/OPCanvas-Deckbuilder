@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-070",
+  "rarity" : "C",
+  "name" : "Napoleon",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Homies/Big Mom Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

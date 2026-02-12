@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-016",
+  "rarity" : "UC",
+  "name" : "Roronoa Zoro",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

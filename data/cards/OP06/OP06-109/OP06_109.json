@@ -1,0 +1,19 @@
+{
+    "id": "OP06-109",
+    "name": "Denjiro",
+    "rarity": "UC",
+    "color": "Yellow",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "Land of Wano/The Akazaya Nine",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[DON!! x2] If your opponent has 3 or less Life cards, this Character cannot be K.O.'d by effects.",
+    "trigger": "[Trigger] If your opponent has 3 or less Life cards, play this card.",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

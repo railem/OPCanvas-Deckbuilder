@@ -1,0 +1,16 @@
+{
+  "id" : "P-049",
+  "rarity" : "P",
+  "name" : "Usopp",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Ranged",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Straw Hat Crew",
+  "effect" : "[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

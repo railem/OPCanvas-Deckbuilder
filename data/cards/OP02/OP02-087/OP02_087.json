@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-087",
+  "rarity" : "UC",
+  "name" : "Minotaur",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Impel Down/Jailer Beast",
+  "effect" : "[Double Attack] (This card deals 2 damage.) [On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "",
+  "keywords" : [ "Double Attack", "On K.O." ]
+}

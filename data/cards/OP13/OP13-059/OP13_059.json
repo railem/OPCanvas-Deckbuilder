@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-059",
+  "rarity" : "C",
+  "name" : "Brilliant Punk",
+  "category" : "EVENT",
+  "cost" : 4,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[Main] You may return 1 of your Characters to the owner's hand: Return up to 1 Character with a cost of 6 or less to the owner's hand.",
+  "trigger" : "[Trigger] Draw 1 card.",
+  "keywords" : [ "Main" ]
+}

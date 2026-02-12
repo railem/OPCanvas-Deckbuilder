@@ -1,0 +1,19 @@
+{
+    "id": "OP06-074",
+    "name": "Zephyr (Navy)",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 7,
+    "power": 7000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "FILM/Navy",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Negate the effect of up to 1 of your opponent's Characters during this turn. Then, if that Character has 5000 power or less, K.O. it.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

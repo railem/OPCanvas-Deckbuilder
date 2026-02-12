@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-119",
+  "rarity" : "R",
+  "name" : "Meteor Volcano",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[Main] K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+  "trigger" : "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+  "keywords" : [ "Main" ]
+}

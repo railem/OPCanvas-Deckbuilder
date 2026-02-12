@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-099",
+  "rarity" : "R",
+  "name" : "Kalgara",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Jaya/Sky Island/Shandian Warrior",
+  "effect" : "[Your Turn] When a card is removed from your or your opponent's Life cards, draw 1 card. Then, you cannot draw cards using your own effects during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

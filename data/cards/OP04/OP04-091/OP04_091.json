@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-091",
+  "rarity" : "UC",
+  "name" : "Leo",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "The Tontattas/Dressrosa",
+  "effect" : "[On Play] You may rest your 1 Leader: If your Leader has the {Dressrosa} type, K.O. up to 1 of your opponent's Characters with a cost of 1 or less. Then, trash 2 cards from the top of your deck.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

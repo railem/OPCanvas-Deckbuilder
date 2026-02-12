@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-091",
+  "rarity" : "C",
+  "name" : "Brook",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Dressrosa/Straw Hat Crew",
+  "effect" : "[Activate: Main] You may rest this Character and 1 of your {Dressrosa} type Leader or Stage cards: K.O. up to 1 of your opponent's Characters with a cost of 1 or less. Then, trash 2 cards from the top of your deck.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

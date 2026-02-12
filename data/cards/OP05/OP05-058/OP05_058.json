@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-058",
+  "rarity" : "C",
+  "name" : "It's a Waste of Human Life!!",
+  "category" : "EVENT",
+  "cost" : 8,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Navy",
+  "effect" : "[Main] Place all Characters with a cost of 3 or less at the bottom of the owner's deck. Then, you and your opponent trash cards from your hands until you each have 5 cards in your hands.",
+  "trigger" : "[Trigger] Place all Characters with a cost of 2 or less at the bottom of the owner's deck.",
+  "keywords" : [ "Main" ]
+}

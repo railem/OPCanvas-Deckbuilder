@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-087",
+  "rarity" : "C",
+  "name" : "Baskerville",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "World Government",
+  "effect" : "[Your Turn] If your opponent has a Character with a cost of 0, this Character gains +3000 power.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

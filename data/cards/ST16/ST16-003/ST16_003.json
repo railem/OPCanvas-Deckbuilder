@@ -1,0 +1,18 @@
+{
+    "id": "ST16-003",
+    "name": "Charlotte Katakuri",
+    "rarity": "C",
+    "color": "Green",
+    "cost": 3,
+    "power": 4000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "FILM/Big Mom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If your Leader has the {FILM} type and you have 6 or more rested cards, this Character gains +2000 power.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

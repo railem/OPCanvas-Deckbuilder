@@ -1,0 +1,19 @@
+{
+    "id": "OP15-057",
+    "name": "Dressrosa Kingdom",
+    "rarity": "C",
+    "color": "Blue",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Dressrosa",
+    "category": "STAGE",
+    "blockIcon": "4",
+    "effect": "[On Play] If your Leader has the {Dressrosa} type, draw 1 cards.\n[On Your Opponent's Attack] You may rest this Stage and trash 1 Event or Stage card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "On Your Opponent's Attack"
+    ]
+}

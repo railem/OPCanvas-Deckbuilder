@@ -1,0 +1,16 @@
+{
+  "id" : "ST20-005",
+  "rarity" : "SR",
+  "name" : "Charlotte Linlin",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "The Four Emperors/Big Mom Pirates",
+  "effect" : "[On Play] You may trash 1 card from your hand: Your opponent chooses one: • Your opponent trashes 2 cards from their hand. • Trash 1 card from the top of your opponent's Life cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

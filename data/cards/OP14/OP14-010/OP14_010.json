@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-010",
+  "rarity" : "UC",
+  "name" : "Basil Hawkins",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Supernovas/Hawkins Pirates",
+  "effect" : "[On K.O.] Look at 5 cards from the top of your deck; play up to 1 {Supernovas} type Character card with 2000 power or less other than [Basil Hawkins]. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

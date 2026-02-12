@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-002",
+  "rarity" : "UC",
+  "name" : "Urouge",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Supernovas/Fallen Monk Pirates",
+  "effect" : "[When Attacking] If this Character has 5000 power or more, draw 1 card and K.O. up to 1 of your opponent's Characters with 3000 base power or less.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-091",
+  "rarity" : "SR",
+  "name" : "Mr.2.Bon.Kurei(Bentham)",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Baroque Works",
+  "effect" : "[On K.O.] Play up to 1 Character card with a type including \"Baroque Works\" and a cost of 5 or less other than [Mr.2.Bon.Kurei(Bentham)] from your hand or trash.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-100",
+  "rarity" : "R",
+  "name" : "Capone\"Gang\"Bege",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Ranged",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Firetank Pirates",
+  "effect" : "-",
+  "trigger" : "[Trigger] Up to 1 of your opponent's Leader or Character cards cannot attack during this turn.",
+  "keywords" : [ ]
+}

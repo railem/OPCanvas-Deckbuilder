@@ -1,0 +1,19 @@
+{
+    "id": "OP12-085",
+    "name": "Karasu",
+    "rarity": "C",
+    "color": "Black",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Revolutionary Army",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If your Leader has the {Revolutionary Army} type, this Character gains +3 cost. [When Attacking] If your Leader has the {Revolutionary Army} type and your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+    "trigger": "",
+    "keywords": [
+        "When Attacking",
+        "Permanent"
+    ]
+}

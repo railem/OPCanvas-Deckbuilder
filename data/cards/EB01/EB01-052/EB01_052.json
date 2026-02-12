@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-052",
+  "rarity" : "SR",
+  "name" : "Viola",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Dressrosa",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Choose one: • Look at all of your opponent's Life cards and place them back in their Life area in any order. • Turn all of your Life cards face-down.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

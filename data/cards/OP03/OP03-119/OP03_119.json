@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-119",
+  "rarity" : "R",
+  "name" : "Buzz Cut Mochi",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates",
+  "effect" : "[Main] If you have less Life cards than your opponent, K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger" : "[Trigger] Play up to 1 Character card with a cost of 4 or less and a [Trigger] from your hand.",
+  "keywords" : [ "Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST07-017",
+  "rarity" : "C",
+  "name" : "Queen Mama Chanter",
+  "category" : "STAGE",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates/Homies",
+  "effect" : "[Activate: Main] You may rest this Stage and add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 of your Characters with a cost of 3 to the top of the owner's Life cards face-up.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

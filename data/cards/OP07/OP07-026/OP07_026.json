@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-026",
+  "rarity" : "SR",
+  "name" : "Jewelry Bonney",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Supernovas/Bonney Pirates",
+  "effect" : "[On Play] Up to 1 of your opponent's rested Character or DON!! cards will not become active in your opponent's next Refresh Phase.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

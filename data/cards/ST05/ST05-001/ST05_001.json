@@ -1,0 +1,19 @@
+{
+    "id": "ST05-001",
+    "name": "Shanks",
+    "rarity": "L",
+    "color": "Purple",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "FILM/The Four Emperors/Red-Haired Pirates",
+    "category": "LEADER",
+    "blockIcon": "1",
+    "effect": "[Activate: Main] [Once Per Turn] DON!! −3 (You may return the specified number of DON!! cards from your field to your DON!! deck.): All of your {FILM} type Characters gain +2000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "DON!! -X"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "OP11-110",
+    "name": "Fukaboshi",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 3,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "Merfolk/Fish-Man Island",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If this Character would be K.O.'d, you may rest 1 of your [Fish-Man Island] or your [Shirahoshi] Leader instead. [On Play] You may add 1 card from the top or bottom of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Permanent"
+    ]
+}

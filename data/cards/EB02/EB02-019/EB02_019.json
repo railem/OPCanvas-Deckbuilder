@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-019",
+  "rarity" : "R",
+  "name" : "Roronoa Zoro",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "East Blue/Straw Hat Crew",
+  "effect" : "If your opponent has 2 or more Characters, this Character can attack Characters on the turn in which it is played. [On Play] If your Leader has the {Straw Hat Crew} type, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

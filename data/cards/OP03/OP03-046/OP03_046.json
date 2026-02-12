@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-046",
+  "rarity" : "C",
+  "name" : "Genzo",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "East Blue",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

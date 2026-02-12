@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-072",
+  "rarity" : "C",
+  "name" : "Smiley",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Biological Weapon/Punk Hazard",
+  "effect" : "[DON!! x1] [Your Turn] This Character gains +1000 power for every card in your hand.",
+  "trigger" : "",
+  "keywords" : [ "DON!!xX", "Your Turn" ]
+}

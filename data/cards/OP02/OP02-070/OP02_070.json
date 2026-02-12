@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-070",
+  "rarity" : "C",
+  "name" : "New Kama Land",
+  "category" : "STAGE",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Impel Down",
+  "effect" : "[Activate: Main] You may rest this Stage: If your Leader is [Emporio.Ivankov], draw 1 card and trash 1 card from your hand. Then, trash up to 3 cards from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

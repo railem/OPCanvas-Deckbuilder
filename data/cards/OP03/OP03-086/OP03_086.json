@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-086",
+  "rarity" : "R",
+  "name" : "Spandam",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "CP9",
+  "effect" : "[On Play] If your Leader's type includes \"CP\", look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"CP\" other than [Spandam] and add it to your hand. Then, trash the rest.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-117",
+  "rarity" : "UC",
+  "name" : "Ice Age",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[Main] Give up to 1 of your opponent's Characters −5 cost during this turn.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "keywords" : [ "Main" ]
+}

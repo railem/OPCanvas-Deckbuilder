@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-106",
+  "rarity" : "UC",
+  "name" : "Tsuru",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

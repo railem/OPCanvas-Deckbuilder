@@ -1,0 +1,19 @@
+{
+    "id": "OP10-053",
+    "name": "Bian",
+    "rarity": "C",
+    "color": "Blue",
+    "cost": 1,
+    "power": 1000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "The Tontattas/Dressrosa",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If you have a {The Tontattas} type Character other than [Bian], this Character gains [Blocker].",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

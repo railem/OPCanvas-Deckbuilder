@@ -1,0 +1,16 @@
+{
+  "id" : "ST14-004",
+  "rarity" : "C",
+  "name" : "Jinbe",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Fish-Man/The Sun Pirates",
+  "effect" : "[Activate: Main] [Once Per Turn] Up to 1 of your black {Straw Hat Crew} type Characters gains +2 cost until the end of your opponent's next turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

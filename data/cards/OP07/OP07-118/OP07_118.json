@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-118",
+  "rarity" : "SEC",
+  "name" : "Sabo",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Special",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Revolutionary Army",
+  "effect" : "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less and up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

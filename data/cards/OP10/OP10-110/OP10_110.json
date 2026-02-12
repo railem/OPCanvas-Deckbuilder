@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-110",
+  "rarity" : "C",
+  "name" : "Heat & Wire",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash/Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Kid Pirates",
+  "effect" : "[On Play] Rest up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+  "trigger" : "[Trigger] If you have 2 or less Life cards, play this card.",
+  "keywords" : [ "On Play" ]
+}

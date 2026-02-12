@@ -1,0 +1,16 @@
+{
+  "id" : "P-097",
+  "rarity" : "P",
+  "name" : "Shanks",
+  "category" : "CHARACTER",
+  "cost" : 10,
+  "attribute" : "Slash",
+  "power" : 12000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "The Four Emperors/Red-Haired Pirates",
+  "effect" : "[On Play]/[When Attacking] Your opponent cannot activate [Blocker] during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play", "When Attacking" ]
+}

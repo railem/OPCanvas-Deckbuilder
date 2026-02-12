@@ -1,0 +1,16 @@
+{
+  "id" : "P-068",
+  "rarity" : "P",
+  "name" : "Sanji",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Kingdom of GERMA/The Vinsmoke Family",
+  "effect" : "[Activate: Main] You may trash this Character: Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ST23-002",
+    "name": "Shanks",
+    "rarity": "SR",
+    "color": "Red",
+    "cost": 9,
+    "power": 10000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "The Four Emperors/Red-Haired Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If your opponent has a Character with 8000 base power or more, give this card in your hand −3 cost. [On Play] If your Leader has the {Red-Haired Pirates} type or is [Uta], your Leader gains +2000 power until the end of your opponent's next End Phase.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Permanent"
+    ]
+}

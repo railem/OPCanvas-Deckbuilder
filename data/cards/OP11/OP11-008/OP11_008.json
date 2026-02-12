@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-008",
+  "rarity" : "R",
+  "name" : "Doll",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "[Blocker] [On Play] You may trash 1 card from your hand: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −6000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

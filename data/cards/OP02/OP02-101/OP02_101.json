@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-101",
+  "rarity" : "C",
+  "name" : "Strawberry",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[When Attacking] If there is a Character with a cost of 0, your opponent cannot activate the [Blocker] of any Character with a cost of 5 or less during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "When Attacking" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-022",
+  "rarity" : "UC",
+  "name" : "Eric",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "East Blue",
+  "effect" : "[Activate: Main] You may rest this Character: Rest up to 1 of your opponent's Characters with a cost of 1 or less.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

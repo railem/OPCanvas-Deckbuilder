@@ -1,0 +1,16 @@
+{
+  "id" : "P-060",
+  "rarity" : "P",
+  "name" : "Tot Musica",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Music/FILM",
+  "effect" : "[Main] You may rest 1 of your [Uta] cards: Rest up to 2 of your opponent's DON!! cards.",
+  "trigger" : "",
+  "keywords" : [ "Main" ]
+}

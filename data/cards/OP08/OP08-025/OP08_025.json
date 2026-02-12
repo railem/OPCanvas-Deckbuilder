@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-025",
+  "rarity" : "C",
+  "name" : "Shishilian",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Minks",
+  "effect" : "[On Play] Up to 1 of your opponent's rested Characters with a cost of 3 or less will not become active in your opponent's next Refresh Phase.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

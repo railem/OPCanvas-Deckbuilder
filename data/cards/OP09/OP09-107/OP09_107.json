@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-107",
+  "rarity" : "R",
+  "name" : "Nico Robin",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Straw Hat Crew",
+  "effect" : "[On Play] If your opponent has 3 or more Life cards, trash up to 1 card from the top of your opponent's Life cards.",
+  "trigger" : "[Trigger] Play up to 1 yellow Character card with a cost of 3 or less from your hand.",
+  "keywords" : [ "On Play" ]
+}

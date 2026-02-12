@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-057",
+  "rarity" : "R",
+  "name" : "Yamato",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Land of Wano",
+  "effect" : "[On Play] Give up to 3 rested DON!! cards to your {Land of Wano} type Leader. [On K.O.] Trash up to 1 card from the top of your opponent's Life cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

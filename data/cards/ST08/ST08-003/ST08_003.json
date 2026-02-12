@@ -1,0 +1,16 @@
+{
+  "id" : "ST08-003",
+  "rarity" : "C",
+  "name" : "Gaimon",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "East Blue",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

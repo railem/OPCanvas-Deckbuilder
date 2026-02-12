@@ -1,0 +1,16 @@
+{
+  "id" : "P-063",
+  "rarity" : "P",
+  "name" : "Jinbe",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Fish-Man",
+  "effect" : "[On Play] Rest up to 1 of your opponent's Characters with a cost of 1 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

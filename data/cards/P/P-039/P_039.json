@@ -1,0 +1,16 @@
+{
+  "id" : "P-039",
+  "rarity" : "P",
+  "name" : "Bellamy",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Bellamy Pirates",
+  "effect" : "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [DON!! x2] If you have 0 Life cards, this Character gains +2000 power.",
+  "trigger" : "",
+  "keywords" : [ "Banish", "DON!!xX" ]
+}

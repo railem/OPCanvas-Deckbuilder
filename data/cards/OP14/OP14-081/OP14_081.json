@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-081",
+  "rarity" : "C",
+  "name" : "Spider Mice",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "[On Play] Trash 3 cards from the top of your deck. [On K.O.] K.O. up to 1 of your opponent's Characters with a base cost of 1.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

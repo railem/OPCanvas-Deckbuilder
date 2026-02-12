@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-117",
+  "rarity" : "UC",
+  "name" : "Napoleon",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates/Homies",
+  "effect" : "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains +1000 power until the start of your next turn.",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "Activate: Main" ]
+}

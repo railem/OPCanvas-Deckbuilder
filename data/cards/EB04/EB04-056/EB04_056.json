@@ -1,0 +1,19 @@
+{
+    "id": "EB04-056",
+    "name": "Pacifista",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 1,
+    "power": 1000,
+    "attribute": "Special",
+    "counter": 2000,
+    "type": "Biological Weapon/Egghead/Navy",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If you have [Jewelry Bonney] and you have 0 Life cards, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

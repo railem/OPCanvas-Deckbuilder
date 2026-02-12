@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-047",
+  "rarity" : "C",
+  "name" : "Miss.Valentine(Mikita)",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Baroque Works",
+  "effect" : "[On Play] Trash 3 cards from the top of your deck. [On K.O.] Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

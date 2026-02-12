@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-023",
+  "rarity" : "C",
+  "name" : "Kuro",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "East Blue/Black Cat Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

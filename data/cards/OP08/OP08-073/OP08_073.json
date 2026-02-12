@@ -1,0 +1,20 @@
+{
+    "id": "OP08-073",
+    "name": "Viscount Hiyoko",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Big Mom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[Opponent's Turn] [On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Count Niwatori] with a cost of 6 or less from your deck. Then, shuffle your deck.",
+    "trigger": "",
+    "keywords": [
+        "On K.O.",
+        "DON!! -X",
+        "Opponents Turn"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "OP15-096",
+    "name": "Swallow Bon Avante",
+    "rarity": "R",
+    "color": "Black",
+    "cost": 0,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Straw Hat Crew",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] You may rest 1 of your DON!!: If your Leader has the {Straw Hat Crew} type, trash the top 5 cards of your deck.\n\n[Counter] You may discard 1 card from your hand: Up to 1 of your Leaders or Characters gains +3000 Power during this battle.",
+    "trigger": "",
+    "keywords": [
+        "Counter",
+        "Main"
+    ]
+}

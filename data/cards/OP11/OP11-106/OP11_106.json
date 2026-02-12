@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-106",
+  "rarity" : "R",
+  "name" : "Zeus",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Homies/Big Mom Pirates",
+  "effect" : "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

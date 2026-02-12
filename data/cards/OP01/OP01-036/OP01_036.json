@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-036",
+  "rarity" : "C",
+  "name" : "Otsuru",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Land of Wano",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

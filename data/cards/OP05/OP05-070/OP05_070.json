@@ -1,0 +1,20 @@
+{
+    "id": "OP05-070",
+    "name": "Fra-Nosuke",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 5,
+    "power": 4000,
+    "attribute": "Strike",
+    "counter": 2000,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[DON!! x1] If you have 8 or more DON!! cards on your field, this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
+    "trigger": "",
+    "keywords": [
+        "Rush",
+        "DON!!xX",
+        "Permanent"
+    ]
+}

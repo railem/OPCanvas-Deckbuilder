@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-062",
+  "rarity" : "UC",
+  "name" : "Crocus",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Wisdom",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Roger Pirates",
+  "effect" : "[On Play] If you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and set it as active. [When Attacking] Return up to 1 of your opponent's Characters with a base power of 3000 or less to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking" ]
+}

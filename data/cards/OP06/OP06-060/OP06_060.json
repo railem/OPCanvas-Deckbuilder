@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-060",
+  "rarity" : "C",
+  "name" : "Vinsmoke Ichiji",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "The Vinsmoke Family/GERMA 66",
+  "effect" : "[Activate: Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may trash this Character: If your Leader has the {GERMA 66} type, play up to 1 [Vinsmoke Ichiji] with a cost of 7 from your hand or trash.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

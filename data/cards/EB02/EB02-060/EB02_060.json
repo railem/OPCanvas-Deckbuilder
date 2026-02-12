@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-060",
+  "rarity" : "C",
+  "name" : "Merry Go",
+  "category" : "STAGE",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Activate: Main] You may rest this Stage and turn 1 card from the top of your Life cards face-up: Up to 1 of your {Straw Hat Crew} type Characters gains +1000 power until the end of your opponent's next turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

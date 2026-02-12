@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-066",
+  "rarity" : "UC",
+  "name" : "Giolla",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Donquixote Pirates",
+  "effect" : "[On Your Opponent's Attack] [Once Per Turn] You may rest 2 of your DON!! cards: Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Your Opponent's Attack" ]
+}

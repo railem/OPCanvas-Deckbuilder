@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-008",
+  "rarity" : "R",
+  "name" : "Shanks",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "The Four Emperors/Red-Haired Pirates",
+  "effect" : "[Blocker] [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Your Opponent's Attack" ]
+}

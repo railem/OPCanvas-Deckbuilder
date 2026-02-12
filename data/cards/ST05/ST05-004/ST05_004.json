@@ -1,0 +1,20 @@
+{
+    "id": "ST05-004",
+    "name": "Uta",
+    "rarity": "SR",
+    "color": "Purple",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "FILM",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Block",
+        "DON!! -X"
+    ]
+}

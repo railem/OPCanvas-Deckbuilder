@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-071",
+  "rarity" : "UC",
+  "name" : "Nekomamushi",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Minks/Roger Pirates",
+  "effect" : "[On Play] If you have 8 or more DON!! cards on your field, K.O. up to 1 of your opponent's Characters with 3000 base power or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

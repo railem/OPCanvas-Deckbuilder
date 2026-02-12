@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-079",
+  "rarity" : "SR",
+  "name" : "Kaido",
+  "category" : "CHARACTER",
+  "cost" : 9,
+  "attribute" : "Strike",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Former Rocks Pirates/Animal Kingdom Pirates",
+  "effect" : "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: If this Character was played on this turn, trash up to 1 of your opponent's Characters with a cost of 7 or less. Then, your opponent trashes 1 card from their hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

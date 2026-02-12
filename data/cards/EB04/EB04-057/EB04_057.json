@@ -1,0 +1,20 @@
+{
+    "id": "EB04-057",
+    "name": "Vegapunk",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 2,
+    "power": null,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Ohara/Scientist",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If you have 2 or less Life cards, all of your yellow {Scientist} type Characters cannot be removed from the field by your opponent's effects. [DON!! x1] This Character gains [Blocker].",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "DON!!xX",
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-012",
+  "rarity" : "SR",
+  "name" : "Kikunojo",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Slash",
+  "power" : 8000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Land of Wano/The Akazaya Nine",
+  "effect" : "[Activate: Main] [Once Per Turn] If this Character was played on this turn, set your {Land of Wano} type Leader as active.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

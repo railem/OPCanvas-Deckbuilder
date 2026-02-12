@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-101",
+  "rarity" : "UC",
+  "name" : "Shaka",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Wisdom",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Scientist/Egghead",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger" : "[Trigger] If your Leader is [Vegapunk], play this card.",
+  "keywords" : [ "Blocker" ]
+}

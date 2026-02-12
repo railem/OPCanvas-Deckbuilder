@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-094",
+  "rarity" : "C",
+  "name" : "Lola",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-076",
+  "rarity" : "UC",
+  "name" : "Monet",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Punk Hazard/Donquixote Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

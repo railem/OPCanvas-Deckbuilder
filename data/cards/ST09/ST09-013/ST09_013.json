@@ -1,0 +1,16 @@
+{
+  "id" : "ST09-013",
+  "rarity" : "C",
+  "name" : "Yamato",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Land of Wano",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-085",
+  "rarity" : "C",
+  "name" : "Kurozumi Orochi",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Land of Wano/Kurozumi Clan",
+  "effect" : "[On Play] Add up to 1 {SMILE} type card with a cost of 5 or less from your trash to your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

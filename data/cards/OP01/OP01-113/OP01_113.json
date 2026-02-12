@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-113",
+  "rarity" : "C",
+  "name" : "Holedem",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Animal Kingdom Pirates/SMILE",
+  "effect" : "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "OP12-030",
+    "name": "Dracule Mihawk",
+    "rarity": "SR",
+    "color": "Green",
+    "cost": 8,
+    "power": 8000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "Muggy Kingdom/The Seven Warlords of the Sea",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[Blocker] [On Play] Set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 7 or more during this turn.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Play"
+    ]
+}

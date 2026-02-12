@@ -1,0 +1,16 @@
+{
+  "id" : "ST17-003",
+  "rarity" : "C",
+  "name" : "Buggy",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "The Seven Warlords of the Sea/Buggy's Delivery",
+  "effect" : "[On Play] Look at 3 cards from the top of your deck and place them at the top of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

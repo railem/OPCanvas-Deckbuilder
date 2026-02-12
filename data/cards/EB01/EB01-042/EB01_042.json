@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-042",
+  "rarity" : "R",
+  "name" : "Scarlet",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Dressrosa",
+  "effect" : "[Activate: Main] You may trash this Character: Play up to 1 {Dressrosa} type Character card with a cost of 3 or less other than [Scarlet] from your hand rested. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

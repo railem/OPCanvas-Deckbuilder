@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-069",
+  "rarity" : "R",
+  "name" : "Caesar Clown",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Scientist/Punk Hazard",
+  "effect" : "[On K.O.] Play up to 1 [Smiley] from your deck, then shuffle your deck.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

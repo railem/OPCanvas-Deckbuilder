@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-027",
+  "rarity" : "R",
+  "name" : "Shanks",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Slash",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "East Blue/The Four Emperors/Red-Haired Pirates",
+  "effect" : "[Your Turn] When this Character becomes rested, rest up to 1 of your opponent's Characters with 7000 base power or less. [Opponent's Turn] If this Character is rested, give all of your opponent's Characters −1000 power.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn", "Opponents Turn" ]
+}

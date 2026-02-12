@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-110",
+  "rarity" : "C",
+  "name" : "Holly",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Animal/Sky Island",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

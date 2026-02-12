@@ -1,0 +1,16 @@
+{
+  "id" : "ST21-004",
+  "rarity" : "C",
+  "name" : "Jewelry Bonney",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Egghead/Bonney Pirates",
+  "effect" : "[DON!! x2] [On K.O.] Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On K.O.", "DON!!xX" ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "OP09-073",
+    "name": "Brook",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 6,
+    "power": 7000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[When Attacking] You may return 1 or more DON!! cards from your field to your DON!! deck: Give up to 2 of your opponent's Characters −2000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "When Attacking",
+        "DON!! -X"
+    ]
+}

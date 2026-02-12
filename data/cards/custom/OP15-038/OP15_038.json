@@ -1,0 +1,19 @@
+{
+    "id": "OP15-038",
+    "name": "I'm giving Orders, No One Defy Me!!!",
+    "rarity": "R",
+    "color": "Green",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "East Blue / Krieg Pirates",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] Up to 1 of your opponent's rested cost 8 or lower characters with 2 or more given DON!! cannot be set active during their next Refresh Phase.\n\n[Counter] Up to 1 of your [Krieg] cards gains +4000 power during this battle.",
+    "trigger": "",
+    "keywords": [
+        "Counter",
+        "Main"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "OP02-076",
+    "name": "Shiryu",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Impel Down",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

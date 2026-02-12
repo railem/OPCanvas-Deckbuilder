@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-086",
+  "rarity" : "C",
+  "name" : "Ginrummy",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Animal Kingdom Pirates/SMILE",
+  "effect" : "[On Play] If your opponent has a Character with a cost of 0, draw 2 cards and trash 2 cards from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

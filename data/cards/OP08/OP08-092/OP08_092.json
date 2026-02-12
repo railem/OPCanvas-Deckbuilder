@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-092",
+  "rarity" : "R",
+  "name" : "Page One",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Animal Kingdom Pirates",
+  "effect" : "[On Play] Play up to 1 [Ulti] with a cost of 4 or less from your trash.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

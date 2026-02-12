@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-027",
+  "rarity" : "R",
+  "name" : "Boa Hancock",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "The Seven Warlords of the Sea/Kuja Pirates",
+  "effect" : "[On Play] Draw 2 cards and trash 1 card from your hand.",
+  "trigger" : "[Trigger] Play up to 1 Character card with 5000 power or less and a [Trigger] from your hand.",
+  "keywords" : [ "On Play" ]
+}

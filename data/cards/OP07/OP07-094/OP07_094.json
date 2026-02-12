@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-094",
+  "rarity" : "UC",
+  "name" : "Shave",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "CP9",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 10 or more cards in your trash, return up to 1 of your Characters with a type including \"CP\" to the owner's hand.",
+  "trigger" : "[Trigger] Return up to 1 of your Characters to the owner's hand.",
+  "keywords" : [ "Counter" ]
+}

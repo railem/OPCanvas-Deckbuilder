@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-051",
+  "rarity" : "SR",
+  "name" : "Emporio.Ivankov",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Impel Down/Revolutionary Army",
+  "effect" : "[On Play] Draw card(s) so that you have 3 cards in your hand and then play up to 1 blue {Impel Down} type Character card with a cost of 6 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

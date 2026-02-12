@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-090",
+  "rarity" : "UC",
+  "name" : "Hack",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Fish-Man/Dressrosa/Revolutionary Army",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

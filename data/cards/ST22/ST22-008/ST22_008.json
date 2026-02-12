@@ -1,0 +1,16 @@
+{
+  "id" : "ST22-008",
+  "rarity" : "C",
+  "name" : "Decalvan Brothers",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates Allies",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

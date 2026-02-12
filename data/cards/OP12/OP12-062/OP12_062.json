@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-062",
+  "rarity" : "R",
+  "name" : "Vinsmoke Sora",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Kingdom of GERMA/The Vinsmoke Family",
+  "effect" : "[On Play] If your Leader is [Sanji] and the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it. Then, draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST08-008",
+  "rarity" : "C",
+  "name" : "Higuma",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Mountain Bandits",
+  "effect" : "[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

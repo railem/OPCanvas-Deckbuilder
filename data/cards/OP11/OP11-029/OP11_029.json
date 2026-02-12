@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-029",
+  "rarity" : "UC",
+  "name" : "Charlotte Praline",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Merfolk/Fish-Man Island/The Sun Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Rest up to 1 of your opponent's Characters with a cost of 1 or less.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

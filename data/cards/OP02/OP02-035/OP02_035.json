@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-035",
+  "rarity" : "C",
+  "name" : "Trafalgar Law",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "FILM/Supernovas/Heart Pirates",
+  "effect" : "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may return this Character to the owner's hand: Play up to 1 Character with a cost of 3 from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-046",
+  "rarity" : "C",
+  "name" : "Doll",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Egghead/Navy",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] All of your {Navy} type Characters gain +2 cost.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Opponents Turn" ]
+}

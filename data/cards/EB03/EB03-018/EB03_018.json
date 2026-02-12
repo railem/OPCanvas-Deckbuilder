@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-018",
+  "rarity" : "SR",
+  "name" : "Tashigi",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Navy",
+  "effect" : "[Opponent's Turn] This Character cannot be K.O.'d by your opponent's effects and gains [Blocker]. [End of Your Turn] You may rest 1 of your DON!! cards and trash 1 card from your hand: Set this Character as active.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "End of Your Turn", "Opponents Turn" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST10-016",
+  "rarity" : "C",
+  "name" : "Gum-Gum Kong Gatling",
+  "category" : "EVENT",
+  "cost" : 5,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Main] K.O. up to 1 of your opponent's Characters with 7000 power or less.",
+  "trigger" : "[Trigger] Up to 1 of your Leader gains +1000 power until the end of your next turn.",
+  "keywords" : [ "Main" ]
+}

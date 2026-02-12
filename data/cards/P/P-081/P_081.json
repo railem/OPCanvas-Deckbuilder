@@ -1,0 +1,16 @@
+{
+  "id" : "P-081",
+  "rarity" : "P",
+  "name" : "Dracule Mihawk",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Cross Guild",
+  "effect" : "[Activate: Main] You may return this Character to the owner's hand: If you have 3 or more blue {Cross Guild} type Characters, play up to 1 {Cross Guild} type Character card with a cost of 5 from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

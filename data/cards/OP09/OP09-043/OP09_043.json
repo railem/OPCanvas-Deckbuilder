@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-043",
+  "rarity" : "UC",
+  "name" : "Alvida",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Cross Guild",
+  "effect" : "[On K.O.] If your Leader has the {Cross Guild} type, play up to 1 Character card with a cost of 5 or less other than [Alvida] from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

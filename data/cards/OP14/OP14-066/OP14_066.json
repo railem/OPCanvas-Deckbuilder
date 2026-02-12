@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-066",
+  "rarity" : "C",
+  "name" : "Diamante",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Donquixote Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

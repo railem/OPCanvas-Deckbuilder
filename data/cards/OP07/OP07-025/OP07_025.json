@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-025",
+  "rarity" : "C",
+  "name" : "Coribou",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Supernovas/Caribou Pirates",
+  "effect" : "[On Play] Play up to 1 [Caribou] with a cost of 4 or less from your hand rested.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

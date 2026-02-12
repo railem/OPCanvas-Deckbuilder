@@ -1,0 +1,16 @@
+{
+  "id" : "ST10-015",
+  "rarity" : "C",
+  "name" : "Gum-Gum Giant Sumo Slap",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle, and K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+  "trigger" : "",
+  "keywords" : [ "Counter" ]
+}

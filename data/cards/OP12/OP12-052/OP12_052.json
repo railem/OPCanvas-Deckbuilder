@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-052",
+  "rarity" : "C",
+  "name" : "Fullbody",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

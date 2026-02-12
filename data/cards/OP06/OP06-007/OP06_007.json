@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-007",
+  "rarity" : "SR",
+  "name" : "Shanks",
+  "category" : "CHARACTER",
+  "cost" : 10,
+  "attribute" : "Slash",
+  "power" : 12000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "FILM/The Four Emperors/Red-Haired Pirates",
+  "effect" : "[On Play] K.O. up to 1 of your opponent's Characters with 10000 power or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

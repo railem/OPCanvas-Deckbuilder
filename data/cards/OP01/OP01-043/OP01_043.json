@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-043",
+  "rarity" : "C",
+  "name" : "Shinobu",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Land of Wano",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST22-014",
+  "rarity" : "C",
+  "name" : "A.O.",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates Allies",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

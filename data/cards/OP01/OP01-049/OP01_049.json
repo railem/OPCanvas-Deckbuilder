@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-049",
+  "rarity" : "R",
+  "name" : "Bepo",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Minks/Heart Pirates",
+  "effect" : "[DON!! x1] [When Attacking] Play up to 1 {Heart Pirates} type Character card other than [Bepo] with a cost of 4 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

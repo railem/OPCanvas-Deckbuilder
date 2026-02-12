@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-099",
+  "rarity" : "UC",
+  "name" : "Amazon",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Sky Island",
+  "effect" : "[On Your Opponent's Attack] You may rest this Character: Your opponent may trash 1 card from the top of their Life cards. If they do not, give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Your Opponent's Attack" ]
+}

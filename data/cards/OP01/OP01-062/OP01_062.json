@@ -1,0 +1,19 @@
+{
+    "id": "OP01-062",
+    "name": "Crocodile",
+    "rarity": "L",
+    "color": "Blue/Purple",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "The Seven Warlords of the Sea/Baroque Works",
+    "category": "LEADER",
+    "blockIcon": "1",
+    "effect": "[DON!! x1] When you activate an Event, you may draw 1 card if you have 4 or less cards in your hand and haven't drawn a card using this Leader's effect during this turn.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

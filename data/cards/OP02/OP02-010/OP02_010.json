@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-010",
+  "rarity" : "C",
+  "name" : "Dogura",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Mountain Bandits",
+  "effect" : "[Activate: Main] You may rest this Character: Play up to 1 red Character other than [Dogura] with a cost of 1 from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-057",
+  "rarity" : "R",
+  "name" : "If I Bowed Down to Power, What's the Point in Living?",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[Main] You may rest 1 of your DON!! cards: If you have 1 or less Life cards, your opponent cannot activate [Blocker] whenever your Leader attacks during this turn. [Counter] Your Leader gains +3000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Counter", "Main" ]
+}

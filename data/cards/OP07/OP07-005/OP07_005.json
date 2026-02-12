@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-005",
+  "rarity" : "R",
+  "name" : "Carina",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "FILM/Grantesoro",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

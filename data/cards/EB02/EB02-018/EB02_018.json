@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-018",
+  "rarity" : "R",
+  "name" : "Buggy",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "East Blue/Buggy Pirates",
+  "effect" : "[On Play] If you have no other [Buggy] Characters, up to 1 of your Leader gains [Double Attack] during this turn.",
+  "trigger" : "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "keywords" : [ "Double Attack", "On Play" ]
+}

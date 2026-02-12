@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-105",
+  "rarity" : "R",
+  "name" : "Charlotte Amande",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates",
+  "effect" : "[Activate: Main] [Once Per Turn] You may trash 1 card with a [Trigger] from your hand: Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

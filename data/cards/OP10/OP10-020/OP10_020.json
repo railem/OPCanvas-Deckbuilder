@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-020",
+  "rarity" : "UC",
+  "name" : "Gum-Gum UFO",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Punk Hazard/Straw Hat Crew",
+  "effect" : "[Main] Give up to 1 of your opponent's Characters −4000 power during this turn. Then, if you have 2 or less Life cards, up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+  "keywords" : [ "Main" ]
+}

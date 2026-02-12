@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-090",
+  "rarity" : "C",
+  "name" : "Belo Betty",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Revolutionary Army",
+  "effect" : "[When Attacking] You may trash 2 cards from the top of your deck: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

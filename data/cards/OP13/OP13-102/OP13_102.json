@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-102",
+  "rarity" : "UC",
+  "name" : "Edison",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Scientist",
+  "effect" : "[Activate: Main] You may trash this Character: If the number of your Life cards is equal to or less than the number of your opponent's Life cards, draw 1 card. Then, rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "trigger" : "[Trigger] Draw 1 card and rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "keywords" : [ "Activate: Main" ]
+}

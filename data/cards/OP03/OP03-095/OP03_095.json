@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-095",
+  "rarity" : "C",
+  "name" : "Soap Sheep",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "CP9",
+  "effect" : "[Main] Give up to 2 of your opponent's Characters −2 cost during this turn.",
+  "trigger" : "[Trigger] Your opponent trashes 1 card from their hand.",
+  "keywords" : [ "Main" ]
+}

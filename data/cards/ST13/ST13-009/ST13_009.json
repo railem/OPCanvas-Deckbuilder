@@ -1,0 +1,16 @@
+{
+  "id" : "ST13-009",
+  "rarity" : "C",
+  "name" : "Shanks",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "The Four Emperors/Red-Haired Pirates",
+  "effect" : "[On Play] You may turn 1 of your face-up Life cards face-down: If your opponent has 7 or more cards in their hand, trash up to 1 card from the top of your opponent's Life cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

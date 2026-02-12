@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-004",
+  "rarity" : "C",
+  "name" : "Don Accino",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Special",
+  "power" : 10000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Accino Family",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-088",
+  "rarity" : "R",
+  "name" : "Mansherry",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "The Tontattas/Dressrosa",
+  "effect" : "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character and place 2 cards from your trash at the bottom of your deck in any order: Add up to 1 black Character card with a cost of 3 to 5 from your trash to your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-096",
+  "rarity" : "C",
+  "name" : "Corrida Coliseum",
+  "category" : "STAGE",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Dressrosa",
+  "effect" : "If your Leader has the {Dressrosa} type, your {Dressrosa} type Characters can attack Characters on the turn in which they are played.",
+  "trigger" : "",
+  "keywords" : [ ]
+}

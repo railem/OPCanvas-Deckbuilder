@@ -1,0 +1,19 @@
+{
+    "id": "OP03-058",
+    "name": "Iceburg",
+    "rarity": "L",
+    "color": "Purple",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Wisdom",
+    "counter": null,
+    "type": "Water Seven/Galley-La Company",
+    "category": "LEADER",
+    "blockIcon": "1",
+    "effect": "This Leader cannot attack. [Activate: Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may rest this Leader: Play up to 1 {Galley-La Company} type Character card with a cost of 5 or less from your hand.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "DON!! -X"
+    ]
+}

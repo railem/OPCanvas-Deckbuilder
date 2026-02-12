@@ -1,0 +1,18 @@
+{
+    "id": "OP15-081",
+    "name": "Sanji",
+    "rarity": "UC",
+    "color": "Black",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Strike",
+    "counter": 2000,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] If your leader has the {Straw Hat Crew} type, trash 5 cards from the top of your deck.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

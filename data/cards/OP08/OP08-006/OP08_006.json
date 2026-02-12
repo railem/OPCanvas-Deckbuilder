@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-006",
+  "rarity" : "UC",
+  "name" : "Chessmarimo",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike/Ranged",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Drum Kingdom",
+  "effect" : "[Your Turn] If you have [Kuromarimo] and [Chess] in your trash, this Character gains +2000 power.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

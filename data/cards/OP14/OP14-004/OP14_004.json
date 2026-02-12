@@ -1,0 +1,19 @@
+{
+    "id": "OP14-004",
+    "name": "Cavendish",
+    "rarity": "UC",
+    "color": "Red",
+    "cost": 2,
+    "power": 2000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Dressrosa/Supernovas/Beautiful Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If this Character has 5000 power or more, this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
+    "trigger": "",
+    "keywords": [
+        "Rush",
+        "Permanent"
+    ]
+}

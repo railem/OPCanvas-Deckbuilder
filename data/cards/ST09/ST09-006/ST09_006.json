@@ -1,0 +1,16 @@
+{
+  "id" : "ST09-006",
+  "rarity" : "C",
+  "name" : "Kouzuki Momonosuke",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Land of Wano/Kouzuki Clan",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

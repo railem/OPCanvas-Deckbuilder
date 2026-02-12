@@ -1,0 +1,16 @@
+{
+  "id" : "P-008",
+  "rarity" : "P",
+  "name" : "Yamato",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Land of Wano",
+  "effect" : "[Activate: Main] You may rest this Character: Rest 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-009",
+  "rarity" : "UC",
+  "name" : "Squard",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Whitebeard Pirates Allies",
+  "effect" : "[On Play] If your Leader's type includes \"Whitebeard Pirates\", give up to 1 of your opponent's Characters −4000 power during this turn and add 1 card from the top of your Life cards to your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

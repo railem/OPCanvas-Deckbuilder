@@ -1,0 +1,18 @@
+{
+    "id": "OP15-098",
+    "name": "Monkey D. Luffy",
+    "rarity": "L",
+    "color": "Yellow",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Sky Island / Straw Hat Crew",
+    "category": "LEADER",
+    "blockIcon": "4",
+    "effect": "When one of your {Sky Island} type characters with an original power of 6000 or greater would be removed from the field by your opponents, you may instead place the top card of your life into your hand. ",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

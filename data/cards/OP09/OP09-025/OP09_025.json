@@ -1,0 +1,18 @@
+{
+    "id": "OP09-025",
+    "name": "Crocodile",
+    "rarity": "UC",
+    "color": "Green",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "ODYSSEY/The Seven Warlords of the Sea/Baroque Works",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If your Leader has the {ODYSSEY} type, this Character cannot be K.O.'d in battle by Leaders.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

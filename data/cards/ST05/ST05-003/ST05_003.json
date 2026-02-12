@@ -1,0 +1,16 @@
+{
+  "id" : "ST05-003",
+  "rarity" : "C",
+  "name" : "Ann",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "FILM/The Pirates Fest",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger" : "",
+  "keywords" : [ "Blocker" ]
+}

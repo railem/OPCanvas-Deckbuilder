@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-120",
+  "rarity" : "SEC",
+  "name" : "Sabo",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Dressrosa/Revolutionary Army",
+  "effect" : "[Blocker] [Activate: Main] [Once Per Turn] Up to 1 of your Characters gains +2 cost until the end of your opponent's next turn. Then, give up to 1 rested DON!! card to your Leader.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Activate: Main" ]
+}

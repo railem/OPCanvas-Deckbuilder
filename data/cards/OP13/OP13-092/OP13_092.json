@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-092",
+  "rarity" : "C",
+  "name" : "Saint Mjosgard",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Celestial Dragons",
+  "effect" : "[On Play] If you have 3 or less Life cards, play up to 1 {Mary Geoise} type Stage card with a cost of 1 from your trash.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

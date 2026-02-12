@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-024",
+  "rarity" : "SR",
+  "name" : "Nefeltari Vivi",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Alabasta",
+  "effect" : "[Blocker] [On Play] Play up to 1 {Alabasta} or {Straw Hat Crew} type Character card with a cost of 5 or less from your hand. Then, you cannot play any Character cards on your field during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

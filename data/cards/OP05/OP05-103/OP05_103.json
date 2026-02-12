@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-103",
+  "rarity" : "UC",
+  "name" : "Kotori",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Sky Island",
+  "effect" : "[On Play] If you have [Hotori], K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

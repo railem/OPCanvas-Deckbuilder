@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-088",
+  "rarity" : "UC",
+  "name" : "Hattori",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Animal/CP0",
+  "effect" : "[Your Turn] [On Play] Up to 1 of your [Rob Lucci] cards gains +2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Your Turn" ]
+}

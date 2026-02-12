@@ -1,0 +1,16 @@
+{
+  "id" : "P-075",
+  "rarity" : "P",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Supernovas/Straw Hat Crew",
+  "effect" : "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. [When Attacking] If you have a Character with a cost of 8 or more on your field, draw 1 card and trash 1 card from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking" ]
+}

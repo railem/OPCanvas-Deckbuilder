@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-027",
+  "rarity" : "C",
+  "name" : "Jinbe",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Fish-Man/The Sun Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST02-012",
+  "rarity" : "C",
+  "name" : "Bepo",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Minks/Heart Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

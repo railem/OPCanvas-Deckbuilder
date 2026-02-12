@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-108",
+  "rarity" : "SR",
+  "name" : "Jewelry Bonney",
+  "category" : "CHARACTER",
+  "cost" : 9,
+  "attribute" : "Special",
+  "power" : 10000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Bonney Pirates",
+  "effect" : "[On Play] If your Leader has the {Egghead} type, this Character gains [Rush] during this turn. Then, your opponent adds 1 card from the top of their Life cards to their hand.",
+  "trigger" : "[Trigger] If you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+  "keywords" : [ "Rush", "On Play" ]
+}

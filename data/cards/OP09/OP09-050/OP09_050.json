@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-050",
+  "rarity" : "R",
+  "name" : "Nami",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "East Blue",
+  "effect" : "[When Attacking] Look at 5 cards from the top of your deck; reveal up to 1 blue Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

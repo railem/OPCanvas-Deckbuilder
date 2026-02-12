@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-091",
+  "rarity" : "UC",
+  "name" : "Berry Good",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "[On Play] Your opponent places 3 Events from their trash at the bottom of their deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

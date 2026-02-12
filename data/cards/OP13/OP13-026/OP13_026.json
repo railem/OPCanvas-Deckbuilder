@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-026",
+  "rarity" : "C",
+  "name" : "Sunny-Kun",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "FILM/Straw Hat Crew",
+  "effect" : "[Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards: This Character gains +2000 power until the end of your opponent's next turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

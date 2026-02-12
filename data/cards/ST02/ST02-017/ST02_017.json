@@ -1,0 +1,16 @@
+{
+  "id" : "ST02-017",
+  "rarity" : "C",
+  "name" : "Straw Sword",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Hawkins Pirates",
+  "effect" : "[Main] Rest up to 1 of your opponent's Characters.",
+  "trigger" : "[Trigger] Play up to 1 {Supernovas} type card with a cost of 2 or less from your hand.",
+  "keywords" : [ "Main" ]
+}

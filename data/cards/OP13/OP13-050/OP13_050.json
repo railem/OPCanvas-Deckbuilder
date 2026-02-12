@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-050",
+  "rarity" : "C",
+  "name" : "Boa Sandersonia",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Kuja Pirates",
+  "effect" : "[On Play] If your Leader is [Boa Hancock], play up to 1 [Boa Hancock] with a cost of 3 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

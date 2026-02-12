@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-001",
+  "rarity" : "L",
+  "name" : "Roronoa Zoro",
+  "category" : "LEADER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Straw Hat Crew",
+  "effect" : "[DON!! x1] [Your Turn] All of your Characters gain +1000 power.",
+  "trigger" : "",
+  "keywords" : [ "DON!!xX", "Your Turn" ]
+}

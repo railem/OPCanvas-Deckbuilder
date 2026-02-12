@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-048",
+  "rarity" : "C",
+  "name" : "Donquixote Rosinante",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "[Opponent's Turn] If your blue {Navy} type Character would be removed from the field by your opponent's effect, you may rest this Character and trash 1 card from your hand instead.",
+  "trigger" : "",
+  "keywords" : [ "Opponents Turn" ]
+}

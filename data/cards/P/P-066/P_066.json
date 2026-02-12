@@ -1,0 +1,16 @@
+{
+  "id" : "P-066",
+  "rarity" : "P",
+  "name" : "Boa Hancock",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "The Seven Warlords of the Sea/Kuja Pirates",
+  "effect" : "[Your Turn] If you have 5 or less cards in your hand, all of your {Kuja Pirates} type Characters gain +1000 power.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

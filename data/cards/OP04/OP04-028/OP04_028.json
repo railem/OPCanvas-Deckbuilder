@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-028",
+  "rarity" : "R",
+  "name" : "Diamante",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Donquixote Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [End of Your Turn] If you have 2 or more active DON!! cards, set this Character as active.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "End of Your Turn", "DON!!xX" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-023",
+  "rarity" : "R",
+  "name" : "Arlong",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Fish-Man/East Blue/Arlong Pirates",
+  "effect" : "[On Play] You may trash 1 card from your hand: Up to 1 of your opponent's rested Leader cannot attack until the end of your opponent's next turn.",
+  "trigger" : "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-060",
+  "rarity" : "C",
+  "name" : "Barrier-Barrier Pistol",
+  "category" : "EVENT",
+  "cost" : 5,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Dressrosa/Barto Club",
+  "effect" : "[Main] Place up to 1 of your opponent's Characters with 6000 power or less at the bottom of the owner's deck.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Main" ]
+}

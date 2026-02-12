@@ -1,0 +1,18 @@
+{
+    "id": "OP10-099",
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "L",
+    "color": "Yellow",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Supernovas/Kid Pirates",
+    "category": "LEADER",
+    "blockIcon": "3",
+    "effect": "[End of Your Turn] You may turn 1 card from the top of your Life cards face-up: Set up to 1 of your {Supernovas} type Characters with a cost of 3 to 8 as active. That Character gains [Blocker] until the end of your opponent's next turn.",
+    "trigger": "",
+    "keywords": [
+        "End of Your Turn"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "OP05-119",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SEC",
+    "color": "Purple",
+    "cost": 10,
+    "power": 12000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "The Four Emperors/Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one. [Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Activate: Main",
+        "DON!! -X"
+    ]
+}

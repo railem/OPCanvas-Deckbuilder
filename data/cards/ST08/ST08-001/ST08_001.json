@@ -1,0 +1,16 @@
+{
+  "id" : "ST08-001",
+  "rarity" : "L",
+  "name" : "Monkey.D.Luffy",
+  "category" : "LEADER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

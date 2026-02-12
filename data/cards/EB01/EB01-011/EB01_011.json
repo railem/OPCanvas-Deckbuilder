@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-011",
+  "rarity" : "C",
+  "name" : "Mini-Merry",
+  "category" : "STAGE",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Activate: Main] You may rest this card and place 1 of your Characters with 1000 base power at the bottom of your deck: Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

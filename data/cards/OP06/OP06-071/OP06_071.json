@@ -1,0 +1,19 @@
+{
+    "id": "OP06-071",
+    "name": "Gild Tesoro",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "FILM/Grantesoro",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {FILM} type, add up to 2 {FILM} type Character cards with a cost of 4 or less from your trash to your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

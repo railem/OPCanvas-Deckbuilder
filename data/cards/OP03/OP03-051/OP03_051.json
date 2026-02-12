@@ -1,0 +1,20 @@
+{
+    "id": "OP03-051",
+    "name": "Bell-mère",
+    "rarity": "R",
+    "color": "Blue",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Ranged",
+    "counter": 1000,
+    "type": "East Blue/Former Navy",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck. [On K.O.] You may trash 3 cards from the top of your deck.",
+    "trigger": "",
+    "keywords": [
+        "On K.O.",
+        "DON!!xX",
+        "Permanent"
+    ]
+}

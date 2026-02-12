@@ -1,0 +1,16 @@
+{
+  "id" : "ST02-013",
+  "rarity" : "SR",
+  "name" : "Eustass\"Captain\"Kid",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Kid Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [End of Your Turn] Set this Character as active.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "End of Your Turn", "DON!!xX" ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "OP02-085",
+    "name": "Magellan",
+    "rarity": "SP CARD",
+    "color": "Purple",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Impel Down",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck. [Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X",
+        "Opponents Turn"
+    ]
+}

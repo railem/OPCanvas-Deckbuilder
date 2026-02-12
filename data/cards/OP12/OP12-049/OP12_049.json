@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-049",
+  "rarity" : "UC",
+  "name" : "Buggy",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "The Four Emperors/Cross Guild",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

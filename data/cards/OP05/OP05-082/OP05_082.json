@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-082",
+  "rarity" : "R",
+  "name" : "Shirahoshi",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Merfolk",
+  "effect" : "[Activate: Main] You may rest this Character and place 2 cards from your trash at the bottom of your deck in any order: If your opponent has 6 or more cards in their hand, your opponent trashes 1 card from their hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-025",
+  "rarity" : "R",
+  "name" : "Hina",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Navy",
+  "effect" : "[On Play] You may trash 1 card from your hand: Return up to 1 Character with 6000 base power to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

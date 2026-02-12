@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-006",
+  "rarity" : "R",
+  "name" : "Nami",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Wisdom",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Alabasta/Straw Hat Crew",
+  "effect" : "[On Play] You may give your active Leader −5000 power during this turn: Draw 1 card. [Activate: Main] [Once Per Turn] If your Leader has the {Alabasta} type, give up to 1 of your opponent's Characters −1000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Activate: Main" ]
+}

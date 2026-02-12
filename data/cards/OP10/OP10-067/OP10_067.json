@@ -1,0 +1,19 @@
+{
+    "id": "OP10-067",
+    "name": "Senor Pink",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Donquixote Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Add up to 1 purple Event with a cost of 5 or less from your trash to your hand. Then, set up to 1 of your DON!! cards as active.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

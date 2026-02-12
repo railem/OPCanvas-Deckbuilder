@@ -1,0 +1,16 @@
+{
+  "id" : "ST09-009",
+  "rarity" : "C",
+  "name" : "Fugetsu Omusubi",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Land of Wano",
+  "effect" : "-",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 1 or less and add this card to your hand.",
+  "keywords" : [ ]
+}

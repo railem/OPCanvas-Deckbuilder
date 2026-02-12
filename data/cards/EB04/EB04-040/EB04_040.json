@@ -1,0 +1,20 @@
+{
+    "id": "EB04-040",
+    "name": "Flame Dragon Torch",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "The Four Emperors/Animal Kingdom Pirates",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] You may rest 6 of your DON!! cards: Up to 1 of your [Kaido] cards gains +3000 power during this turn. Then, rest up to 1 of your opponent's Characters. [Counter] DON!! −1: Your Leader gains +4000 power during this battle.",
+    "trigger": "",
+    "keywords": [
+        "DON!! -X",
+        "Counter",
+        "Main"
+    ]
+}

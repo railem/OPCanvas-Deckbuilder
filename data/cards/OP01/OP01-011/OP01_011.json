@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-011",
+  "rarity" : "UC",
+  "name" : "Gordon",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "FILM",
+  "effect" : "[On Play] You may place 1 card from your hand at the bottom of your deck: Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-067",
+  "rarity" : "R",
+  "name" : "Scopper Gaban",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Roger Pirates",
+  "effect" : "[On Play] If your Leader's type includes \"Roger Pirates\", draw 2 cards and trash 1 card from your hand. Then, add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

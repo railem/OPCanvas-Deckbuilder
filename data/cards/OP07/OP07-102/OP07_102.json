@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-102",
+  "rarity" : "C",
+  "name" : "Jinbe",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Fish-Man/Egghead/Straw Hat Crew",
+  "effect" : "-",
+  "trigger" : "[Trigger] Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand and add this card to your hand.",
+  "keywords" : [ ]
+}

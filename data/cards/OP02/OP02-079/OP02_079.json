@@ -1,0 +1,19 @@
+{
+    "id": "OP02-079",
+    "name": "Douglas Bullet",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "FILM/The Pirates Fest",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

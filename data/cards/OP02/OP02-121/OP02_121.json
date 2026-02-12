@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-121",
+  "rarity" : "SEC",
+  "name" : "Kuzan",
+  "category" : "CHARACTER",
+  "cost" : 10,
+  "attribute" : "Special",
+  "power" : 10000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Former Navy",
+  "effect" : "[Your Turn] Give all of your opponent's Characters −5 cost. [On Play] K.O. up to 1 of your opponent's Characters with a cost of 0.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Your Turn" ]
+}

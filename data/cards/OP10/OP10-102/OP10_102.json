@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-102",
+  "rarity" : "C",
+  "name" : "Emporio.Ivankov",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Revolutionary Army",
+  "effect" : "[Activate: Main] [Once Per Turn] Up to 3 of your {Revolutionary Army} type Characters gain +1000 power during this turn. Then, add 1 card from the top of your Life cards to your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

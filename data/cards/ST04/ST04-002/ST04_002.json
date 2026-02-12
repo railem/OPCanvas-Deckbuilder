@@ -1,0 +1,19 @@
+{
+    "id": "ST04-002",
+    "name": "Ulti",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": 2000,
+    "type": "Animal Kingdom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Page One] card with a cost of 4 or less from your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-031",
+  "rarity" : "R",
+  "name" : "Donquixote Doflamingo",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY/The Seven Warlords of the Sea/Donquixote Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] If you have 2 or more rested Characters, set this Character as active.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "End of Your Turn" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-103",
+  "rarity" : "UC",
+  "name" : "Seto",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Jaya/Sky Island/Shandian Warrior",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

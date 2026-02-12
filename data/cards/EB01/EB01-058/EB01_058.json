@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-058",
+  "rarity" : "C",
+  "name" : "Mont Blanc Cricket",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Monkey Mountain Alliance",
+  "effect" : "[DON!! x1] [Your Turn] If you have 2 or less Life cards, this Character gains +2000 power.",
+  "trigger" : "",
+  "keywords" : [ "DON!!xX", "Your Turn" ]
+}

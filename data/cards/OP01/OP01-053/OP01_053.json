@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-053",
+  "rarity" : "C",
+  "name" : "Wire",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Kid Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

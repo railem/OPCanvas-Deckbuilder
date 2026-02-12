@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-118",
+  "rarity" : "SEC",
+  "name" : "Jewelry Bonney",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Supernovas/Bonney Pirates",
+  "effect" : "[Blocker] [On Play] If you have 8 or more rested cards, draw 2 cards and trash 1 card from your hand. Then, set up to 1 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

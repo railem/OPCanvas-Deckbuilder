@@ -1,0 +1,16 @@
+{
+  "id" : "ST08-010",
+  "rarity" : "C",
+  "name" : "Monkey.D.Garp",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

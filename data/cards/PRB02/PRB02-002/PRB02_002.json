@@ -1,0 +1,19 @@
+{
+    "id": "PRB02-002",
+    "name": "Trafalgar Law",
+    "rarity": "SR",
+    "color": "Red",
+    "cost": 6,
+    "power": 7000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Punk Hazard/The Seven Warlords of the Sea/Heart Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may give this Character −2000 power during this turn instead. [When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "When Attacking",
+        "Permanent"
+    ]
+}

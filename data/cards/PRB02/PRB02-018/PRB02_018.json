@@ -1,0 +1,16 @@
+{
+  "id" : "PRB02-018",
+  "rarity" : "R",
+  "name" : "Portgas.D.Ace",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[On Play] If you have a face-up Life card, play up to 1 [Sabo], [Portgas.D.Ace], or [Monkey.D.Luffy] with a cost of 2 from your hand or trash.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

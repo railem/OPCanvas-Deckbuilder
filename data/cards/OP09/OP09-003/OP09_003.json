@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-003",
+  "rarity" : "C",
+  "name" : "Shachi & Penguin",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Ranged",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Heart Pirates",
+  "effect" : "[When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

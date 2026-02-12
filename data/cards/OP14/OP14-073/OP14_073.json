@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-073",
+  "rarity" : "C",
+  "name" : "Machvise",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Donquixote Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-016",
+  "rarity" : "C",
+  "name" : "Bingoh",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Land of Wano",
+  "effect" : "[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's rested Characters with a cost of 1 or less.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

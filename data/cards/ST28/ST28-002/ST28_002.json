@@ -1,0 +1,16 @@
+{
+  "id" : "ST28-002",
+  "rarity" : "C",
+  "name" : "Izo",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Ranged",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Land of Wano/Former Whitebeard Pirates",
+  "effect" : "[DON!! x2] This Character gains [Blocker]. [On Play] Your {Land of Wano} type Leader gains [Banish] during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Banish", "On Play", "DON!!xX" ]
+}

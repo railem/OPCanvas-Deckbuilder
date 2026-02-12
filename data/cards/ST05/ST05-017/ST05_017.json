@@ -1,0 +1,16 @@
+{
+  "id" : "ST05-017",
+  "rarity" : "C",
+  "name" : "Union Armada",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "FILM/The Pirates Fest",
+  "effect" : "[Counter] Up to 1 of your {FILM} type Leader or Character cards gains +4000 power during this battle. If that card is a Character, that Character cannot be K.O.'d during this turn.",
+  "trigger" : "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "keywords" : [ "Counter" ]
+}

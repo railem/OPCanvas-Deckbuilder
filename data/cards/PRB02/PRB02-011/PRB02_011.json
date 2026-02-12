@@ -1,0 +1,16 @@
+{
+  "id" : "PRB02-011",
+  "rarity" : "R",
+  "name" : "Donquixote Doflamingo",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "The Seven Warlords of the Sea/Donquixote Pirates",
+  "effect" : "[Blocker] [On Play] If your Leader is multicolored, add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

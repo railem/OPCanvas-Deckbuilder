@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-103",
+  "rarity" : "C",
+  "name" : "Long-Jaw Neptunian",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Neptunian",
+  "effect" : "[Activate: Main] If your Leader is [Shirahoshi], you may rest this Character and turn 1 card from the top of your Life cards face-down: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

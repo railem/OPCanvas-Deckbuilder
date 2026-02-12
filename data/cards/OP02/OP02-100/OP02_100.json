@@ -1,0 +1,18 @@
+{
+    "id": "OP02-100",
+    "name": "Jango",
+    "rarity": "C",
+    "color": "Black",
+    "cost": 2,
+    "power": 3000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Navy",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "If you have [Fullbody], this Character cannot be K.O.'d in battle.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

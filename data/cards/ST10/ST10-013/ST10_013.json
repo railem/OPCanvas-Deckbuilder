@@ -1,0 +1,20 @@
+{
+    "id": "ST10-013",
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "SR",
+    "color": "Purple",
+    "cost": 7,
+    "power": 8000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Kid Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play]/[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader gains +1000 power until the start of your next turn.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "When Attacking",
+        "DON!! -X"
+    ]
+}

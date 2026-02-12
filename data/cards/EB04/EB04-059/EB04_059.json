@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-059",
+  "rarity" : "R",
+  "name" : "Black Rope Dragon Twister",
+  "category" : "EVENT",
+  "cost" : 6,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Fish-Man Island/Supernovas/Straw Hat Crew",
+  "effect" : "[Main] You may turn 1 card from the top of your Life cards face-up: If you have less Characters than your opponent, K.O. up to 1 of your opponent's Characters with a cost of 6 or less and up to 1 of your opponent's Characters with a cost of 5 or less.",
+  "trigger" : "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+  "keywords" : [ "Main" ]
+}

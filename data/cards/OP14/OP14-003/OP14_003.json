@@ -1,0 +1,18 @@
+{
+    "id": "OP14-003",
+    "name": "Capone\"Gang\"Bege",
+    "rarity": "C",
+    "color": "Red",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Ranged",
+    "counter": 1000,
+    "type": "Supernovas/Firetank Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "This Character cannot be K.O.'d by effects of your opponent's Characters with 5000 base power or less.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-037",
+  "rarity" : "R",
+  "name" : "Lim",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY",
+  "effect" : "[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your {ODYSSEY} type Characters instead. [End of Your Turn] Set up to 1 of your {ODYSSEY} type Characters as active.",
+  "trigger" : "",
+  "keywords" : [ "End of Your Turn" ]
+}

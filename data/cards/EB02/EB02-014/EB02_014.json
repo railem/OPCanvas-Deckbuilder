@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-014",
+  "rarity" : "C",
+  "name" : "Sarfunkel",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "East Blue",
+  "effect" : "[On Play] Play up to 1 [Gaimon] from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

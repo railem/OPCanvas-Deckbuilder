@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-108",
+  "rarity" : "R",
+  "name" : "Silvers Rayleigh",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Former Roger Pirates",
+  "effect" : "[On Play] If your Leader is multicolored and your opponent has 3 or less Life cards, K.O. up to 1 of your opponent's Characters with 7000 base power or less.",
+  "trigger" : "[Trigger] Activate this card's [On Play] effect.",
+  "keywords" : [ "On Play" ]
+}

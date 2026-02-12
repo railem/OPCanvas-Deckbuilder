@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-039",
+  "rarity" : "C",
+  "name" : "Gum-Gum Snake Shot",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Fish-Man Island/Supernovas/Straw Hat Crew",
+  "effect" : "[Counter] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+  "trigger" : "[Trigger] Activate this card's [Counter] effect.",
+  "keywords" : [ "Counter" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-041",
+  "rarity" : "R",
+  "name" : "Kujyaku",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Navy/SWORD",
+  "effect" : "[Opponent's Turn] All of your {SWORD} type Characters with a cost of 6 or less gain +2000 power. [On Play] You may trash 1 {Navy} type card from your hand: Draw 2 cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Opponents Turn" ]
+}

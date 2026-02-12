@@ -1,0 +1,16 @@
+{
+  "id" : "PRB02-006",
+  "rarity" : "R",
+  "name" : "Roronoa Zoro",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Supernovas/Straw Hat Crew",
+  "effect" : "[Opponent's Turn] If this Character would be rested by your opponent's Character's effect, you may rest 1 of your other Characters instead. [Blocker]",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Opponents Turn" ]
+}

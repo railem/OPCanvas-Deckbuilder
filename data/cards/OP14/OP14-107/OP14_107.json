@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-107",
+  "rarity" : "UC",
+  "name" : "Shakuyaku",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Wisdom",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Amazon Lily",
+  "effect" : "[On Play] If your opponent has 3 or less Life cards, draw 2 cards and trash 2 cards from your hand.",
+  "trigger" : "[Trigger] If your Leader has the {Kuja Pirates} type, play this card.",
+  "keywords" : [ "On Play" ]
+}

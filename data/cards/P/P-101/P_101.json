@@ -1,0 +1,16 @@
+{
+  "id" : "P-101",
+  "rarity" : "P",
+  "name" : "Tony Tony.Chopper",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Animal/Straw Hat Crew",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Give up to 1 rested DON!! card to your Leader.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

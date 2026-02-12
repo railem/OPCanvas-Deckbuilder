@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-093",
+  "rarity" : "C",
+  "name" : "Mr.4(Babe)",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Baroque Works",
+  "effect" : "[Blocker] [On K.O.] Add up to 1 Character card with a type including \"Baroque Works\" and a cost of 8 or less from your trash to your hand.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On K.O." ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-034",
+  "rarity" : "C",
+  "name" : "Brook",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "FILM/Straw Hat Crew",
+  "effect" : "[On Play] If your Leader has the {FILM} or {Straw Hat Crew} type, set up to 1 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

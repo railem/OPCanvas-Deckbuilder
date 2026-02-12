@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-017",
+  "rarity" : "UC",
+  "name" : "X.Drake",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Navy/SWORD/Drake Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

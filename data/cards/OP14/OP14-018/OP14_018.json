@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-018",
+  "rarity" : "R",
+  "name" : "Time for the Counterattack",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "The Seven Warlords of the Sea/Supernovas/Heart Pirates",
+  "effect" : "[Counter] If there is a Character with 8000 power or more, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+  "trigger" : "[Trigger] Play up to 1 red Character card with 2000 power or less from your hand.",
+  "keywords" : [ "Counter" ]
+}

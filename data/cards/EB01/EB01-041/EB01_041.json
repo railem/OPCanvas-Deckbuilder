@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-041",
+  "rarity" : "C",
+  "name" : "Crocus",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Wisdom",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Former Roger Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

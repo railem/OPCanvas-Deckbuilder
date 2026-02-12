@@ -1,0 +1,16 @@
+{
+  "id" : "ST22-011",
+  "rarity" : "C",
+  "name" : "Whitey Bay",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 1000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[Your Turn] [On Play] You may reveal 2 cards with a type including \"Whitebeard Pirates\" from your hand: Up to 1 of your Leader with a type including \"Whitebeard Pirates\" gains +2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Your Turn" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-018",
+  "rarity" : "R",
+  "name" : "Megalo",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Animal/Fish-Man Island",
+  "effect" : "[On Play] You may rest this Character: K.O. up to 1 of your opponent's rested Characters with 8000 power or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

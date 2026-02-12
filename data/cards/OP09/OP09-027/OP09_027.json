@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-027",
+  "rarity" : "UC",
+  "name" : "Sabo",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY/Revolutionary Army",
+  "effect" : "[When Attacking] [Once Per Turn] If you have 3 or more rested Characters, draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

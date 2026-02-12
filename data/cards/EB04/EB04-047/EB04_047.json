@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-047",
+  "rarity" : "R",
+  "name" : "Helmeppo",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Navy/SWORD",
+  "effect" : "[Activate: Main] You may trash this Character: Play up to 1 {SWORD} type Character card with a cost of 3 or less other than [Helmeppo] from your hand or trash.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

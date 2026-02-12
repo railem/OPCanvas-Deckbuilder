@@ -1,0 +1,16 @@
+{
+  "id" : "ST06-014",
+  "rarity" : "C",
+  "name" : "Shockwave",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "keywords" : [ "Counter" ]
+}

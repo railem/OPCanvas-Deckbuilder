@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-107",
+  "rarity" : "C",
+  "name" : "Shaka",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Wisdom",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Scientist",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

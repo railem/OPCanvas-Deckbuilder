@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-090",
+  "rarity" : "C",
+  "name" : "Morgans",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Journalist",
+  "effect" : "[On Play] Your opponent trashes 1 card from their hand and reveals their hand. Then, your opponent draws 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

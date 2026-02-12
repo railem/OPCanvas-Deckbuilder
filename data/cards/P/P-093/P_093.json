@@ -1,0 +1,16 @@
+{
+  "id" : "P-093",
+  "rarity" : "P",
+  "name" : "Trafalgar Law",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Heart Pirates",
+  "effect" : "[Blocker] [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

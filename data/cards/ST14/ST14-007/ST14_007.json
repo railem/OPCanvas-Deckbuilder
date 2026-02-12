@@ -1,0 +1,16 @@
+{
+  "id" : "ST14-007",
+  "rarity" : "C",
+  "name" : "Nico Robin",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Straw Hat Crew",
+  "effect" : "[On Play]/[When Attacking] If you have a Character with a cost of 8 or more, give up to 1 of your opponent's Characters −5 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking" ]
+}

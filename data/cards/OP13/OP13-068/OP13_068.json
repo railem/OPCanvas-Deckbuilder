@@ -1,0 +1,19 @@
+{
+    "id": "OP13-068",
+    "name": "Douglas Bullet",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 3,
+    "power": 4000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "FILM/Former Roger Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If you have 8 or more DON!! cards on your field, this Character gains +2000 power. [On Play] If your Leader's type includes \"Roger Pirates\", add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Permanent"
+    ]
+}

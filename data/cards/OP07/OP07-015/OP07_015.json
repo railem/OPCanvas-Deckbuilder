@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-015",
+  "rarity" : "SR",
+  "name" : "Monkey.D.Dragon",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Special",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Revolutionary Army",
+  "effect" : "[Rush] (This card can attack on the turn in which it is played.) [On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+  "trigger" : "",
+  "keywords" : [ "Rush", "On Play" ]
+}

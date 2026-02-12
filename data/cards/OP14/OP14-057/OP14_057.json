@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-057",
+  "rarity" : "C",
+  "name" : "Don't Worry!! I'm Here!!",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Fish-Man/The Seven Warlords of the Sea/The Sun Pirates",
+  "effect" : "[Main] All of your {Fish-Man} or {Merfolk} type Leader and Character cards gain +1000 power during this turn.",
+  "trigger" : "[Trigger] Draw 2 cards.",
+  "keywords" : [ "Main" ]
+}

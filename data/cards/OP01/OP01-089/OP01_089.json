@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-089",
+  "rarity" : "C",
+  "name" : "Crescent Cutlass",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea/Baroque Works",
+  "effect" : "[Counter] If your Leader has the {The Seven Warlords of the Sea} type, return up to 1 Character with a cost of 5 or less to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "Counter" ]
+}

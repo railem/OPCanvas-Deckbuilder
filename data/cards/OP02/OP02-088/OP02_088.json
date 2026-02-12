@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-088",
+  "rarity" : "C",
+  "name" : "Sphinx",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Animal/Impel Down",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-072",
+  "rarity" : "R",
+  "name" : "Buggy",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Roger Pirates",
+  "effect" : "[On Play] If your Leader's type includes \"Roger Pirates\" and you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

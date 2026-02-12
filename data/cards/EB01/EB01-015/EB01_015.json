@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-015",
+  "rarity" : "R",
+  "name" : "Scratchmen Apoo",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Supernovas/On-Air Pirates",
+  "effect" : "[On Play] Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

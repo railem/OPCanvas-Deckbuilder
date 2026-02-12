@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-045",
+  "rarity" : "UC",
+  "name" : "Vinsmoke Niji",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "The Vinsmoke Family/GERMA 66",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

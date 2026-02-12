@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-079",
+  "rarity" : "UC",
+  "name" : "God Thread",
+  "category" : "EVENT",
+  "cost" : 5,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "The Seven Warlords of the Sea/Donquixote Pirates",
+  "effect" : "[Main] K.O. up to 1 of your opponent's Characters with a cost 5 or less. Then, add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger" : "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "keywords" : [ "Main" ]
+}

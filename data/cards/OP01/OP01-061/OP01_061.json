@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-061",
+  "rarity" : "L",
+  "name" : "Kaido",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Blue/Purple",
+  "blockIcon" : 1,
+  "type" : "The Four Emperors/Animal Kingdom Pirates",
+  "effect" : "[DON!! x1] [Your Turn] [Once Per Turn] When your opponent's Character is K.O.'d, add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger" : "",
+  "keywords" : [ "DON!!xX", "Your Turn" ]
+}

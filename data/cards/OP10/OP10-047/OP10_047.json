@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-047",
+  "rarity" : "UC",
+  "name" : "Koala",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Dressrosa/Revolutionary Army",
+  "effect" : "[When Attacking] You may return 1 of your {Revolutionary Army} type Characters with a cost of 3 or more to the owner's hand: This Character gains +3000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

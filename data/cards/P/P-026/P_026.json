@@ -1,0 +1,16 @@
+{
+  "id" : "P-026",
+  "rarity" : "P",
+  "name" : "Morgan",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[When Attacking] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

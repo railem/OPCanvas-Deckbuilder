@@ -1,0 +1,18 @@
+{
+    "id": "P-077",
+    "name": "Ulti",
+    "rarity": "P",
+    "color": "Purple",
+    "cost": 6,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Animal Kingdom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and rest it. Then, set up to 1 of your purple Stages as active.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

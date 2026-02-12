@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-007",
+  "rarity" : "C",
+  "name" : "Dice",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "FILM/Grantesoro",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-054",
+  "rarity" : "SR",
+  "name" : "Yamato",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Land of Wano",
+  "effect" : "[On Play] If you have 3 or less Life cards, draw 2 cards. Then, give up to 1 rested DON!! card to your Leader.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-054",
+  "rarity" : "C",
+  "name" : "Blue Gilly",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Dressrosa",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

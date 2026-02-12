@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-079",
+  "rarity" : "UC",
+  "name" : "Viola",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Dressrosa",
+  "effect" : "[On Play] Your opponent places 3 cards from their trash at the bottom of their deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

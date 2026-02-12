@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-085",
+  "rarity" : "UC",
+  "name" : "Mr.3(Galdino)",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Baroque Works",
+  "effect" : "[On Play] If your Leader has the {Baroque Works} type, select up to 1 of your opponent's Characters with a cost of 4 or less. The selected Character cannot attack until the end of your opponent's next turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

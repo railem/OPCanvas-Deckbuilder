@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-085",
+  "rarity" : "UC",
+  "name" : "Miss.Goldenweek(Marianne)",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Baroque Works",
+  "effect" : "[On K.O.] Draw 2 cards and trash 2 cards from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

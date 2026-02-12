@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-090",
+  "rarity" : "R",
+  "name" : "Doc Q",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Blackbeard Pirates",
+  "effect" : "[Activate: Main] You may rest this Character: If your Leader has the {Blackbeard Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 1 or less. [On K.O.] Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "On K.O." ]
+}

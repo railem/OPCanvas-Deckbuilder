@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-025",
+  "rarity" : "SR",
+  "name" : "Krieg",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Ranged",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "East Blue/Krieg Pirates",
+  "effect" : "[On Play] You may trash 1 card from your hand: K.O. up to 2 of your opponent's rested Characters with a cost of 4 or less. [DON!! x1] This Character gains [Double Attack]. (This card deals 2 damage.)",
+  "trigger" : "",
+  "keywords" : [ "Double Attack", "On Play", "DON!!xX" ]
+}

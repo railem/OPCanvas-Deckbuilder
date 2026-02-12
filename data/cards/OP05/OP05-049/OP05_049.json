@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-049",
+  "rarity" : "UC",
+  "name" : "Haccha",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Giant/Animal Kingdom Pirates",
+  "effect" : "[DON!! x1] [When Attacking] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

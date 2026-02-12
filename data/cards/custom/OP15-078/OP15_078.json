@@ -1,0 +1,19 @@
+{
+    "id": "OP15-078",
+    "name": "Mamaragan",
+    "rarity": "SR",
+    "color": "Purple",
+    "cost": 0,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Sky Island",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] DON!!-2: Draw 1 card. Then, rest up to 1 of your opponent's characters with 5000 Power or less. \n\n[Counter] Give up to 1 of your Leader or Characters +1000 Power for this battle. Then, if you have 6 or less DON!! on your board, draw 1 card.",
+    "trigger": "",
+    "keywords": [
+        "Counter",
+        "Main"
+    ]
+}

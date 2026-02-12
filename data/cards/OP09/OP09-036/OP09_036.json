@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-036",
+  "rarity" : "C",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY/Supernovas/Straw Hat Crew",
+  "effect" : "[On Play] If you have 2 or more rested Characters, rest up to 1 of your opponent's DON!! cards or Characters with a cost of 6 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-026",
+  "rarity" : "C",
+  "name" : "Prince Bellett",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Ranged",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Impel Down",
+  "effect" : "[DON!! x1] [When Attacking] If you have 1 or less cards in your hand, return up to 1 Character with a cost of 3 or less to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

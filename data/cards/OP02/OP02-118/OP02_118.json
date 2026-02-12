@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-118",
+  "rarity" : "C",
+  "name" : "Yasakani Sacred Jewel",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[Counter] You may trash 1 card from your hand: Select up to 1 of your Characters. The selected Character cannot be K.O.'d during this battle.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Stages with a cost of 3 or less.",
+  "keywords" : [ "Counter" ]
+}

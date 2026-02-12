@@ -1,0 +1,17 @@
+{
+    "id": "P-096",
+    "name": "Girl",
+    "rarity": "P",
+    "color": "Blue",
+    "cost": 2,
+    "power": 0,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Sabaody Archipelago",
+    "category": "CHARACTER",
+    "blockIcon": "",
+    "effect": "[On Play] Draw 1 card and trash 1 card from your hand.\\n[Activate: Main] (Once Per Turn) Give up to 1 rested DON!! card to 1 of your [Nami] cards.",
+    "trigger": "",
+    "keywords": [
+    ]
+}

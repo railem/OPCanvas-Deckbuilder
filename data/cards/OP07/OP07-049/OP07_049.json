@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-049",
+  "rarity" : "C",
+  "name" : "Buckin",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Weevil's Mother",
+  "effect" : "[On Play] Play up to 1 [Edward Weevil] with a cost of 4 or less from your hand rested.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

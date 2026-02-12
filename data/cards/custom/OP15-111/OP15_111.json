@@ -1,0 +1,19 @@
+{
+    "id": "OP15-111",
+    "name": "Mont Blanc Noland",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 2000,
+    "type": "Jaya / Botanist",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[DON!! x1] [When Attacking] Up to 1 of your [Kalgara] cards gains [Rush] during this turn. ",
+    "trigger": "",
+    "keywords": [
+        "When Attacking",
+        "DON!!xX"
+    ]
+}

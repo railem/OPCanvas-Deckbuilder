@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-050",
+  "rarity" : "C",
+  "name" : "Conis",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Sky Island",
+  "effect" : "[On Play] Up to 1 of your {Sky Island} type Characters gains [Double Attack] during this turn. (This card deals 2 damage.)",
+  "trigger" : "",
+  "keywords" : [ "Double Attack", "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-106",
+  "rarity" : "UC",
+  "name" : "Basil Hawkins",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Animal Kingdom Pirates/Hawkins Pirates",
+  "effect" : "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "On Play" ]
+}

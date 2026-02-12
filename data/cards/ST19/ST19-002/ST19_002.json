@@ -1,0 +1,16 @@
+{
+  "id" : "ST19-002",
+  "rarity" : "C",
+  "name" : "Sengoku",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "[On Play] You may trash 2 black {Navy} type cards from your hand: If your Leader has the {Navy} type, draw 3 cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

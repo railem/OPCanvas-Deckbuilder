@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-075",
+  "rarity" : "UC",
+  "name" : "Guess We'll Have Another Scrap. You Can Only Risk Death While You're Still Alive!!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "King of the Pirates/Roger Pirates",
+  "effect" : "[Main] You may rest 1 of your DON!! cards: If your Leader is [Gol.D.Roger] and you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and rest it. [Counter] Your Leader gains +3000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Counter", "Main" ]
+}

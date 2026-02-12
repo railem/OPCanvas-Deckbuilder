@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-035",
+  "rarity" : "C",
+  "name" : "Bepo",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Minks/FILM/Heart Pirates",
+  "effect" : "[End of Your Turn] Set this Character or up to 1 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "End of Your Turn" ]
+}

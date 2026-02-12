@@ -1,0 +1,17 @@
+{
+    "id": "OP02-074",
+    "name": "Saldeath",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Impel Down",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "Your [Blugori] gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "keywords": [
+    ]
+}

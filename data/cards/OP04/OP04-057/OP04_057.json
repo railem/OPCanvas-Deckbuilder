@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-057",
+  "rarity" : "UC",
+  "name" : "Dragon Twister Demolition Breath",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "The Four Emperors/Animal Kingdom Pirates",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, place up to 1 Character with a cost of 1 or less at the bottom of the owner's deck.",
+  "trigger" : "[Trigger] Return up to 1 Character with a cost of 6 or less to the owner's hand.",
+  "keywords" : [ "Counter" ]
+}

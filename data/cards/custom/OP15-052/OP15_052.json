@@ -1,0 +1,18 @@
+{
+    "id": "OP15-052",
+    "name": "Leo",
+    "rarity": "UC",
+    "color": "Blue",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Strike",
+    "counter": 2000,
+    "type": "The Tontattas / Dressrosa",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If you have a character with base power of 7000 or less that would be removed from the field by your opponent’s effect, you may place one of your characters at the bottom of its owner deck instead.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

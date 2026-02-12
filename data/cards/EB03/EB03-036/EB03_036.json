@@ -1,0 +1,19 @@
+{
+    "id": "EB03-036",
+    "name": "Baby 5",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 4,
+    "power": 2000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Donquixote Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 2 of your opponent's Characters with a base cost of 3 or less.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

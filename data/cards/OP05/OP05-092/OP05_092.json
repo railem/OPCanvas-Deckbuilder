@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-092",
+  "rarity" : "C",
+  "name" : "Saint Rosward",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Ranged",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Celestial Dragons",
+  "effect" : "[Your Turn] If the only Characters on your field are {Celestial Dragons} type Characters, give all of your opponent's Characters −6 cost.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

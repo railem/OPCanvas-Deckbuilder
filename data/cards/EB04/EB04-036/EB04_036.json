@@ -1,0 +1,20 @@
+{
+    "id": "EB04-036",
+    "name": "Foxy",
+    "rarity": "SR",
+    "color": "Purple",
+    "cost": 8,
+    "power": 9000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Foxy Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] DON!! −1: If your Leader has the {Foxy Pirates} type, draw 2 cards and trash 1 card from your hand. Then, rest up to 1 of your opponent's Characters with a cost of 9 or less. [Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Activate: Main",
+        "DON!! -X"
+    ]
+}

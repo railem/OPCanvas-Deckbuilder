@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-018",
+  "rarity" : "R",
+  "name" : "Fire Fist",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[Main] You may trash 1 Event from your hand: K.O. up to 1 of your opponent's Characters with 5000 power or less and up to 1 of your opponent's Characters with 4000 power or less.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+  "keywords" : [ "Main" ]
+}

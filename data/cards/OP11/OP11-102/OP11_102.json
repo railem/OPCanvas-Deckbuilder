@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-102",
+  "rarity" : "UC",
+  "name" : "Camie",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 1000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Merfolk/Fish-Man Island",
+  "effect" : "[Your Turn] [Once Per Turn] This effect can be activated when your opponent activates an Event or [Trigger]. If your opponent has 2 or more Life cards, trash 1 card from the top of each of your and your opponent's Life cards.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

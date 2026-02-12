@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-029",
+  "rarity" : "C",
+  "name" : "Dellinger",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Donquixote Pirates",
+  "effect" : "[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "End of Your Turn" ]
+}

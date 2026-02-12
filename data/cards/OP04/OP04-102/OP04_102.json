@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-102",
+  "rarity" : "R",
+  "name" : "Kin'emon",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Land of Wano",
+  "effect" : "[Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may add 1 card from the top or bottom of your Life cards to your hand: Set this Character as active.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "P-031",
+  "rarity" : "P",
+  "name" : "Uta",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "FILM",
+  "effect" : "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

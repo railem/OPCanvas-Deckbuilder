@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-114",
+  "rarity" : "UC",
+  "name" : "Wyper",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Ranged",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Sky Island/Shandian Warrior",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

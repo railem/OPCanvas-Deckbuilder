@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-018",
+  "rarity" : "C",
+  "name" : "KEEP OUT",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Impel Down/Revolutionary Army",
+  "effect" : "[Counter] Up to 1 of your {Revolutionary Army} type Characters gains +2000 power until the end of your next turn.",
+  "trigger" : "[Trigger] Activate this card's [Counter] effect.",
+  "keywords" : [ "Counter" ]
+}

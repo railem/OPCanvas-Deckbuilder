@@ -1,0 +1,19 @@
+{
+    "id": "OP15-008",
+    "name": "Don Krieg",
+    "rarity": "SR",
+    "color": "Red",
+    "cost": 8,
+    "power": 9000,
+    "attribute": "Slash",
+    "counter": 0,
+    "type": "East Blue / Krieg Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Give up to 3 of your opponent’s rested DON!! cards to 1 of your opponent’s Characters. Then, this Character gains [Rush]\n\n[Activate: Main] [Once Per Turn] If this Character was played on this turn, give each of your opponent's Characters -1000 power for each DON!! card given to that character until the end of your turn.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Activate: Main"
+    ]
+}

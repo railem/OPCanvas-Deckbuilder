@@ -1,0 +1,16 @@
+{
+  "id" : "P-003",
+  "rarity" : "P",
+  "name" : "Eustass\"Captain\"Kid",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Kid Pirates",
+  "effect" : "[DON!! x2] This Character gains [Double Attack]. (This card deals 2 damage.)",
+  "trigger" : "",
+  "keywords" : [ "Double Attack", "DON!!xX" ]
+}

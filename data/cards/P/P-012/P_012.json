@@ -1,0 +1,16 @@
+{
+  "id" : "P-012",
+  "rarity" : "P",
+  "name" : "Jellyfish Pirates",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "FILM/Jellyfish Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

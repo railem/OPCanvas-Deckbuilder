@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-023",
+  "rarity" : "C",
+  "name" : "Crocodile",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "The Seven Warlords of the Sea/Baroque Works",
+  "effect" : "[Your Turn] [Once Per Turn] When your opponent's Character is returned to the owner's hand by your effect, look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

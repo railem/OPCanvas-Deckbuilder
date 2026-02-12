@@ -1,0 +1,16 @@
+{
+  "id" : "P-071",
+  "rarity" : "P",
+  "name" : "Marco",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[On K.O.] You may add this Character card to your hand.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

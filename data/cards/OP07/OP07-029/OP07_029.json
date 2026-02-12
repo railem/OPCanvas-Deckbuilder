@@ -1,0 +1,19 @@
+{
+    "id": "OP07-029",
+    "name": "Basil Hawkins",
+    "rarity": "SR",
+    "color": "Green",
+    "cost": 6,
+    "power": 7000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "Supernovas/Hawkins Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "If your Leader has the {Supernovas} type, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your opponent's Characters instead.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

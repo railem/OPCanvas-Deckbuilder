@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-043",
+  "rarity" : "C",
+  "name" : "Jonathan",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Wisdom",
+  "power" : 9000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

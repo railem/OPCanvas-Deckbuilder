@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-057",
+  "rarity" : "R",
+  "name" : "Perfume Femur",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "The Seven Warlords of the Sea/Kuja Pirates",
+  "effect" : "[Main] Select up to 1 of your {The Seven Warlords of the Sea} type Leader or Character cards and that card gains +2000 power during this turn. Then, if the selected card attacks during this turn, your opponent cannot activate [Blocker].",
+  "trigger" : "[Trigger] Draw 1 card.",
+  "keywords" : [ "Blocker", "Main" ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "OP12-021",
+    "name": "Ipponmatsu",
+    "rarity": "C",
+    "color": "Green",
+    "cost": 3,
+    "power": null,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "East Blue",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If your Leader has the <Slash> attribute and you have 6 or more rested DON!! cards, this Character cannot be rested by your opponent's effects. [Blocker]",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

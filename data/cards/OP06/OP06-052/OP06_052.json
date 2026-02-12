@@ -1,0 +1,19 @@
+{
+    "id": "OP06-052",
+    "name": "Tokikake",
+    "rarity": "C",
+    "color": "Blue",
+    "cost": 2,
+    "power": 3000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Navy",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[DON!! x1] If you have 4 or less cards in your hand, this Character cannot be K.O.'d in battle.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

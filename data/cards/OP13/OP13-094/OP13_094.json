@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-094",
+  "rarity" : "C",
+  "name" : "York",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Egghead/Scientist",
+  "effect" : "[On Play] Up to 1 of your {Celestial Dragons} type Characters gains +2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

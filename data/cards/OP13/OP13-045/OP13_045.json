@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-045",
+  "rarity" : "C",
+  "name" : "Haruta",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[When Attacking] If you have 4 or less cards in your hand, draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

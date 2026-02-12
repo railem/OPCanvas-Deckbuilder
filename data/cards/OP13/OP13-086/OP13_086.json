@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-086",
+  "rarity" : "UC",
+  "name" : "Saint Shalria",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Ranged",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Celestial Dragons",
+  "effect" : "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Celestial Dragons} type card other than [Saint Shalria] and add it to your hand. Then, trash the rest and trash 1 card from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

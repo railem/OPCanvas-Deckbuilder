@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-057",
+  "rarity" : "UC",
+  "name" : "Bartholomew Kuma",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea/Revolutionary Army",
+  "effect" : "[On Play] Look at 2 cards from the top of your deck; reveal up to 1 {The Seven Warlords of the Sea} type card and add it to your hand. Then, place the rest at the top or bottom of the deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

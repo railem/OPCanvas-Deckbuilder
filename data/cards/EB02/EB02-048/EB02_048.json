@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-048",
+  "rarity" : "R",
+  "name" : "Brook",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Straw Hat Crew",
+  "effect" : "[On Play] Add up to 1 [Laboon] from your trash to your hand. [On K.O.] Play up to 1 [Laboon] with a cost of 4 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

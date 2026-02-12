@@ -1,0 +1,19 @@
+{
+    "id": "OP15-085",
+    "name": "Tony.Tony Chopper",
+    "rarity": "R",
+    "color": "Black",
+    "cost": 2,
+    "power": 2000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Animals / Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Trash 3 cards from the top of your deck.\n\n[Activate: Main] You may trash this character: If your leader has the {Straw Hat Crew} type, add up to 1 Character card with the {Straw Hat Crew} type other than [Tony.Tony Chopper] from your trash to your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Activate: Main"
+    ]
+}

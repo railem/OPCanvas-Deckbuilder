@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-050",
+  "rarity" : "C",
+  "name" : "Hajrudin",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Strike",
+  "power" : 9000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Giant/Dressrosa/New Giant Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-104",
+  "rarity" : "C",
+  "name" : "Sentomaru",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Egghead/Navy",
+  "effect" : "-",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "keywords" : [ ]
+}

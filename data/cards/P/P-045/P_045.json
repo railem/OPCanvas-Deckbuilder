@@ -1,0 +1,16 @@
+{
+  "id" : "P-045",
+  "rarity" : "P",
+  "name" : "Roronoa Zoro",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Slash",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+  "trigger" : "",
+  "keywords" : [ "Banish" ]
+}

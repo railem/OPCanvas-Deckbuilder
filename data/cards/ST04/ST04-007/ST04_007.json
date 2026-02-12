@@ -1,0 +1,16 @@
+{
+  "id" : "ST04-007",
+  "rarity" : "C",
+  "name" : "Sheepshead",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Animal Kingdom Pirates/Smile",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-025",
+  "rarity" : "C",
+  "name" : "Fourtricks",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Animal Kingdom Pirates/SMILE",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

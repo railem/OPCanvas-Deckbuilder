@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-080",
+  "rarity" : "C",
+  "name" : "Dobon",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Animal Kingdom Pirates/SMILE",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

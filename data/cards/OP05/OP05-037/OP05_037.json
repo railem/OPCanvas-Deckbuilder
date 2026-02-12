@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-037",
+  "rarity" : "R",
+  "name" : "Because the Side of Justice Will Be Whichever Side Wins!!",
+  "category" : "EVENT",
+  "cost" : null,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Donquixote Pirates",
+  "effect" : "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+  "trigger" : "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "keywords" : [ "Counter" ]
+}

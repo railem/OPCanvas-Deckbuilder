@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-090",
+  "rarity" : "C",
+  "name" : "Hamlet",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Animal Kingdom Pirates/SMILE",
+  "effect" : "[On Play] Play up to 1 {SMILE} type Character card with a cost of 2 or less from your trash.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

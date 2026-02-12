@@ -1,0 +1,16 @@
+{
+  "id" : "ST03-013",
+  "rarity" : "C",
+  "name" : "Boa Hancock",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea/Kuja Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "Blocker" ]
+}

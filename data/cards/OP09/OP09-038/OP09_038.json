@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-038",
+  "rarity" : "C",
+  "name" : "Rob Lucci",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY/CP9",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

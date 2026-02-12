@@ -1,0 +1,19 @@
+{
+    "id": "OP11-051",
+    "name": "Sanji",
+    "rarity": "SR",
+    "color": "Blue",
+    "cost": 6,
+    "power": 7000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "The Vinsmoke Family/Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "When this Character is K.O.'d by your opponent's effect, look at 5 cards from the top of your deck and play up to 1 {Straw Hat Crew} type Character card with a cost of 5 or less. Then, place the rest at the bottom of your deck in any order. [On Play] Return up to 1 Character with 5000 base power or less to the owner's hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Permanent"
+    ]
+}

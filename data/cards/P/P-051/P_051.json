@@ -1,0 +1,16 @@
+{
+  "id" : "P-051",
+  "rarity" : "P",
+  "name" : "Shanks",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Slash",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Red-Haired Pirates",
+  "effect" : "[When Attacking] You may trash any number of cards from your hand. This Character gains +1000 power during this battle for every card trashed.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "P-033",
+  "rarity" : "P",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Activate: Main] You may place this Character at the bottom of the owner's deck: Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

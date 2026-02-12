@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-075",
+  "rarity" : "UC",
+  "name" : "Eustass\"Captain\"Kid",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Kid Pirates",
+  "effect" : "[On Play] You may add 1 card from the top of your Life cards to your hand: If your Leader has the {Kid Pirates} type, add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

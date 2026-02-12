@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-054",
+  "rarity" : "R",
+  "name" : "Bartholomew Kuma",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Revolutionary Army",
+  "effect" : "[On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. [On K.O.] Add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

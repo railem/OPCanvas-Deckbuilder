@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-076",
+  "rarity" : "C",
+  "name" : "Bellamy",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Dressrosa",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-027",
+  "rarity" : "C",
+  "name" : "Gyro",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Gyro Pirates",
+  "effect" : "[On K.O.] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-074",
+  "rarity" : "C",
+  "name" : "Hera",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Homies/Big Mom Pirates",
+  "effect" : "[On Play] Play up to 1 {Homies} type Character card with 3000 power or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

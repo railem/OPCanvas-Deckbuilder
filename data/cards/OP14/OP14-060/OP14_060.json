@@ -1,0 +1,19 @@
+{
+    "id": "OP14-060",
+    "name": "Donquixote Doflamingo",
+    "rarity": "L",
+    "color": "Purple",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+    "category": "LEADER",
+    "blockIcon": "4",
+    "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −1: Select your Leader or 1 of your {Donquixote Pirates} type Characters. Change the attack target to the selected card.",
+    "trigger": "",
+    "keywords": [
+        "On Your Opponent's Attack",
+        "DON!! -X"
+    ]
+}

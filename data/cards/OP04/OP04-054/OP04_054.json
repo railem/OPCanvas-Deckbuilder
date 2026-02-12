@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-054",
+  "rarity" : "C",
+  "name" : "Rokki",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Giant/Animal Kingdom Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-047",
+  "rarity" : "C",
+  "name" : "Blueno",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "CP9",
+  "effect" : "[Activate: Main] You may trash 1 card from your hand and trash this Character: Play up to 1 Character card with a type including \"CP\" and a cost of 5 or less other than [Blueno] from your trash.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

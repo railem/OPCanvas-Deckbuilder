@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-029",
+  "rarity" : "UC",
+  "name" : "Jinbe",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Fish-Man/FILM/Straw Hat Crew",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-031",
+  "rarity" : "SR",
+  "name" : "Nami",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "FILM/Straw Hat Crew",
+  "effect" : "[Blocker] [On Play] Rest up to 2 of your opponent's Characters with a cost of 8 or less. Then, set up to 5 of your DON!! cards as active at the end of this turn.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

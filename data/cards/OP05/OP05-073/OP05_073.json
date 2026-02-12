@@ -1,0 +1,19 @@
+{
+    "id": "OP05-073",
+    "name": "Miss Doublefinger(Zala)",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 4,
+    "power": 4000,
+    "attribute": "Slash",
+    "counter": 2000,
+    "type": "Baroque Works",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "[Trigger] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

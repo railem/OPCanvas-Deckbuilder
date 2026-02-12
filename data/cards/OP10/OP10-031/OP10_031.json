@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-031",
+  "rarity" : "C",
+  "name" : "Sengoku",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Wisdom",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Dressrosa/Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

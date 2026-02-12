@@ -1,0 +1,16 @@
+{
+  "id" : "P-047",
+  "rarity" : "P",
+  "name" : "Monkey.D.Luffy",
+  "category" : "LEADER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Straw Hat Crew",
+  "effect" : "[DON!! x1] [When Attacking] Draw 1 card if you have 3 or less cards in your hand.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

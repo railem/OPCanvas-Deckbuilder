@@ -1,0 +1,16 @@
+{
+  "id" : "ST06-008",
+  "rarity" : "C",
+  "name" : "Hina",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

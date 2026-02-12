@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-091",
+  "rarity" : "SR",
+  "name" : "Rebecca",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Dressrosa",
+  "effect" : "[Blocker] [On Play] Add up to 1 black Character card with a cost of 3 to 7 other than [Rebecca] from your trash to your hand. Then, play up to 1 black Character card with a cost of 3 or less from your hand rested.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

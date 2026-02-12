@@ -1,0 +1,19 @@
+{
+    "id": "OP06-113",
+    "name": "Raki",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 1,
+    "power": 1000,
+    "attribute": "Ranged",
+    "counter": 1000,
+    "type": "Sky Island/Shandian Warrior",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "If you have a {Shandian Warrior} type Character other than [Raki], this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-092",
+  "rarity" : "R",
+  "name" : "Rebecca",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Dressrosa",
+  "effect" : "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card other than [Rebecca] and add it to your hand. Then, trash the rest.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

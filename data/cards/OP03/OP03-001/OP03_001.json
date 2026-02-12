@@ -1,0 +1,18 @@
+{
+    "id": "OP03-001",
+    "name": "Portgas.D.Ace",
+    "rarity": "L",
+    "color": "Red",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Whitebeard Pirates",
+    "category": "LEADER",
+    "blockIcon": "1",
+    "effect": "When this Leader attacks or is attacked, you may trash any number of Event or Stage cards from your hand. This Leader gains +1000 power during this battle for every card trashed.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

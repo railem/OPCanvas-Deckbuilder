@@ -1,0 +1,18 @@
+{
+    "id": "EB04-051",
+    "name": "Emet",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 8,
+    "power": 7000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Egghead",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "This Character cannot attack unless there is a Character with 12000 base power or more.",
+    "trigger": "[Trigger] Give all of your opponent's Characters −3000 power during this turn. Then, if you have 0 Life cards, play this card.",
+    "keywords": [
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-082",
+  "rarity" : "UC",
+  "name" : "Captain John",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Thriller Bark Pirates/Former Rocks Pirates",
+  "effect" : "[On Play] Trash 2 cards from the top of your deck and give up to 1 of your opponent's Characters −1 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

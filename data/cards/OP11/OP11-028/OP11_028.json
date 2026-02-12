@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-028",
+  "rarity" : "R",
+  "name" : "Lord of the Coast",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Neptunian/East Blue",
+  "effect" : "[On Play] Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+  "keywords" : [ "On Play" ]
+}

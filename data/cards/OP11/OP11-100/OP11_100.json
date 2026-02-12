@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-100",
+  "rarity" : "C",
+  "name" : "Otohime",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Merfolk/Fish-Man Island",
+  "effect" : "[On Play] If your Leader is [Shirahoshi], you may turn 1 card from the top of your Life cards face-down: Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "OP08-061",
+    "name": "Charlotte Oven",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Big Mom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "trigger": "",
+    "keywords": [
+        "When Attacking",
+        "DON!! -X"
+    ]
+}

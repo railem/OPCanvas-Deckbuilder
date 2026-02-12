@@ -1,0 +1,18 @@
+{
+    "id": "OP08-045",
+    "name": "Thatch",
+    "rarity": "UC",
+    "color": "Blue",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Whitebeard Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "If this Character would be removed from the field by your opponent's effect or K.O.'d, trash this Character and draw 1 card instead.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST24-003",
+  "rarity" : "C",
+  "name" : "Basil Hawkins",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Supernovas/Hawkins Pirates",
+  "effect" : "[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "End of Your Turn" ]
+}

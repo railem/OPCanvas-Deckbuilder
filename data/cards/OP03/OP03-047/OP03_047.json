@@ -1,0 +1,20 @@
+{
+    "id": "OP03-047",
+    "name": "Zeff",
+    "rarity": "R",
+    "color": "Blue",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "East Blue",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck. [On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand, and you may trash 2 cards from the top of your deck.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!!xX",
+        "Permanent"
+    ]
+}

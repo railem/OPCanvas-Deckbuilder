@@ -1,0 +1,19 @@
+{
+    "id": "ST08-002",
+    "name": "Uta",
+    "rarity": "SR",
+    "color": "Black",
+    "cost": 2,
+    "power": 3000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "FILM",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "This Character cannot be K.O.'d in battle by Leaders. [Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-055",
+  "rarity" : "C",
+  "name" : "Charlotte Compote",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Wisdom",
+  "power" : 9000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Big Mom Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

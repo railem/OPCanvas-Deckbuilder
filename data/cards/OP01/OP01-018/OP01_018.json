@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-018",
+  "rarity" : "C",
+  "name" : "Hajrudin",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Giant/New Giant Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

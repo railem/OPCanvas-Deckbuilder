@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-010",
+  "rarity" : "R",
+  "name" : "There's No Way You Could Defeat Me!!",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Water Seven/Straw Hat Crew",
+  "effect" : "[Counter] K.O. up to 1 of your opponent's Characters with 6000 base power or less.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 base power or less.",
+  "keywords" : [ "Counter" ]
+}

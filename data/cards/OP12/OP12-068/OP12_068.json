@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-068",
+  "rarity" : "UC",
+  "name" : "Gin",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "East Blue/Krieg Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

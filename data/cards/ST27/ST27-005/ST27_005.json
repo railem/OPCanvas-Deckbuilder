@@ -1,0 +1,16 @@
+{
+  "id" : "ST27-005",
+  "rarity" : "SR",
+  "name" : "Marshall.D.Teach",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Special",
+  "power" : 8000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "The Four Emperors/Blackbeard Pirates",
+  "effect" : "[Activate: Main] You may rest this Character: K.O. up to 1 Character with a cost of 3 or less. [On K.O.] Add up to 1 black card from your trash to your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "On K.O." ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-026",
+  "rarity" : "C",
+  "name" : "Kin'emon",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Punk Hazard/Land of Wano/The Akazaya Nine",
+  "effect" : "[Activate: Main] You may place this Character and 1 [Kin'emon] with 0 power from your trash at the bottom of your deck in any order: Play up to 1 [Kin'emon] with a cost of 6 from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST08-012",
+  "rarity" : "C",
+  "name" : "Laboon",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Animal",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

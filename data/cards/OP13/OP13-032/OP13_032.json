@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-032",
+  "rarity" : "UC",
+  "name" : "Nico Robin",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "FILM/Straw Hat Crew",
+  "effect" : "[On Play] Up to 1 of your opponent's Characters with a cost of 8 or less cannot be rested until the end of your opponent's next End Phase.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

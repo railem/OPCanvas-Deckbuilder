@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-074",
+  "rarity" : "R",
+  "name" : "Monet",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Punk Hazard/Donquixote Pirates",
+  "effect" : "[On Play] If your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and set it as active. [On K.O.] Draw 2 cards and trash 1 card from your hand. Then, add up to 2 DON!! cards from your DON!! deck and rest them.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

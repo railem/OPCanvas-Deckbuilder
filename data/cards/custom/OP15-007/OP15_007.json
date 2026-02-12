@@ -1,0 +1,18 @@
+{
+    "id": "OP15-007",
+    "name": "Gin",
+    "rarity": "SR",
+    "color": "Red",
+    "cost": 6,
+    "power": 7000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "East Blue / Krieg Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] If your leader has the [East Blue] type, play up to 1 Character Card with a cost of 5 or less from your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

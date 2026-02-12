@@ -1,0 +1,16 @@
+{
+  "id" : "P-111",
+  "rarity" : "P",
+  "name" : "Nico Robin",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Once Per Turn] If your {Straw Hat Crew} type Character would be removed from the field by your opponent's effect, you may rest 1 of your DON!! cards instead.",
+  "trigger" : "",
+  "keywords" : [ ]
+}

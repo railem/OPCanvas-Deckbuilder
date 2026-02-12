@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-082",
+  "rarity" : "C",
+  "name" : "Kumadori",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "CP9",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

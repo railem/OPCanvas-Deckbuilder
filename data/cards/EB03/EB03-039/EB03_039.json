@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-039",
+  "rarity" : "R",
+  "name" : "Ulti",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Animal Kingdom Pirates",
+  "effect" : "[On Play] If your Leader has the {Animal Kingdom Pirates} type, draw 1 card and trash 1 card from your hand. Then, play up to 1 Character card with 6000 power or less and no base effect from your trash.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

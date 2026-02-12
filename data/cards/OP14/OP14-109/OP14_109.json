@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-109",
+  "rarity" : "C",
+  "name" : "Victoria Cindry",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "[Blocker]",
+  "trigger" : "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+  "keywords" : [ "Blocker" ]
+}

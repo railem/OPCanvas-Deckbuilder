@@ -1,0 +1,19 @@
+{
+    "id": "OP07-061",
+    "name": "Vinsmoke Sanji",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 1,
+    "power": null,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Kingdom of GERMA/The Vinsmoke Family",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {The Vinsmoke Family} type, draw 1 card.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

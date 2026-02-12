@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-023",
+  "rarity" : "R",
+  "name" : "Kikunojo",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Land of Wano/The Akazaya Nine",
+  "effect" : "[End of Your Turn] Set this Character as active.",
+  "trigger" : "",
+  "keywords" : [ "End of Your Turn" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-005",
+  "rarity" : "R",
+  "name" : "Uta",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "FILM",
+  "effect" : "[On Play] Add up to 1 red Character card other than [Uta] with a cost of 3 or less from your trash to your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-085",
+  "rarity" : "C",
+  "name" : "Jabra",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "CP9",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

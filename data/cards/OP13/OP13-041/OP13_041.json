@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-041",
+  "rarity" : "UC",
+  "name" : "Izo",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Ranged",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Land of Wano/Whitebeard Pirates",
+  "effect" : "[On Play] Draw 2 cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

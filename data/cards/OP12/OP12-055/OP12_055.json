@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-055",
+  "rarity" : "UC",
+  "name" : "Mohji & Cabaji",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash/Wisdom",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Cross Guild",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

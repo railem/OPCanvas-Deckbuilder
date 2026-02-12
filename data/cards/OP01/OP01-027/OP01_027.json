@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-027",
+  "rarity" : "C",
+  "name" : "Round Table",
+  "category" : "EVENT",
+  "cost" : 4,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Beautiful Pirates",
+  "effect" : "[Main] Give up to 1 of your opponent's Characters −10000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Main" ]
+}

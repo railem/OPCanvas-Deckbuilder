@@ -1,0 +1,19 @@
+{
+    "id": "OP01-096",
+    "name": "King",
+    "rarity": "SR",
+    "color": "Purple",
+    "cost": 7,
+    "power": 7000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Animal Kingdom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less and up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X"
+    ]
+}

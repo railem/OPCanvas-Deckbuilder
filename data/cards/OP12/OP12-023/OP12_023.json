@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-023",
+  "rarity" : "UC",
+  "name" : "Kawamatsu",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Fish-Man/Land of Wano/The Akazaya Nine",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

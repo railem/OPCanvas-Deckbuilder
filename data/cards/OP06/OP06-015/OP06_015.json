@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-015",
+  "rarity" : "C",
+  "name" : "Lily Carnation",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "FILM/Omatsuri Island",
+  "effect" : "[Activate: Main] [Once Per Turn] You may trash 1 of your Characters with 6000 power or more: Play up to 1 {FILM} type Character card with 2000 to 5000 power from your trash rested.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

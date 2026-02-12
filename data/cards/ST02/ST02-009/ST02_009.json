@@ -1,0 +1,16 @@
+{
+  "id" : "ST02-009",
+  "rarity" : "SR",
+  "name" : "Trafalgar Law",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Heart Pirates",
+  "effect" : "[On Play] Set up to 1 of your {Supernovas} or {Heart Pirates} type rested Characters with a cost of 5 or less as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

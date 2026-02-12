@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-011",
+  "rarity" : "UC",
+  "name" : "Bartolomeo",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Special",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Dressrosa/Supernovas/Barto Club",
+  "effect" : "[DON!! x2] This Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "DON!!xX" ]
+}

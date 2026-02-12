@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-101",
+  "rarity" : "UC",
+  "name" : "Atlas",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Wisdom",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Scientist",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

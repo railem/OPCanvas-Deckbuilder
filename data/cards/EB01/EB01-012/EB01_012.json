@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-012",
+  "rarity" : "SR",
+  "name" : "Cavendish",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Supernovas/Beautiful Pirates",
+  "effect" : "[On Play]/[When Attacking] If your Leader has the {Supernovas} type and you have no other [Cavendish] Characters, set up to 2 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking" ]
+}

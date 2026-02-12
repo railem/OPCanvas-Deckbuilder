@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-031",
+  "rarity" : "UC",
+  "name" : "Kouzuki Toki",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Land of Wano/Kouzuki Clan",
+  "effect" : "If you have a [Kouzuki Oden] Character, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger" : "",
+  "keywords" : [ "Blocker" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-001",
+  "rarity" : "L",
+  "name" : "Jewelry Bonney",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Red/Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Bonney Pirates",
+  "effect" : "[Opponent's Turn] If you have 1 or less Life cards, this Leader gains +2000 power. [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1000 power during this turn. Then, if you have 2 or more Life cards, you may add 1 card from the top of your Life cards to your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "Opponents Turn" ]
+}

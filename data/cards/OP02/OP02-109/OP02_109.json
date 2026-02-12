@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-109",
+  "rarity" : "C",
+  "name" : "Jaguar.D.Saul",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Giant/Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

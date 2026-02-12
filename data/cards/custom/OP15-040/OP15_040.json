@@ -1,0 +1,18 @@
+{
+    "id": "OP15-040",
+    "name": "Viola",
+    "rarity": "R",
+    "color": "Blue",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Special",
+    "counter": 2000,
+    "type": "Dressrosa / Donquixote Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Look at 3 cards from the top of your deck; reveal and add up to 1 {Dressrosa} type card to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

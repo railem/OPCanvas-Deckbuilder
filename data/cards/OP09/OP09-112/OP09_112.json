@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-112",
+  "rarity" : "C",
+  "name" : "Belo Betty",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Revolutionary Army",
+  "effect" : "[On Play] If you have 2 or less Life cards, draw 1 card.",
+  "trigger" : "[Trigger] If your Leader has the {Revolutionary Army} type and you and your opponent have a total of 5 or less Life cards, play this card.",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "OP06-054",
+    "name": "Borsalino",
+    "rarity": "UC",
+    "color": "Blue",
+    "cost": 2,
+    "power": 4000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Navy",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "If you have 5 or less cards in your hand, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-023",
+  "rarity" : "SR",
+  "name" : "Adio",
+  "category" : "CHARACTER",
+  "cost" : 9,
+  "attribute" : "Special",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY",
+  "effect" : "[On Play] If your Leader has the {ODYSSEY} type, set up to 3 of your DON!! cards as active. [On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On Your Opponent's Attack" ]
+}

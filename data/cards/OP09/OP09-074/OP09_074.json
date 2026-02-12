@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-074",
+  "rarity" : "C",
+  "name" : "Bepo",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Minks/Heart Pirates",
+  "effect" : "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

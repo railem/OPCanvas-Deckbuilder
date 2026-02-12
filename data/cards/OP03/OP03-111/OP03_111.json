@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-111",
+  "rarity" : "C",
+  "name" : "Charlotte Praline",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Merfolk/The Sun Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-033",
+  "rarity" : "C",
+  "name" : "Baby 5",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Donquixote Pirates",
+  "effect" : "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Play up to 1 {Donquixote Pirates} type Character card with a cost of 2 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "OP12-015",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SR",
+    "color": "Red",
+    "cost": 4,
+    "power": 4000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Supernovas/Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If you have a total of 2 or more given DON!! cards, this Character gains +2000 power. [On Play] You may reveal 2 Events from your hand: Play up to 1 red Character card with 3000 power or less from your hand. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Permanent"
+    ]
+}

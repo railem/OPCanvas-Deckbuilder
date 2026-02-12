@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-029",
+  "rarity" : "C",
+  "name" : "Sorry. I'm a Goner.",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "East Blue/Straw Hat Crew",
+  "effect" : "[Counter] Reveal 1 card from the top of your deck. If the revealed card has a cost of 4 or more, return up to 1 of your Characters to the owner's hand. Then, place the revealed card at the bottom of your deck.",
+  "trigger" : "[Trigger] Return up to 1 Character with a cost of 8 or less to the owner's hand.",
+  "keywords" : [ "Counter" ]
+}

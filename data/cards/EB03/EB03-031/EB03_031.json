@@ -1,0 +1,21 @@
+{
+    "id": "EB03-031",
+    "name": "Vinsmoke Reiju",
+    "rarity": "SR",
+    "color": "Purple",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "The Vinsmoke Family/GERMA 66",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[Your Turn] [On Play] DON!! −1: If your Leader is [Sanji], activate the [Main] effect of up to 1 Event card with a cost of 7 or less in your trash.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "DON!! -X",
+        "Your Turn",
+        "Main"
+    ]
+}

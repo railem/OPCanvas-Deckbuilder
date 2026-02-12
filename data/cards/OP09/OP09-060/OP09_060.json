@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-060",
+  "rarity" : "C",
+  "name" : "Emptee Bluffs Island",
+  "category" : "STAGE",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Cross Guild",
+  "effect" : "[Activate: Main] You may place 2 cards from your hand at the bottom of your deck in any order and rest this Stage: If your Leader has the {Cross Guild} type, draw 2 cards.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

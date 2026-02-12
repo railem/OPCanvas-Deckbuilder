@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-079",
+  "rarity" : "UC",
+  "name" : "Vergo",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy/Donquixote Pirates",
+  "effect" : "[DON!! x1] This Character cannot be K.O.'d in battle.",
+  "trigger" : "",
+  "keywords" : [ "DON!!xX" ]
+}

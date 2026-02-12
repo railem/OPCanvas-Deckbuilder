@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-098",
+  "rarity" : "UC",
+  "name" : "Kurozumi Orochi",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Land of Wano/Kurozumi Clan",
+  "effect" : "[On Play] Reveal up to 1 [Artificial Devil Fruit SMILE] from your deck and add it to your hand. Then, shuffle your deck.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

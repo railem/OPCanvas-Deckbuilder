@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-038",
+  "rarity" : "C",
+  "name" : "Kanjuro",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Land of Wano/The Akazaya Nine",
+  "effect" : "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less. [On K.O.] Your opponent chooses 1 card from your hand; trash that card.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "On K.O.", "DON!!xX" ]
+}

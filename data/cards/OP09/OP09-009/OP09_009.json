@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-009",
+  "rarity" : "SR",
+  "name" : "Benn.Beckman",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Ranged",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Red-Haired Pirates",
+  "effect" : "[On Play] Trash up to 1 of your opponent's Characters with 6000 power or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

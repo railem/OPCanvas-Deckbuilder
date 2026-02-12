@@ -1,0 +1,19 @@
+{
+    "id": "OP15-086",
+    "name": "Nami",
+    "rarity": "SR",
+    "color": "Black",
+    "cost": 8,
+    "power": 6000,
+    "attribute": "Special",
+    "counter": 0,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] If your leader has the {Straw Hat Crew} type, play up to 1 cost 7 or lower Character Card with the {Straw Hat Crew} type from your trash. The Character played by this effect gains [Rush] this turn.",
+    "trigger": "",
+    "keywords": [
+        "Rush",
+        "On Play"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-044",
+  "rarity" : "UC",
+  "name" : "Gion",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Navy",
+  "effect" : "[Your Turn] [Once Per Turn] When your opponent activates an Event, your opponent must place 1 card from their hand at the bottom of their deck.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

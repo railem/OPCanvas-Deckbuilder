@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-041",
+  "rarity" : "R",
+  "name" : "Radio Knife",
+  "category" : "EVENT",
+  "cost" : 4,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Dressrosa/Supernovas/Heart Pirates",
+  "effect" : "[Main] Rest up to 1 of your opponent's Characters with a cost of 6 or less. Then, K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+  "trigger" : "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "keywords" : [ "Main" ]
+}

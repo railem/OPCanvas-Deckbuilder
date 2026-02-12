@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-056",
+  "rarity" : "UC",
+  "name" : "Demon Face",
+  "category" : "EVENT",
+  "cost" : 6,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Hawkins Pirates",
+  "effect" : "[Main] K.O. up to 2 of your opponent's rested Characters with a cost of 5 or less.",
+  "trigger" : "",
+  "keywords" : [ "Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-085",
+  "rarity" : "C",
+  "name" : "Saint Jalmac",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Ranged",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Celestial Dragons",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

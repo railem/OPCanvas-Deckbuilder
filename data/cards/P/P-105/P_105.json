@@ -1,0 +1,20 @@
+{
+    "id": "P-105",
+    "name": "Sabo",
+    "rarity": "P",
+    "color": "Black",
+    "cost": 4,
+    "power": 6000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Revolutionary Army",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If your Leader has the {Revolutionary Army} type, this Character gains [Blocker] and +4 cost. [On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Play",
+        "Permanent"
+    ]
+}

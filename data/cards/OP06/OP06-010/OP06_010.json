@@ -1,0 +1,19 @@
+{
+    "id": "OP06-010",
+    "name": "Douglas Bullet",
+    "rarity": "R",
+    "color": "Red",
+    "cost": 6,
+    "power": 7000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "FILM/The Pirates Fest",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "If your Leader has the {FILM} type, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

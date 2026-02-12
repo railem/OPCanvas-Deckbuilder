@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-016",
+  "rarity" : "C",
+  "name" : "Bird Neptunian",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Neptunian",
+  "effect" : "[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn. [When Attacking] If you have 3 or more {Neptunian} type Characters, rest up to 1 of your opponent's Characters with a cost of 8 or less.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "When Attacking" ]
+}

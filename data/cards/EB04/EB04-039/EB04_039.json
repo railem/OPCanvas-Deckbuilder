@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-039",
+  "rarity" : "R",
+  "name" : "Eustass\"Captain\"Kid",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Special",
+  "power" : 8000,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Supernovas/Kid Pirates",
+  "effect" : "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [Activate: Main] You may trash this Character: Play up to 1 {Kid Pirates} type Character card with a cost of 5 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Activate: Main" ]
+}

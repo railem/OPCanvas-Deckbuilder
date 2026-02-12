@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-029",
+  "rarity" : "UC",
+  "name" : "Shimotsuki Kouzaburou",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "East Blue/Frost Moon Village/Land of Wano",
+  "effect" : "[On Play] Rest up to 1 of your opponent's Characters with a cost of 2 or less. Then, K.O. up to 1 of your opponent's rested Characters with a base cost of 1 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

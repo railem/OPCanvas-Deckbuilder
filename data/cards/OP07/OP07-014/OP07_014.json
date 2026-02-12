@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-014",
+  "rarity" : "UC",
+  "name" : "Moda",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Lulucia Kingdom",
+  "effect" : "[Your Turn] [On Play] Up to 1 of your [Portgas.D.Ace] cards gains +2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Your Turn" ]
+}

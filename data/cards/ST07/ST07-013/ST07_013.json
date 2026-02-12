@@ -1,0 +1,16 @@
+{
+  "id" : "ST07-013",
+  "rarity" : "C",
+  "name" : "Prometheus",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates/Homies",
+  "effect" : "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains [Double Attack] during this turn. (This card deals 2 damage.)",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "Double Attack", "Activate: Main" ]
+}

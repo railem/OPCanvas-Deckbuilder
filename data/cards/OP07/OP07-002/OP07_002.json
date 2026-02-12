@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-002",
+  "rarity" : "R",
+  "name" : "Ain",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "FILM/Neo Navy",
+  "effect" : "[On Play] Set the power of up to 1 of your opponent's Characters to 0 during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

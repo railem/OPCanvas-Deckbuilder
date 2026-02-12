@@ -1,0 +1,16 @@
+{
+  "id" : "ST21-012",
+  "rarity" : "C",
+  "name" : "Brook",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Straw Hat Crew",
+  "effect" : "[When Attacking] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

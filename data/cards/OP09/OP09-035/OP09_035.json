@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-035",
+  "rarity" : "UC",
+  "name" : "Portgas.D.Ace",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY/Whitebeard Pirates",
+  "effect" : "[On Play] If you have 2 or more rested Characters, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

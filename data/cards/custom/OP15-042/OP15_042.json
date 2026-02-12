@@ -1,0 +1,19 @@
+{
+    "id": "OP15-042",
+    "name": "Kyros",
+    "rarity": "R",
+    "color": "Blue",
+    "cost": 3,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 0,
+    "type": "Dressrosa",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] You may trash 1 card from your hand: if your Leader is [Rebecca], this card gains [Rush] during this turn.\n\n[On K.O] Add this Character card from your trash to your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "On K.O."
+    ]
+}

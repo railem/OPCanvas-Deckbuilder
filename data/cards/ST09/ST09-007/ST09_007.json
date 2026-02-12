@@ -1,0 +1,16 @@
+{
+  "id" : "ST09-007",
+  "rarity" : "C",
+  "name" : "Shinobu",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 2000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Land of Wano",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +4000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Block" ]
+}

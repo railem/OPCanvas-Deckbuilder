@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-056",
+  "rarity" : "C",
+  "name" : "Moby Dick",
+  "category" : "STAGE",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[Your Turn] [Once Per Turn] When your Character with a type including \"Whitebeard Pirates\" is removed from the field by an effect, draw 1 card. Then, place 1 card from your hand at the top or bottom of your deck.",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "Your Turn" ]
+}

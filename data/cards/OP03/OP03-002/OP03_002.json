@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-002",
+  "rarity" : "UC",
+  "name" : "Adio",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Ranged",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "ODYSSEY",
+  "effect" : "[DON!! x1] [When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "When Attacking", "DON!!xX" ]
+}

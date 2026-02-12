@@ -1,0 +1,19 @@
+{
+    "id": "OP15-114",
+    "name": "Wyper",
+    "rarity": "SR",
+    "color": "Yellow",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Ranged",
+    "counter": 1000,
+    "type": "Sky Island / Shandian Warrior",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] You may turn the top card from your Life cards face-up: give all of your opponent’s Characters -2000 power for this turn, then K.O. all of your opponent’s Characters with a power of 0 or less.\n[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your {Sky Island} type Leader or Character cards.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Activate: Main"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-091",
+  "rarity" : "R",
+  "name" : "Who's.Who",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Animal Kingdom Pirates/Former CP9",
+  "effect" : "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "keywords" : [ "On Play" ]
+}

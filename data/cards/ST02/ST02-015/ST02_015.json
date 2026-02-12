@@ -1,0 +1,16 @@
+{
+  "id" : "ST02-015",
+  "rarity" : "C",
+  "name" : "Scalpel",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Supernovas/Heart Pirates",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, set up to 1 of your DON!! cards as active.",
+  "trigger" : "[Trigger] Set up to 2 of your DON!! cards as active.",
+  "keywords" : [ "Counter" ]
+}

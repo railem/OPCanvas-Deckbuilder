@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-040",
+  "rarity" : "R",
+  "name" : "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Supernovas/Straw Hat Crew",
+  "effect" : "[Main] You may rest 2 of your DON!! cards: Up to 2 of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase. [Counter] Your Leader gains +3000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Counter", "Main" ]
+}

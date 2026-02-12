@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-070",
+  "rarity" : "SR",
+  "name" : "Dracule Mihawk",
+  "category" : "CHARACTER",
+  "cost" : 9,
+  "attribute" : "Slash",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea",
+  "effect" : "[On Play] Place up to 1 Character with a cost of 7 or less at the bottom of the owner's deck.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

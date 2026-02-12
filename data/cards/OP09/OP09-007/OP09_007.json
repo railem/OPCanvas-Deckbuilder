@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-007",
+  "rarity" : "C",
+  "name" : "Heat",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Kid Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Up to 1 of your Leader with 4000 power or less gains +1000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

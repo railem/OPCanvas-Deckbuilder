@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-111",
+  "rarity" : "UC",
+  "name" : "Pythagoras",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Wisdom",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Scientist",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

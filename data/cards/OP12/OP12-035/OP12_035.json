@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-035",
+  "rarity" : "C",
+  "name" : "Morgan",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "East Blue/Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

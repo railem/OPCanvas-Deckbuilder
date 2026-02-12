@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-102",
+  "rarity" : "R",
+  "name" : "Gedatsu",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Sky Island/Vassals",
+  "effect" : "[On Play] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

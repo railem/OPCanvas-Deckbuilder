@@ -1,0 +1,19 @@
+{
+    "id": "OP12-024",
+    "name": "Gyukimaru",
+    "rarity": "C",
+    "color": "Green",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Animal/Land of Wano",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If this Character is active, this Character cannot be K.O.'d by your opponent's effects. [When Attacking] If you have a total of 3 or more given DON!! cards, rest up to 1 of your opponent's Characters with a base cost of 6 or less.",
+    "trigger": "",
+    "keywords": [
+        "When Attacking",
+        "Permanent"
+    ]
+}

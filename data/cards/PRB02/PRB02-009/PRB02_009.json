@@ -1,0 +1,19 @@
+{
+    "id": "PRB02-009",
+    "name": "Mr.3(Galdino)",
+    "rarity": "R",
+    "color": "Blue",
+    "cost": 2,
+    "power": 1000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Cross Guild/Former Baroque Works",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "This effect can be activated when this Character is rested by your opponent's effect. You may trash this Character and draw 2 cards. [Blocker]",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

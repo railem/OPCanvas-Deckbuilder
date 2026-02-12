@@ -1,0 +1,20 @@
+{
+    "id": "OP04-068",
+    "name": "Yokozuna",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 3,
+    "power": 3000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Animal/Water Seven",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Return up to 1 of your opponent's Characters with a cost of 2 or less to the owner's hand.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Your Opponent's Attack",
+        "DON!! -X"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST12-009",
+  "rarity" : "C",
+  "name" : "Elephant True Bluefin",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Animal",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

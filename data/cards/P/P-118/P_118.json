@@ -1,0 +1,16 @@
+{
+  "id" : "P-118",
+  "rarity" : "P",
+  "name" : "Lilith",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Wisdom",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Egghead/Scientist",
+  "effect" : "[On Play] If your Leader has the {Egghead} type, play up to 1 {Egghead} type Character card or Character card with a [Trigger], with a cost of 5 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

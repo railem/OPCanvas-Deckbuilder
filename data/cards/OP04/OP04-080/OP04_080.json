@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-080",
+  "rarity" : "UC",
+  "name" : "Gyats",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 1000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Dressrosa",
+  "effect" : "[On Play] Up to 1 of your {Dressrosa} type Characters can also attack active Characters during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

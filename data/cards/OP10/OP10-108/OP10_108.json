@@ -1,0 +1,19 @@
+{
+    "id": "OP10-108",
+    "name": "Scratchmen Apoo",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 1,
+    "power": 1000,
+    "attribute": "Ranged",
+    "counter": 1000,
+    "type": "Supernovas/On-Air Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If you have a yellow {Supernovas} type Character other than [Scratchmen Apoo], this Character gains [Blocker].",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

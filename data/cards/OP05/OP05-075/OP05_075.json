@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-075",
+  "rarity" : "C",
+  "name" : "Mr.1(Daz.Bonez)",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Baroque Works",
+  "effect" : "[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 {Baroque Works} type Character card with a cost of 3 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Your Opponent's Attack" ]
+}

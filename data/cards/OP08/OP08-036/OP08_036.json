@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-036",
+  "rarity" : "R",
+  "name" : "Electrical Luna",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Minks",
+  "effect" : "[Main] All of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase.",
+  "trigger" : "[Trigger] Rest up to 1 of your opponent's Characters.",
+  "keywords" : [ "Main" ]
+}

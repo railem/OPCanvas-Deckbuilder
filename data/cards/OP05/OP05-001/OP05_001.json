@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-001",
+  "rarity" : "L",
+  "name" : "Sabo",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Red/Black",
+  "blockIcon" : 2,
+  "type" : "Revolutionary Army",
+  "effect" : "[DON!! x1] [Opponent's Turn] [Once Per Turn] If your Character with 5000 power or more would be K.O.'d, you may give that Character −1000 power during this turn instead of that Character being K.O.'d.",
+  "trigger" : "",
+  "keywords" : [ "DON!!xX", "Opponents Turn" ]
+}

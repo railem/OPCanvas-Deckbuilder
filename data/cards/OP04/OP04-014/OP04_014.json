@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-014",
+  "rarity" : "UC",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Strike",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Alabasta/Straw Hat Crew",
+  "effect" : "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+  "trigger" : "",
+  "keywords" : [ "Banish" ]
+}

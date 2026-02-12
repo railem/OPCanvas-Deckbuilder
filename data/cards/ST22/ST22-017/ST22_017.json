@@ -1,0 +1,16 @@
+{
+  "id" : "ST22-017",
+  "rarity" : "C",
+  "name" : "Fire Fist",
+  "category" : "EVENT",
+  "cost" : 5,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[Main] You may reveal 2 cards with a type including \"Whitebeard Pirates\" from your hand: Draw 1 card. Then, place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck.",
+  "trigger" : "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+  "keywords" : [ "Main" ]
+}

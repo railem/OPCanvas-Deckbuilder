@@ -1,0 +1,18 @@
+{
+    "id": "P-067",
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "P",
+    "color": "Green",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Supernovas/Kid Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid].",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-112",
+  "rarity" : "R",
+  "name" : "Baby 5",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Donquixote Pirates",
+  "effect" : "-",
+  "trigger" : "[Trigger] If your Leader is multicolored, draw 2 cards.",
+  "keywords" : [ ]
+}

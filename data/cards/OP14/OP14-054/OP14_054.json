@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-054",
+  "rarity" : "UC",
+  "name" : "Fisher Tiger",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Fish-Man/The Sun Pirates",
+  "effect" : "[On Play] If your Leader has the {Fish-Man} type, draw 3 cards. [End of Your Turn] Trash cards from your hand until you have 5 cards in your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "End of Your Turn" ]
+}

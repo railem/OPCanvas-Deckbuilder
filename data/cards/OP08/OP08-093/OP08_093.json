@@ -1,0 +1,19 @@
+{
+    "id": "OP08-093",
+    "name": "X.Drake",
+    "rarity": "C",
+    "color": "Black",
+    "cost": 4,
+    "power": 6000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "Navy/Drake Pirates/Animal Kingdom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[DON!! x1] This Character gains +2 cost.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

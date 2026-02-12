@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-074",
+  "rarity" : "R",
+  "name" : "Bartholomew Kuma",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea/Revolutionary Army",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] Play up to 1 [Pacifista] with a cost of 4 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On K.O." ]
+}

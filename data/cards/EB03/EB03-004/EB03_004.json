@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-004",
+  "rarity" : "C",
+  "name" : "Carina",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "FILM/Grantesoro",
+  "effect" : "[Blocker] [Opponent's Turn] If your Leader is multicolored and you have no Characters with 6000 base power or more, this Character gains +4000 power.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Opponents Turn" ]
+}

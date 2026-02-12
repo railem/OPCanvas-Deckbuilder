@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-011",
+  "rarity" : "C",
+  "name" : "Bartholomew Kuma",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea/Revolutionary Army",
+  "effect" : "[On Play] K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+  "trigger" : "[Trigger] If your Leader is multicolored, play this card.",
+  "keywords" : [ "On Play" ]
+}

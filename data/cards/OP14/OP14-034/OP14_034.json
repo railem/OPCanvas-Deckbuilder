@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-034",
+  "rarity" : "R",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "FILM/Supernovas/Straw Hat Crew",
+  "effect" : "[Your Turn] All of your green {Straw Hat Crew} type Characters with a base cost of 4 or more gain +1000 power. [Once Per Turn] If your {Straw Hat Crew} type Character would be K.O.'d by your opponent's effect, you may rest 1 of your Characters instead.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

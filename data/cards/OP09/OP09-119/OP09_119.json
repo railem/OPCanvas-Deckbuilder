@@ -1,0 +1,19 @@
+{
+    "id": "OP09-119",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SEC",
+    "color": "Purple",
+    "cost": 9,
+    "power": 10000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Draw 1 card and this Character gains [Rush] during this turn.",
+    "trigger": "",
+    "keywords": [
+        "Rush",
+        "On Play"
+    ]
+}

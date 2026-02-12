@@ -1,0 +1,19 @@
+{
+    "id": "OP10-030",
+    "name": "Smoker",
+    "rarity": "SR",
+    "color": "Green",
+    "cost": 5,
+    "power": 7000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "Punk Hazard/Navy",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.",
+    "trigger": "",
+    "keywords": [
+        "Banish",
+        "Activate: Main"
+    ]
+}

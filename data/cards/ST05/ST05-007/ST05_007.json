@@ -1,0 +1,16 @@
+{
+  "id" : "ST05-007",
+  "rarity" : "C",
+  "name" : "Gordon",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "FILM",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

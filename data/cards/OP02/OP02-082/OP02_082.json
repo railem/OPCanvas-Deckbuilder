@@ -1,0 +1,19 @@
+{
+    "id": "OP02-082",
+    "name": "Byrnndi World",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 8,
+    "power": 8000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "World Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[Activate: Main] DON!! −8 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +792000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "DON!! -X"
+    ]
+}

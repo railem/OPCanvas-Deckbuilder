@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-028",
+  "rarity" : "C",
+  "name" : "Johnny",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "East Blue",
+  "effect" : "[Your Turn] When this Character becomes rested, K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

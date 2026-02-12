@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-007",
+  "rarity" : "C",
+  "name" : "Thatch",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Wisdom",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Whitebeard Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

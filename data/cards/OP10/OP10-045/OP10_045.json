@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-045",
+  "rarity" : "R",
+  "name" : "Cavendish",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Dressrosa/Beautiful Pirates",
+  "effect" : "[When Attacking] [Once Per Turn] Draw 2 cards and trash 1 card from your hand.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

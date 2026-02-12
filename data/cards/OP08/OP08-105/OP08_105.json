@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-105",
+  "rarity" : "SR",
+  "name" : "Jewelry Bonney",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Egghead/Bonney Pirates",
+  "effect" : "[DON!! x1] [Your Turn] [Once Per Turn] When a card is removed from your opponent's Life cards, draw 2 cards and trash 1 card from your hand.",
+  "trigger" : "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+  "keywords" : [ "DON!!xX", "Your Turn" ]
+}

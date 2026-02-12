@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-071",
+  "rarity" : "UC",
+  "name" : "Pica",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Donquixote Pirates",
+  "effect" : "[End of Your Turn] If your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger" : "",
+  "keywords" : [ "End of Your Turn" ]
+}

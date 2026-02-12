@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-098",
+  "rarity" : "UC",
+  "name" : "Black Hole",
+  "category" : "EVENT",
+  "cost" : 4,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Blackbeard Pirates",
+  "effect" : "[Main] If your Leader has the {Blackbeard Pirates} type, negate the effect of up to 1 of your opponent's Characters during this turn. Then, if that Character has a cost of 4 or less, K.O. it.",
+  "trigger" : "[Trigger] Negate the effect of up to 1 of your opponent's Leader or Character cards during this turn.",
+  "keywords" : [ "Main" ]
+}

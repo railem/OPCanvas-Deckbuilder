@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-082",
+  "rarity" : "C",
+  "name" : "Inuppe",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "[On Play]/[On K.O.] If your Leader has the {Thriller Bark Pirates} type, draw 2 cards and trash 2 cards from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

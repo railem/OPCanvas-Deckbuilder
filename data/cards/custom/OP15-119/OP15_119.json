@@ -1,0 +1,19 @@
+{
+    "id": "OP15-119",
+    "name": "Monkey D. Luffy",
+    "rarity": "SEC",
+    "color": "Yellow",
+    "cost": 5,
+    "power": 7000,
+    "attribute": "Strike",
+    "counter": 0,
+    "type": "Sky Island / Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If you have 6 or more DON!!, this character gains [Rush]. \nWhen your opponent activates an event or [Blocker], reveal the top card of your life. This turn, this Character has Power +X000 where X is equal to the cost of the revealed card. ",
+    "trigger": "",
+    "keywords": [
+        "Rush",
+        "Permanent"
+    ]
+}

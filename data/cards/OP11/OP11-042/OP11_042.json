@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-042",
+  "rarity" : "C",
+  "name" : "Vito",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Ranged",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Firetank Pirates",
+  "effect" : "[On Play] You may trash 1 {Firetank Pirates} type card from your hand: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+  "trigger" : "",
+  "keywords" : [ "Rush", "On Play" ]
+}

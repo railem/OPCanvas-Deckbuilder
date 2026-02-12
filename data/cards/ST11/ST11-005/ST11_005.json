@@ -1,0 +1,16 @@
+{
+  "id" : "ST11-005",
+  "rarity" : "C",
+  "name" : "I'm invincible",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Music/FILM",
+  "effect" : "[Main] Set up to 1 of your [Uta] Leader as active.",
+  "trigger" : "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+  "keywords" : [ "Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-065",
+  "rarity" : "C",
+  "name" : "Charlotte Smoothie",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Special",
+  "power" : 9000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "Big Mom Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-030",
+  "rarity" : "C",
+  "name" : "Viola",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Dressrosa",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

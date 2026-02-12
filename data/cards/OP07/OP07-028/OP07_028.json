@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-028",
+  "rarity" : "C",
+  "name" : "Scratchmen Apoo",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Ranged",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Supernovas/On-Air Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

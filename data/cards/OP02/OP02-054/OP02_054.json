@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-054",
+  "rarity" : "C",
+  "name" : "Gecko Moria",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "The Seven Warlords of the Sea/Thriller Bark Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

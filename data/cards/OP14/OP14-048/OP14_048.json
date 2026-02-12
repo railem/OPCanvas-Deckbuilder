@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-048",
+  "rarity" : "C",
+  "name" : "Shiryu",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Slash",
+  "power" : 10000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Impel Down",
+  "effect" : "[On Play] Return up to 1 of your opponent's Characters to the owner's hand. Then, trash all cards from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

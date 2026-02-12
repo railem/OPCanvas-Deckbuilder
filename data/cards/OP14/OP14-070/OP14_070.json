@@ -1,0 +1,19 @@
+{
+    "id": "OP14-070",
+    "name": "Buffalo",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 2,
+    "power": 1000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Donquixote Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "When this Character becomes rested by your opponent's Character's effect, you may return 1 DON!! card from your field to your DON!! deck. If you do, set this Character as active. [Blocker]",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

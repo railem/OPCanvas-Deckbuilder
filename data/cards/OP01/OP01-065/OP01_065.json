@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-065",
+  "rarity" : "C",
+  "name" : "Vergo",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Navy/Donquixote Pirates/Punk Hazard",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

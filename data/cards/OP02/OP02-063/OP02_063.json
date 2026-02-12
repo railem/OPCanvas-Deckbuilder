@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-063",
+  "rarity" : "UC",
+  "name" : "Mr.1(Daz.Bonez)",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Impel Down/Former Baroque Works",
+  "effect" : "[On Play] Add up to 1 blue Event card with a cost of 1 from your trash to your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

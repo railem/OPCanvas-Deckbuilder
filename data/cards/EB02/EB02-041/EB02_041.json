@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-041",
+  "rarity" : "R",
+  "name" : "Merry Go",
+  "category" : "STAGE",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 3,
+  "type" : "Straw Hat Crew",
+  "effect" : "[On Play] If your Leader has the {Straw Hat Crew} type, draw 1 card. [Activate: Main] You may rest this Stage: If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, up to 1 of your {Straw Hat Crew} type Characters gains +2 cost until the end of your opponent's next turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Activate: Main" ]
+}

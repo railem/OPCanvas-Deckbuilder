@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-078",
+  "rarity" : "C",
+  "name" : "Megaton Nine-Tails Rush",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "Foxy Pirates",
+  "effect" : "[Main] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, set up to 1 of your [Foxy] cards as active.",
+  "trigger" : "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "keywords" : [ "Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-016",
+  "rarity" : "C",
+  "name" : "Kouzuki Hiyori",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Land of Wano/Kouzuki Clan",
+  "effect" : "[On Play] If your Leader is [Kouzuki Oden], draw 1 card. [Activate: Main] You may trash this Character: Give up to 1 rested DON!! card to your {Land of Wano} type Leader.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Activate: Main" ]
+}

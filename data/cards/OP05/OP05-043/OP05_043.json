@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-043",
+  "rarity" : "SR",
+  "name" : "Ulti",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Animal Kingdom Pirates",
+  "effect" : "[On Play] If your Leader is multicolored, look at 3 cards from the top of your deck and add up to 1 card to your hand. Then, place the rest at the top or bottom of the deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-063",
+  "rarity" : "UC",
+  "name" : "Vinsmoke Sora",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 2,
+  "type" : "The Vinsmoke Family/Kingdom of GERMA",
+  "effect" : "[On Play] You may trash 1 card from your hand: If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 {The Vinsmoke Family} type Character card with 4000 power or less from your trash to your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

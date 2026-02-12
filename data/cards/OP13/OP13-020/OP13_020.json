@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-020",
+  "rarity" : "UC",
+  "name" : "Meteor Fist",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Navy",
+  "effect" : "[Main] Give up to 1 of your opponent's Characters −5000 power during this turn.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Main" ]
+}

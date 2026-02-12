@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-064",
+  "rarity" : "C",
+  "name" : "Giolla",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Donquixote Pirates",
+  "effect" : "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it. Then, K.O. up to 1 of your opponent's Characters with a base power of 0.",
+  "trigger" : "",
+  "keywords" : [ "On K.O." ]
+}

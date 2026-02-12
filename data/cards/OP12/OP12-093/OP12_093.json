@@ -1,0 +1,18 @@
+{
+    "id": "OP12-093",
+    "name": "Morley",
+    "rarity": "UC",
+    "color": "Black",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": 2000,
+    "type": "Giant/Revolutionary Army",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "If your Leader has the {Revolutionary Army} type, this Character gains +4 cost.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-026",
+  "rarity" : "C",
+  "name" : "Bluegrass",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Egghead/Navy",
+  "effect" : "[On Play] Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck. [When Attacking] Draw 1 card and trash 1 card from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking" ]
+}

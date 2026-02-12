@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-103",
+  "rarity" : "C",
+  "name" : "Gyogyo",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Wisdom",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Bonney Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

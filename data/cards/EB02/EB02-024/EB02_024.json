@@ -1,0 +1,19 @@
+{
+    "id": "EB02-024",
+    "name": "Sogeking",
+    "rarity": "C",
+    "color": "Blue",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Ranged",
+    "counter": 1000,
+    "type": "Sniper Island",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "Also treat this card's name as [Usopp] according to the rules. [On Play] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order. Then, return up to 1 Character with a cost of 1 or less to the owner's hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Permanent"
+    ]
+}

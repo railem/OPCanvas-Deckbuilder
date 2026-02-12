@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-041",
+  "rarity" : "L",
+  "name" : "Boa Hancock",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Blue/Yellow",
+  "blockIcon" : 4,
+  "type" : "The Seven Warlords of the Sea/Kuja Pirates",
+  "effect" : "[Opponent's Turn] When you play a Character, draw 1 card. [DON!! x1] [Once Per Turn] When one of your {Amazon Lily} or {Kuja Pirates} type Characters with 5000 base power or more is K.O.'d, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "DON!!xX", "Opponents Turn" ]
+}

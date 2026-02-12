@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-083",
+  "rarity" : "C",
+  "name" : "Sterry",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Goa Kingdom",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

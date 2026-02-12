@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-028",
+  "rarity" : "R",
+  "name" : "Ice Time",
+  "category" : "EVENT",
+  "cost" : 5,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Navy",
+  "effect" : "[Main] You may trash 1 card from your hand: If your Leader has the {Navy} type, up to 2 of your opponent's Characters with 10000 power or less cannot attack until the end of your opponent's next End Phase.",
+  "trigger" : "[Trigger] Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+  "keywords" : [ "Main" ]
+}

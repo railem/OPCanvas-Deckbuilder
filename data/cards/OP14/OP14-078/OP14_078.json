@@ -1,0 +1,19 @@
+{
+    "id": "OP14-078",
+    "name": "Bullet String",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 2,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Counter] DON!! −1: If your Leader has the {Donquixote Pirates} type, up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, that card gains an additional +2000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "DON!! -X",
+        "Counter"
+    ]
+}

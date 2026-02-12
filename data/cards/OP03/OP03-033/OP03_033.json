@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-033",
+  "rarity" : "UC",
+  "name" : "Hatchan",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Fish-Man/East Blue/Arlong Pirates",
+  "effect" : "-",
+  "trigger" : "[Trigger] If your Leader has the {East Blue} type, play this card.",
+  "keywords" : [ ]
+}

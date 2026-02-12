@@ -1,0 +1,19 @@
+{
+    "id": "P-052",
+    "name": "Dracule Mihawk",
+    "rarity": "P",
+    "color": "Blue",
+    "cost": 6,
+    "power": 7000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "The Seven Warlords of the Sea",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by <Slash> attribute cards.",
+    "trigger": "",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

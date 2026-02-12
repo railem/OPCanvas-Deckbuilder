@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-102",
+  "rarity" : "UC",
+  "name" : "Charlotte Opera",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 2,
+  "type" : "Big Mom Pirates",
+  "effect" : "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost equal to or less than your number of Life cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

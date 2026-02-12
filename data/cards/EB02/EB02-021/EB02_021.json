@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-021",
+  "rarity" : "C",
+  "name" : "Gum-Gum Giant Pistol",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Water Seven/Straw Hat Crew",
+  "effect" : "[Main] Up to 1 of your {Straw Hat Crew} type Characters gains +6000 power during this turn. Then, the selected Character will not become active in your next Refresh Phase.",
+  "trigger" : "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "keywords" : [ "Main" ]
+}

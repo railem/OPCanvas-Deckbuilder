@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-002",
+  "rarity" : "L",
+  "name" : "Portgas.D.Ace",
+  "category" : "LEADER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Red/Blue",
+  "blockIcon" : 4,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 of your opponent's Leader or Character cards −2000 power during this battle. [DON!! x1] [Once Per Turn] When you take damage or your Character with 6000 base power or more is K.O.'d, draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On Your Opponent's Attack", "DON!!xX" ]
+}

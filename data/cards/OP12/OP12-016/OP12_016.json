@@ -1,0 +1,16 @@
+{
+  "id" : "OP12-016",
+  "rarity" : "C",
+  "name" : "To Never Doubt--That Is Power!",
+  "category" : "EVENT",
+  "cost" : null,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Former Roger Pirates",
+  "effect" : "[Main] You may give 2 active DON!! cards to 1 of your [Silvers Rayleigh]: Your opponent cannot activate [Blocker] when the card given these DON!! cards attacks during this turn. [Counter] Up to 1 of your Characters or [Silvers Rayleigh] gains +2000 power during this battle.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Counter", "Main" ]
+}

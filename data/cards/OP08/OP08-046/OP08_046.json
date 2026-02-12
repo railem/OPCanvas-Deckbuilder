@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-046",
+  "rarity" : "R",
+  "name" : "Shakuyaku",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Wisdom",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Amazon Lily",
+  "effect" : "[Your Turn] [Once Per Turn] When a Character is removed from the field by your effect, if your opponent has 5 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck. Then, rest this Character.",
+  "trigger" : "",
+  "keywords" : [ "Your Turn" ]
+}

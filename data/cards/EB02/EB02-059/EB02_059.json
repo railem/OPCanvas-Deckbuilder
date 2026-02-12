@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-059",
+  "rarity" : "C",
+  "name" : "Without Your Help I Can't Become the King of the Pirates!!!!",
+  "category" : "EVENT",
+  "cost" : 4,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Straw Hat Crew",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +1000 power during this battle. Then, if you have 1 or less Life cards, play up to 1 of your yellow {Straw Hat Crew} type Character cards or [Sanji] with a cost of 5 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Counter" ]
+}

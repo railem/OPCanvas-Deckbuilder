@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-032",
+  "rarity" : "UC",
+  "name" : "Surume",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Strike",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Animal/Fish-Man Island",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

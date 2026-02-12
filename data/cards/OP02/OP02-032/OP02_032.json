@@ -1,0 +1,16 @@
+{
+  "id" : "OP02-032",
+  "rarity" : "UC",
+  "name" : "Shishilian",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Minks",
+  "effect" : "[On Play] ② (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your {Minks} type Characters with a cost of 5 or less as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

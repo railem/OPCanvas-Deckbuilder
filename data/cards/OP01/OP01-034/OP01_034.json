@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-034",
+  "rarity" : "C",
+  "name" : "Inuarashi",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Minks/Land of Wano/The Akazaya Nine",
+  "effect" : "[DON!! x2] [When Attacking] Set up to 1 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "DON!!xX" ]
+}

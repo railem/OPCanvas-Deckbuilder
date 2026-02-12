@@ -1,0 +1,19 @@
+{
+    "id": "OP10-082",
+    "name": "Kuzan",
+    "rarity": "SR",
+    "color": "Black",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Former Navy/Blackbeard Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "This Character cannot be removed from the field by your opponent's effects. [Activate: Main] You may trash this Character: Draw 1 card. Then, play up to 1 {Blackbeard Pirates} type Character card with a cost of 5 or less other than [Kuzan] from your trash.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Permanent"
+    ]
+}

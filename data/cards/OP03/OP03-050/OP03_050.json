@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-050",
+  "rarity" : "UC",
+  "name" : "Boodle",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "East Blue",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 card from the top of your deck.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On K.O." ]
+}

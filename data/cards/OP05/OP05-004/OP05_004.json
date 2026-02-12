@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-004",
+  "rarity" : "UC",
+  "name" : "Emporio.Ivankov",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Revolutionary Army",
+  "effect" : "[Activate: Main] [Once Per Turn] If this Character has 7000 power or more, play up to 1 {Revolutionary Army} type Character card with 5000 power or less other than [Emporio.Ivankov] from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

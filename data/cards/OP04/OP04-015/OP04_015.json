@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-015",
+  "rarity" : "R",
+  "name" : "Roronoa Zoro",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "Alabasta/Straw Hat Crew",
+  "effect" : "[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

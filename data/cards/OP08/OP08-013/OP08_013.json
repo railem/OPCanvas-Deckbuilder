@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-013",
+  "rarity" : "UC",
+  "name" : "Robson",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Animal/Drum Kingdom",
+  "effect" : "[DON!! x2] This Character gains [Rush]. (This card can attack on the turn in which it is played.)",
+  "trigger" : "",
+  "keywords" : [ "Rush", "DON!!xX" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-013",
+  "rarity" : "C",
+  "name" : "Higuma",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 3000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Mountain Bandits",
+  "effect" : "[On Play] K.O. up to 1 of your opponent's Characters with 0 power or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

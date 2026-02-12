@@ -1,0 +1,16 @@
+{
+  "id" : "OP04-021",
+  "rarity" : "C",
+  "name" : "Viola",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 1,
+  "type" : "Donquixote Pirates",
+  "effect" : "[On Your Opponent's Attack] ➁ (You may rest the specified number of DON!! cards in your cost area.): Rest up to 1 of your opponent's DON!! cards.",
+  "trigger" : "",
+  "keywords" : [ "On Your Opponent's Attack" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-019",
+  "rarity" : "UC",
+  "name" : "Blue Dragon Seal Water Stream",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "FILM/Straw Hat Crew",
+  "effect" : "[Main] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+  "keywords" : [ "Main" ]
+}

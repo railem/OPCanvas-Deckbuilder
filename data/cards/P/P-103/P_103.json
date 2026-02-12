@@ -1,0 +1,16 @@
+{
+  "id" : "P-103",
+  "rarity" : "P",
+  "name" : "Portgas.D.Ace",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[On Play] Draw 2 cards and place 2 cards from your hand at the top or bottom of your deck in any order. Then, give up to 1 rested DON!! card to your Leader.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

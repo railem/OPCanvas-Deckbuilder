@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-101",
+  "rarity" : "C",
+  "name" : "Camie",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Merfolk",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

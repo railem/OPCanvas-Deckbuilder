@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-002",
+  "rarity" : "C",
+  "name" : "Ain",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "FILM/Neo Navy",
+  "effect" : "[On Play] Give up to 1 of your opponent's Characters −1000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 0 power or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

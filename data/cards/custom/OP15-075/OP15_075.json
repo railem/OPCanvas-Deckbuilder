@@ -1,0 +1,20 @@
+{
+    "id": "OP15-075",
+    "name": "El Thor",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 0,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Sky Island",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] DON!!-1: If your Leader is [Enel], up to 1 of your Leader or Character cards gains +1000 power during this turn. Then, K.O. up to 1 of your opponent’s Characters with 3000 power or less. \n\n[Counter] Up to 1 of your [Enel] cards gains +2000 power during this battle.",
+    "trigger": "",
+    "keywords": [
+        "DON!! -X",
+        "Counter",
+        "Main"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-089",
+  "rarity" : "C",
+  "name" : "Ryuma",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Land of Wano/Thriller Bark Pirates",
+  "effect" : "[On K.O.] Draw 2 cards and trash 2 cards from your hand.",
+  "trigger" : "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+  "keywords" : [ "On K.O." ]
+}

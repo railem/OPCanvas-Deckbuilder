@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-018",
+  "rarity" : "UC",
+  "name" : "Wapol",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 7000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Evil Black Drum Kingdom",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

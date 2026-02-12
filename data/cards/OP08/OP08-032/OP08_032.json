@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-032",
+  "rarity" : "UC",
+  "name" : "Milky",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Minks",
+  "effect" : "[Activate: Main] You may rest this Character: If your Leader has the {Minks} type, set up to 1 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

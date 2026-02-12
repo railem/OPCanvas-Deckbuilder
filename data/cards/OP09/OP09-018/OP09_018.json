@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-018",
+  "rarity" : "UC",
+  "name" : "Get Out of Here!",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 3,
+  "type" : "Red-Haired Pirates",
+  "effect" : "[Main] K.O. up to 2 of your opponent's Characters with a total power of 4000 or less.",
+  "trigger" : "",
+  "keywords" : [ "Main" ]
+}

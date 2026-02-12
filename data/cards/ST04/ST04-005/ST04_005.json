@@ -1,0 +1,20 @@
+{
+    "id": "ST04-005",
+    "name": "Queen",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Animal Kingdom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Play",
+        "DON!! -X"
+    ]
+}

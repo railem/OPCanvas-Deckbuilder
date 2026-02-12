@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-013",
+  "rarity" : "SR",
+  "name" : "Carrot",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Special",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Minks",
+  "effect" : "[On Play] If your Leader has the {Minks} type, set up to 2 of your {Minks} type Characters and your Leader as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

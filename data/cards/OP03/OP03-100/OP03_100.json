@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-100",
+  "rarity" : "C",
+  "name" : "Kingbaum",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates/Homies",
+  "effect" : "-",
+  "trigger" : "[Trigger] You may trash 1 card from the top or bottom of your Life cards: Play this card.",
+  "keywords" : [ ]
+}

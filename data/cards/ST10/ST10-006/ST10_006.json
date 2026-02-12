@@ -1,0 +1,19 @@
+{
+    "id": "ST10-006",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SR",
+    "color": "Red",
+    "cost": 10,
+    "power": 11000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[Rush] (This card can attack on the turn in which it is played.) [Once Per Turn] When your opponent activates a [Blocker], K.O. up to 1 of your opponent's Characters with 8000 power or less.",
+    "trigger": "",
+    "keywords": [
+        "Rush",
+        "Permanent"
+    ]
+}

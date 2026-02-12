@@ -1,0 +1,16 @@
+{
+  "id" : "OP07-045",
+  "rarity" : "SR",
+  "name" : "Jinbe",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 2,
+  "type" : "Fish-Man/The Seven Warlords of the Sea/The Sun Pirates",
+  "effect" : "[On Play] Play up to 1 {The Seven Warlords of the Sea} type Character card with a cost of 4 or less other than [Jinbe] from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-055",
+  "rarity" : "C",
+  "name" : "Rakuyo",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Whitebeard Pirates",
+  "effect" : "[When Attacking] If you have 4 or less cards in your hand, all of your Characters with a type including \"Whitebeard Pirates\" gain +1000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking" ]
+}

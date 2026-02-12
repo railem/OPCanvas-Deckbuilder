@@ -1,0 +1,16 @@
+{
+  "id" : "OP13-024",
+  "rarity" : "C",
+  "name" : "Gordon",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "FILM",
+  "effect" : "[On Play] You may reveal 1 {Music} or {FILM} type card from your hand: Set up to 2 of your DON!! cards as active at the end of this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

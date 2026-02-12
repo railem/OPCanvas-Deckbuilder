@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-058",
+  "rarity" : "C",
+  "name" : "Special Muggy Ball",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Buggy Pirates",
+  "effect" : "[Main] Return up to 1 of your opponent's Characters with a cost of 6 or less to the owner's hand.",
+  "trigger" : "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+  "keywords" : [ "Main" ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "OP15-104",
+    "name": "Conis",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 1,
+    "power": 0,
+    "attribute": "Wisdom",
+    "counter": 2000,
+    "type": "Sky Island",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] If you have less Life cards than your opponent, draw 2 cards and trash 2 cards from your hand.",
+    "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "keywords": [
+        "On Play"
+    ]
+}

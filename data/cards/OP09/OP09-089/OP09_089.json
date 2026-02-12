@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-089",
+  "rarity" : "UC",
+  "name" : "Stronger",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Animal/Blackbeard Pirates",
+  "effect" : "[Activate: Main] You may trash 1 card from your hand and trash this Character: If your Leader has the {Blackbeard Pirates} type, draw 1 card. Then, give up to 1 of your opponent's Characters –2 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

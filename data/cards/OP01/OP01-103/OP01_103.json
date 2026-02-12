@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-103",
+  "rarity" : "C",
+  "name" : "Scratchmen Apoo",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Ranged",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Animal Kingdom Pirates/On-Air Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

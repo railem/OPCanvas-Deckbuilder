@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-007",
+  "rarity" : "SR",
+  "name" : "Sabo",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Revolutionary Army",
+  "effect" : "[On Play] K.O. up to 2 of your opponent's Characters with a total power of 4000 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

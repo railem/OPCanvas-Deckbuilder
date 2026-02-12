@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-026",
+  "rarity" : "C",
+  "name" : "Scaled Neptunian",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Strike",
+  "power" : 8000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "Neptunian",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

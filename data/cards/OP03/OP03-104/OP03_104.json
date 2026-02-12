@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-104",
+  "rarity" : "UC",
+  "name" : "Shirley",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Merfolk",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

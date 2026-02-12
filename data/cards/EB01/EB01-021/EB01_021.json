@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-021",
+  "rarity" : "L",
+  "name" : "Hannyabal",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Blue/Purple",
+  "blockIcon" : 2,
+  "type" : "Impel Down",
+  "effect" : "[End of Your Turn] You may return 1 of your {Impel Down} type Characters with a cost of 2 or more to the owner's hand: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger" : "",
+  "keywords" : [ "End of Your Turn" ]
+}

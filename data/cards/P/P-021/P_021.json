@@ -1,0 +1,16 @@
+{
+  "id" : "P-021",
+  "rarity" : "P",
+  "name" : "Benn.Beckman",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Ranged",
+  "power" : 9000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 1,
+  "type" : "FILM/Red-Haired Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

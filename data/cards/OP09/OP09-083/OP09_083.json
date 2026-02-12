@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-083",
+  "rarity" : "R",
+  "name" : "Van Augur",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Ranged",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Blackbeard Pirates",
+  "effect" : "[Activate: Main] You may rest this Character: If your Leader has the {Blackbeard Pirates} type, give up to 1 of your opponent's Characters −3 cost during this turn. [On K.O.] Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "On K.O." ]
+}

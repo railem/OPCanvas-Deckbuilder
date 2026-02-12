@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-086",
+  "rarity" : "SR",
+  "name" : "Gecko Moria",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Special",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "The Seven Warlords of the Sea/Thriller Bark Pirates",
+  "effect" : "[On Play] Choose up to 1 Character card with a cost of 4 or less and up to 1 Character card with a cost of 2 or less from your trash. Play 1 card and play the other card rested.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

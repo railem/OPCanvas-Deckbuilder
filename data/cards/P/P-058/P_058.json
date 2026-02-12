@@ -1,0 +1,16 @@
+{
+  "id" : "P-058",
+  "rarity" : "P",
+  "name" : "Where the Wind Blows",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Music/FILM",
+  "effect" : "[Main] If your Leader is [Uta], set all of your {FILM} type Characters as active at the end of this turn.",
+  "trigger" : "[Trigger] Set all of your {FILM} type Characters as active.",
+  "keywords" : [ "Main" ]
+}

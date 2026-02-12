@@ -1,0 +1,16 @@
+{
+  "id" : "OP06-026",
+  "rarity" : "C",
+  "name" : "Koushirou",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Frost Moon Village",
+  "effect" : "[On Play] Set up to 1 of your attribute Characters with a cost of 4 or less as active. Then, you cannot attack a Leader during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

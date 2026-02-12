@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-059",
+  "rarity" : "UC",
+  "name" : "Murder at the Steam Bath",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 3,
+  "type" : "Buggy Pirates",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, trash up to 2 cards from your hand. Trash the same number of cards from the top of your deck as you did from your hand.",
+  "trigger" : "[Trigger] Draw 1 card.",
+  "keywords" : [ "Counter" ]
+}

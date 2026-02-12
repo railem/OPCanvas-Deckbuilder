@@ -1,0 +1,16 @@
+{
+  "id" : "OP14-039",
+  "rarity" : "UC",
+  "name" : "Coffin Boat",
+  "category" : "STAGE",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "East Blue/The Seven Warlords of the Sea",
+  "effect" : "[On Play] If your Leader is [Dracule Mihawk], draw 1 card. [End of Your Turn] If your Leader is [Dracule Mihawk], set up to 1 of your DON!! cards as active.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "End of Your Turn" ]
+}

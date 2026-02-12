@@ -1,0 +1,19 @@
+{
+    "id": "OP05-062",
+    "name": "O-Nami",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 1,
+    "power": 1000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "If you have 10 DON!! cards on your field, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

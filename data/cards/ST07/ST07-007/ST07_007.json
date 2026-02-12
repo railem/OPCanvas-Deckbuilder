@@ -1,0 +1,16 @@
+{
+  "id" : "ST07-007",
+  "rarity" : "C",
+  "name" : "Charlotte Brulee",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 1,
+  "type" : "Big Mom Pirates",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger" : "[Trigger] Play this card.",
+  "keywords" : [ "Blocker" ]
+}

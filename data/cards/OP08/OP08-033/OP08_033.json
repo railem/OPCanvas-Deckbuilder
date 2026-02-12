@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-033",
+  "rarity" : "C",
+  "name" : "Roddy",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 2,
+  "type" : "Minks",
+  "effect" : "[On Play] If your Leader has the {Minks} type and your opponent has 7 or more rested cards, K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

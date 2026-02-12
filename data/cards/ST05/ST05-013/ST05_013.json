@@ -1,0 +1,16 @@
+{
+  "id" : "ST05-013",
+  "rarity" : "C",
+  "name" : "Bins",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "FILM/Neo Navy",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

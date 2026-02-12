@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-005",
+  "rarity" : "R",
+  "name" : "Sugar",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Donquixote Pirates",
+  "effect" : "[On Play] If your Leader is [Sugar], play up to 1 {Donquixote Pirates} type Character card with 6000 power or less from your hand rested.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

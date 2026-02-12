@@ -1,0 +1,19 @@
+{
+    "id": "OP04-076",
+    "name": "Weakness...Is an Unforgivable Sin.",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "The Seven Warlords of the Sea/Baroque Works",
+    "category": "EVENT",
+    "blockIcon": "1",
+    "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "keywords": [
+        "DON!! -X",
+        "Counter"
+    ]
+}

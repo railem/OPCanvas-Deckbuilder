@@ -1,0 +1,19 @@
+{
+    "id": "OP08-114",
+    "name": "S-Hawk",
+    "rarity": "R",
+    "color": "Yellow",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Egghead/Seraphim",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character cannot be K.O.'d in battle by <Slash> attribute cards and gains +2000 power.",
+    "trigger": "[Trigger] You may trash 1 card from your hand: If you have 2 or less Life cards, play this card.",
+    "keywords": [
+        "DON!!xX",
+        "Permanent"
+    ]
+}

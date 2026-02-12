@@ -1,0 +1,16 @@
+{
+  "id" : "OP09-029",
+  "rarity" : "C",
+  "name" : "Tony Tony.Chopper",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 3,
+  "type" : "ODYSSEY/Animal/Straw Hat Crew",
+  "effect" : "[End of Your Turn] Set up to 1 of your {ODYSSEY} type Characters with a cost of 4 or less as active.",
+  "trigger" : "",
+  "keywords" : [ "End of Your Turn" ]
+}

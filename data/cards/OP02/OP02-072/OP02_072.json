@@ -1,0 +1,19 @@
+{
+    "id": "OP02-072",
+    "name": "Zephyr",
+    "rarity": "L",
+    "color": "Purple/Black",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "FILM/Neo Navy",
+    "category": "LEADER",
+    "blockIcon": "1",
+    "effect": "[When Attacking] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less. Then, this Leader gains +1000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "When Attacking",
+        "DON!! -X"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "EB04-010",
+  "rarity" : "C",
+  "name" : "Lulucia Kingdom",
+  "category" : "STAGE",
+  "cost" : 7,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Lulucia Kingdom",
+  "effect" : "[Opponent's Turn] All of your Characters with a base cost of 1 gain +5000 power. [On Play] Set the power of up to 1 of your opponent's Characters to 0 during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Opponents Turn" ]
+}

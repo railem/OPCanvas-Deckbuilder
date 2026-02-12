@@ -1,0 +1,16 @@
+{
+  "id" : "EB01-009",
+  "rarity" : "C",
+  "name" : "Just Shut Up and Come with Us!!!!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Drum Kingdom/Straw Hat Crew",
+  "effect" : "[Counter] Look at 5 cards from the top of your deck and play up to 1 {Animal} type Character card with a cost of 3 or less. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "Counter" ]
+}

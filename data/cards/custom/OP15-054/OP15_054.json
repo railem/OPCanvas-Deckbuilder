@@ -1,0 +1,18 @@
+{
+    "id": "OP15-054",
+    "name": "And no one else can have it! It’s our memento of him!",
+    "rarity": "C",
+    "color": "Blue",
+    "cost": 4,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Dressrosa / Revolutionary Army",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] If your Leader is [Lucy], choose one:\n\n• Draw 2 cards and trash 1 from your hand. Then, play up to 1 {Dressrosa} type Character with a cost of 4 or less from your hand.\n\n• Return up to 1 Stage card to its owner’s hand.",
+    "trigger": "",
+    "keywords": [
+        "Main"
+    ]
+}

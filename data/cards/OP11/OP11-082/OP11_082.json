@@ -1,0 +1,16 @@
+{
+  "id" : "OP11-082",
+  "rarity" : "R",
+  "name" : "Aramaki",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Special",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Navy",
+  "effect" : "[Activate: Main] You may trash this Character: If your Leader has the {Navy} type, up to 1 of your {Navy} type Characters can also attack active Characters during this turn. Then, trash 2 cards from the top of your deck.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main" ]
+}

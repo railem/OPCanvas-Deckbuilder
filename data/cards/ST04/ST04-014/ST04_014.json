@@ -1,0 +1,16 @@
+{
+  "id" : "ST04-014",
+  "rarity" : "C",
+  "name" : "Lead Performer \"Disaster\"",
+  "category" : "EVENT",
+  "cost" : 4,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Purple",
+  "blockIcon" : 1,
+  "type" : "Animal Kingdom Pirates",
+  "effect" : "[Main] Draw 1 card, then add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger" : "[Trigger] Activate this card's [Main] effect.",
+  "keywords" : [ "Main" ]
+}

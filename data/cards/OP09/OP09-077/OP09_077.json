@@ -1,0 +1,19 @@
+{
+    "id": "OP09-077",
+    "name": "Gum-Gum Lightning",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 2,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "The Four Emperors/Straw Hat Crew",
+    "category": "EVENT",
+    "blockIcon": "3",
+    "effect": "[Main] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "keywords": [
+        "DON!! -X",
+        "Main"
+    ]
+}

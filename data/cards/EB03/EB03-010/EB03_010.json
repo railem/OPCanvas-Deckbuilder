@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-010",
+  "rarity" : "R",
+  "name" : "Monet",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Special",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Punk Hazard/Donquixote Pirates",
+  "effect" : "[Blocker] [On Play] Look at 5 cards from the top of your deck; reveal up to 1 Character card with 1000 power or less or up to 1 Event card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

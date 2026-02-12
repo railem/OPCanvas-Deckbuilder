@@ -1,0 +1,16 @@
+{
+  "id" : "OP03-054",
+  "rarity" : "C",
+  "name" : "Usopp's Rubber Band of Doom!!!",
+  "category" : "EVENT",
+  "cost" : 1,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "East Blue/Straw Hat Crew",
+  "effect" : "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, you may trash 1 card from the top of your deck.",
+  "trigger" : "[Trigger] Draw 1 card and you may trash 1 card from the top of your deck.",
+  "keywords" : [ "Counter" ]
+}

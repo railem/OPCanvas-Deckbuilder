@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-005",
+  "rarity" : "C",
+  "name" : "Chess",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Ranged",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 2,
+  "type" : "Drum Kingdom",
+  "effect" : "[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn. Then, if you don't have [Kuromarimo], play up to 1 [Kuromarimo] from your hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

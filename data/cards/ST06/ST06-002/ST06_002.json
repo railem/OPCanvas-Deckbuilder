@@ -1,0 +1,16 @@
+{
+  "id" : "ST06-002",
+  "rarity" : "C",
+  "name" : "Koby",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 1,
+  "type" : "Navy",
+  "effect" : "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

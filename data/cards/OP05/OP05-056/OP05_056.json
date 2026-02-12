@@ -1,0 +1,16 @@
+{
+  "id" : "OP05-056",
+  "rarity" : "C",
+  "name" : "X.Barrels",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Former Navy",
+  "effect" : "[On Play] You may place 1 of your Characters other than this Character at the bottom of your deck: Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ST20-003",
+  "rarity" : "C",
+  "name" : "Charlotte Brulee",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Big Mom Pirates",
+  "effect" : "-",
+  "trigger" : "[Trigger] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, add this card to your hand.",
+  "keywords" : [ ]
+}

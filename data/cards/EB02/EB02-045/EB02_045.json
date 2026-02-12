@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-045",
+  "rarity" : "SR",
+  "name" : "Trafalgar Law",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Dressrosa/Supernovas/Heart Pirates",
+  "effect" : "[Blocker] [On Play] You may place 2 cards from your trash at the bottom of your deck in any order: Choose one: • Draw 1 card. • If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

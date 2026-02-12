@@ -1,0 +1,16 @@
+{
+  "id" : "EB02-046",
+  "rarity" : "C",
+  "name" : "Hildon",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Wisdom",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 3,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "[On Play] Trash 2 cards from the top of your deck and give up to 1 of your opponent's Characters −1 cost during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

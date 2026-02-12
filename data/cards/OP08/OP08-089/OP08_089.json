@@ -1,0 +1,16 @@
+{
+  "id" : "OP08-089",
+  "rarity" : "C",
+  "name" : "Basil Hawkins",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Slash",
+  "power" : 9000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 2,
+  "type" : "Animal Kingdom Pirates/Hawkins Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

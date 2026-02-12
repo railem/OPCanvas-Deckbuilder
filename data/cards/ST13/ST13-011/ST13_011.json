@@ -1,0 +1,19 @@
+{
+    "id": "ST13-011",
+    "name": "Portgas.D.Ace",
+    "rarity": "SR",
+    "color": "Yellow",
+    "cost": 5,
+    "power": 7000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Whitebeard Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play] If you have 2 or less Life cards, this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
+    "trigger": "",
+    "keywords": [
+        "Rush",
+        "On Play"
+    ]
+}

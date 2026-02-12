@@ -1,0 +1,16 @@
+{
+  "id" : "OP01-066",
+  "rarity" : "C",
+  "name" : "Krieg",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 1,
+  "type" : "Krieg Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

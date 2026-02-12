@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-056",
+  "rarity" : "C",
+  "name" : "Belo Betty",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Special",
+  "power" : 3000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Revolutionary Army",
+  "effect" : "[On Play] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a base cost of 3 or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

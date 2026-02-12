@@ -1,0 +1,16 @@
+{
+  "id" : "OP10-113",
+  "rarity" : "UC",
+  "name" : "Roronoa Zoro",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 3,
+  "type" : "Supernovas/Straw Hat Crew",
+  "effect" : "If you have less Life cards than your opponent, this Character gains [Rush].",
+  "trigger" : "[Trigger] You may trash 1 card from your hand: If your Leader has the {Supernovas} type, play this card.",
+  "keywords" : [ "Rush" ]
+}

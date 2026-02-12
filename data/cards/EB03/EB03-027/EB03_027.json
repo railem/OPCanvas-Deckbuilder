@@ -1,0 +1,16 @@
+{
+  "id" : "EB03-027",
+  "rarity" : "R",
+  "name" : "Marguerite",
+  "category" : "CHARACTER",
+  "cost" : 6,
+  "attribute" : "Wisdom",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Amazon Lily",
+  "effect" : "[On Play] Return up to 1 Character with 7000 base power to the owner's hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}
