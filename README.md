@@ -37,14 +37,14 @@ Decks can even be syncronized with the OPTCG Sim, eliminating manual exports and
   - Make edits in OPCanvas and see the changes sync automatically to the simulator.
 
 ## Prerequisites
-- **Java 17** or newer must be installed.
+- **Java 17** or newer must be installed. [Download Java21](https://adoptium.net/de/temurin/releases?version=21)
 - **Git** is optional but recommended for automatic updates. [Download Git](https://git-scm.com/install/)
 
 ## Download
 ### With Git (recommended)
 Cloning with Git allows the start script to automatically update the app and card data every time you launch it.
 ```bash
-git clone git@github.com:railem/OPCanvas-Deckbuilder.git
+git clone https://github.com/railem/OPCanvas-Deckbuilder.git
 ```
 
 ### Without Git
