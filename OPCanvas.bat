@@ -1,6 +1,14 @@
 @echo off
 setlocal enabledelayedexpansion
 
+where git >nul 2>nul
+if %errorlevel%==0 (
+    echo Checking for updates...
+    git pull
+) else (
+    echo Git not found, skipping update check.
+)
+
 set JAR=
 for /f "delims=" %%f in ('dir /b OPCanvas-*.jar ^| sort') do (
   set JAR=%%f
@@ -9,14 +17,6 @@ for /f "delims=" %%f in ('dir /b OPCanvas-*.jar ^| sort') do (
 if "%JAR%"=="" (
   echo OPCanvas jar not found
   exit /b 1
-)
-
-where git >nul 2>nul
-if %errorlevel%==0 (
-    echo Checking for updates...
-    git pull
-) else (
-    echo Git not found, skipping update check.
 )
 
 where java >nul 2>nul
