@@ -1,5 +1,3 @@
-
-
 # OPCanvas Deckbuilder
 OPCanvas is a visual deck-building tool designed to give you maximum overview and control while creating your OPTCG decks. Instead of working with static lists, you build directly on an interactive canvas - grouping, organizing, and refining your ideas in a way that matches how you think about the game.
 Flexible deck building or easy card filtering, OPCanvas helps you design smarter decks faster - whether you're theorycrafting or preparing for your next match.
