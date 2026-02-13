@@ -1,8 +1,17 @@
 [
   {
+    "version": "1.1.1",
+    "notes": [
+      "- Added/Updated various card alternate artworks",
+      "- Added card border for unreleased cards",
+      "- Added more revealed cards:",
+      "[OP15-056][OP15-095][P-120]"
+    ]
+  },
+  {
     "version": "1.1.0",
     "notes": [
-      "- Initial Release",
+      "- Initial release",
       "- Added more OP15 cards:",
       "[OP15-116][OP15-077][OP15-038][OP15-020][OP15-096][OP15-055]"
     ]
