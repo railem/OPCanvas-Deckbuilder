@@ -1,9 +1,19 @@
 [
   {
+    "version": "1.1.2",
+    "notes": [
+      "- Hard reloading browser after update to ensure no cached resources get used.",
+      "- Card browser docked mode is now default.",
+      "- Made card browser filters more compact.",
+      "- Added card browser settings to change images sizes.",
+      "- Cards that are about to rotate are not already hidden in the card browser per default."
+    ]
+  },
+  {
     "version": "1.1.1",
     "notes": [
-      "- Added/Updated various card alternate artworks",
-      "- Added card border for unreleased cards",
+      "- Added/Updated various card alternate artworks.",
+      "- Added card border for unreleased cards.",
       "- Added more revealed cards:",
       "[OP15-056][OP15-095][P-120]"
     ]
@@ -11,7 +21,7 @@
   {
     "version": "1.1.0",
     "notes": [
-      "- Initial release",
+      "- Initial release.",
       "- Added more OP15 cards:",
       "[OP15-116][OP15-077][OP15-038][OP15-020][OP15-096][OP15-055]"
     ]
@@ -21,16 +31,16 @@
     "notes": [
       "- Added OP15 cards:",
       "[OP15-001][OP15-002][OP15-003][OP15-007][OP15-008][OP15-011][OP15-017][OP15-019][OP15-021][OP15-022][OP15-023][OP15-024][OP15-025][OP15-032][OP15-039][OP15-040][OP15-041][OP15-042][OP15-045][OP15-046][OP15-047][OP15-052][OP15-053][OP15-054][OP15-057][OP15-058][OP15-060][OP15-061][OP15-063][OP15-066][OP15-067][OP15-068][OP15-070][OP15-074][OP15-075][OP15-078][OP15-081][OP15-085][OP15-086][OP15-088][OP15-092][OP15-094][OP15-097][OP15-098][OP15-100][OP15-101][OP15-102][OP15-104][OP15-106][OP15-108][OP15-109][OP15-111][OP15-112][OP15-113][OP15-114][OP15-118][OP15-119]",
-      "- Added import/export deck functionality",
-      "- Added info and patchnotes dialog"
+      "- Added import/export deck functionality.",
+      "- Added info and patchnotes dialog."
     ]
   },
   {
     "version": "1.0.2",
     "notes": [
-      "- Added simulator synchronization",
-      "- Added banned/rotated card visuals",
-      "- Added <Unblockable> and <Rush: Character> keywords"
+      "- Added simulator synchronization.",
+      "- Added banned/rotated card visuals.",
+      "- Added <Unblockable> and <Rush: Character> keywords."
     ]
   }
 ]

@@ -57,8 +57,6 @@ Use the `OPCanvas.bat` script to start the application.
 If Git is installed, the start script will automatically run `git pull` before launching, ensuring you always have the latest version of the app and card data. Updates to cards, banlists, rotation lists, and the application itself are all pulled in automatically - no manual action needed.  
 If you don't have Git installed, you can still run the application - just double-click the script and it will launch normally. However, you won't receive automatic updates and will need to manually download newer versions from the repository.
 
-> **Hint:** If changes to the UI don't show after updating, hard reload the UI via **Ctrl + Shift + R** to force the browser to reload all resources instead of using cached files.
-
 ## Disclaimer
 This is an unofficial, fan-made tool and is not endorsed by, affiliated with, or sponsored by Bandai, Shueisha, or Toei Animation.
 One Piece and the One Piece Card Game are trademarks of Eiichiro Oda / Shueisha, Toei Animation, and Bandai.
