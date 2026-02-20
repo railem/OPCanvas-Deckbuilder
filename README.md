@@ -26,10 +26,12 @@ Decks can even be syncronized with the OPTCG Sim, eliminating manual exports and
   - Export and share a deck including card placement and areas with other OPCanvas users.
   - Export to a clean text list that’s compatible with popular OPTCG sites and tools.
   - Import from text to quickly load a list you received or copied from the web.
+  - Export and Import a deck from an image for ultimate comfort.
 
 - Check Cost/Power Curves and other stats for every deck
   - Get instant summaries such as total card count, cost curve, and power distribution.
   - Use these metrics to balance early/mid/late game and spot curve issues before testing.
+  - Simulate your starting hands and mulligans by using the 'Draw Simulation'
 
 - Synchronize your decks with the OPTCG Sim
   - Keep your decklists aligned between OPCanvas and the OPTCG Sim for smoother testing.
