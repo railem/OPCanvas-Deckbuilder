@@ -1,0 +1,19 @@
+{
+    "id": "OP15-099",
+    "name": "Urouge",
+    "rarity": "UC",
+    "color": "Yellow",
+    "cost": 6,
+    "power": 7000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Sky Island / Supernova / Fallen Monk Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play]: You may discard 1 card with the {Supernova} type from your hand: This character gains [Rush] during this turn.\n[Activate: Main] You may turn 1 card from the top of your life face down: Give up to 1 rested Don!! card to your leader or 1 of your characters",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Activate: Main"
+    ]
+}

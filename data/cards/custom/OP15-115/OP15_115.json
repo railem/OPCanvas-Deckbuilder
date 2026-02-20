@@ -1,0 +1,18 @@
+{
+    "id": "OP15-115",
+    "name": "Impact",
+    "rarity": "",
+    "color": "Yellow",
+    "cost": 2,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Skypiea / Straw Hat Crew",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] KO up to 1 of your opponent's characters with a cost of 4 or less. Then add the top card of your life to your hand.",
+    "trigger": "[Trigger] KO up to 1 of your opponent's characters with a cost of 4 or less",
+    "keywords": [
+        "Main"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "OP15-006",
+    "name": "Cavendish",
+    "rarity": "UC",
+    "color": "",
+    "cost": 4,
+    "power": 4000,
+    "attribute": "Slash",
+    "counter": 2000,
+    "type": "Dressrosa / Beautiful Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If you have 4 or more events in your trash, this Character gains +2000 power. ",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

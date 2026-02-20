@@ -1,0 +1,18 @@
+{
+    "id": "OP15-072",
+    "name": "Hotori",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Sky Island",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[Activate: Main] DON!!-2, you may rest this Character: If you have a [Kotori] and [Satori], give up to 1 of your opponent's Characters −3000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main"
+    ]
+}

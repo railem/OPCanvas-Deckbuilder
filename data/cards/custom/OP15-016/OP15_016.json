@@ -1,0 +1,17 @@
+{
+    "id": "OP15-016",
+    "name": "Fullbody",
+    "rarity": "UC",
+    "color": "Red",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 2000,
+    "type": "",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "",
+    "trigger": "",
+    "keywords": [
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "OP15-062",
+    "name": "?",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Slash",
+    "counter": 2000,
+    "type": "",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "",
+    "trigger": "",
+    "keywords": [
+    ]
+}

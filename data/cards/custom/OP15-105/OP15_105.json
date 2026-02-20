@@ -1,0 +1,18 @@
+{
+    "id": "OP15-105",
+    "name": "Jewelry Bonney",
+    "rarity": "UC",
+    "color": "Yellow",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Special",
+    "counter": 2000,
+    "type": "Supernova / Bonney Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If your character with orginal power of 7000 or less would leave the field due to an opponents effect, you may add the top card of your life cards to your hand instead.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "OP15-049",
+    "name": "Hajrudin",
+    "rarity": "UC",
+    "color": "Blue",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 2000,
+    "type": "",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "",
+    "trigger": "",
+    "keywords": [
+    ]
+}

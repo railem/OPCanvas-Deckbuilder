@@ -1,0 +1,19 @@
+{
+    "id": "OP15-044",
+    "name": "Koala",
+    "rarity": "C",
+    "color": "Blue",
+    "cost": 3,
+    "power": 2000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Dressrosa / Revolutionary Army",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[Blocker]\n\n[On K.O.] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On K.O."
+    ]
+}

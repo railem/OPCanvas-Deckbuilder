@@ -1,0 +1,17 @@
+{
+    "id": "OP15-107",
+    "name": "Tony Tony.Chopper",
+    "rarity": "UC",
+    "color": "Yellow",
+    "cost": 4,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Animals/Sky Island/Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "",
+    "trigger": "",
+    "keywords": [
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "OP15-037",
+    "name": "The outcome will tell us who’s strong and who’s weak",
+    "rarity": "UC",
+    "color": "Green",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "East Blue / Krieg Pirates",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {East Blue} type card other than [The outcome will tell us who’s strong and who’s weak] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "keywords": [
+        "Main"
+    ]
+}

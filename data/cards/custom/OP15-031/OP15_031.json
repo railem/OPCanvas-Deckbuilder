@@ -1,0 +1,18 @@
+{
+    "id": "OP15-031",
+    "name": "Pudding Pudding",
+    "rarity": "C",
+    "color": "Green",
+    "cost": 2,
+    "power": 2000,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "East Blue / Navy",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Choose up to 1 of your opponent's rested Characters. If that character's cost is equal to the number of DON!! cards given to that Character, K.O. it.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

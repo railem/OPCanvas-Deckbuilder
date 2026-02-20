@@ -1,0 +1,18 @@
+{
+    "id": "OP15-034",
+    "name": "Yorki",
+    "rarity": "C",
+    "color": "",
+    "cost": 1,
+    "power": 0,
+    "attribute": "Slash",
+    "counter": 2000,
+    "type": "Rumbar Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[Your Turn] [On Play] Up to 1 of your [Brook] cards gains +2000 power during this turn. ",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "OP15-069",
+    "name": "Nola",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Strike",
+    "counter": 2000,
+    "type": "Animal / Sky Island",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If your Character with an original power of 7000 or less would be removed from the field by your opponent's effect, you may return 1 DON!! card from your field to your DON!! deck instead.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

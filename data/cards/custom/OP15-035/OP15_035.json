@@ -1,0 +1,18 @@
+{
+    "id": "OP15-035",
+    "name": "Laboon",
+    "rarity": "UC",
+    "color": "Green",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Strike",
+    "counter": 2000,
+    "type": "Animals",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If you have a character with a base power of 7000 or less that would be removed from the field by your opponent’s effect, you may rest 2 of your cards instead.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

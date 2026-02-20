@@ -1,0 +1,18 @@
+{
+    "id": "OP15-079",
+    "name": "Absalom",
+    "rarity": "C",
+    "color": "Black",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Ranged",
+    "counter": 1000,
+    "type": "Thriller Bark Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On K.O.] Add up to 1 {Thriller Bark Pirates} type card from your trash to your hand.",
+    "trigger": "[Trigger] Activate this card’s [On K.O.] effect.",
+    "keywords": [
+        "On K.O."
+    ]
+}

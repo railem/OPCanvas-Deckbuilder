@@ -1,0 +1,18 @@
+{
+    "id": "OP15-117",
+    "name": "Heso",
+    "rarity": "UC",
+    "color": "Yellow",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Skypiea",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] Draw 1 card. Then give up to 1 of your rested Don!! cards to your 1 of your {Sky Island} type leaders or characters.",
+    "trigger": "[Trigger] If your leader has the {Sky Island} type, draw 2 cards.",
+    "keywords": [
+        "Main"
+    ]
+}

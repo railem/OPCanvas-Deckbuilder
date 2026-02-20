@@ -1,0 +1,18 @@
+{
+    "id": "OP15-090",
+    "name": "Perona",
+    "rarity": "UC",
+    "color": "Black",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Special",
+    "counter": 2000,
+    "type": "Thriller Bark Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If your Character with an original power of 7000 or less would be removed from the field by your opponent's effect, you may trash 1 card from your hand instead.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

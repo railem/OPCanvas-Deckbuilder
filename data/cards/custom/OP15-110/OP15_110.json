@@ -1,0 +1,18 @@
+{
+    "id": "OP15-110",
+    "name": "Braham",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 3,
+    "power": 4000,
+    "attribute": "Ranged",
+    "counter": 2000,
+    "type": "Sky Island / Shandian Warrior",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On K.O.] If your leader has the {Shandian Warrior} type, add up to 1 card from the top of your deck to the top of your life cards.",
+    "trigger": "",
+    "keywords": [
+        "On K.O."
+    ]
+}

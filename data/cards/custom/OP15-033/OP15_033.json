@@ -1,0 +1,18 @@
+{
+    "id": "OP15-033",
+    "name": "Hody Jones",
+    "rarity": "C",
+    "color": "Green",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Fish-Man / Fish-Man Island / New Fish-Man Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Set your {Fish-Man} type Leader as active. Then, add 1 card from the top of your Life cards to your hand. ",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

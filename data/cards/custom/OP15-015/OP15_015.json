@@ -1,0 +1,18 @@
+{
+    "id": "OP15-015",
+    "name": "Higuma",
+    "rarity": "C",
+    "color": "Red",
+    "cost": 1,
+    "power": 1000,
+    "attribute": "Slash",
+    "counter": 2000,
+    "type": "East Blue / Mountain Bandits",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Give up to 1 of your opponent’s Characters 1 of their rested DON!! cards. Then, up to 1 of your opponent’s Characters with given DON!! gains -1000 during this turn.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

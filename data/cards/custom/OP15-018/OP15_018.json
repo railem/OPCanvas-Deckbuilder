@@ -1,0 +1,18 @@
+{
+    "id": "OP15-018",
+    "name": "Mohji",
+    "rarity": "C",
+    "color": "Red",
+    "cost": 2,
+    "power": 3000,
+    "attribute": "Wisdom",
+    "counter": null,
+    "type": "East Blue / Buggy Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[When Attacking] K.O. up to 1 of your opponent’s Characters with given DON!! cards and 3000 power or less.",
+    "trigger": "",
+    "keywords": [
+        "When Attacking"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "OP15-010",
+    "name": "Nezumi",
+    "rarity": "C",
+    "color": "Red",
+    "cost": 2,
+    "power": 2000,
+    "attribute": "",
+    "counter": 1000,
+    "type": "East Blue / Navy",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to their owner’s Leader or Character cards. ",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main"
+    ]
+}

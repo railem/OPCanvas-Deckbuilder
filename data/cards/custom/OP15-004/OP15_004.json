@@ -1,0 +1,18 @@
+{
+    "id": "OP15-004",
+    "name": "Sea Cat",
+    "rarity": "C",
+    "color": "Red",
+    "cost": 1,
+    "power": 0,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Animals / Alabasta",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] If your Leader has 0 or less power, give up to 1 of your opponents Characters -3000 power during this turn. ",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

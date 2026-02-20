@@ -1,0 +1,18 @@
+{
+    "id": "OP15-064",
+    "name": "Kotori",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Sky Island",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[Activate: Main] DON!!-2, you may rest this Character: If you have a [Satori] and [Hotori], rest up to 1 of your opponent's Characters with a power of 5000 or less.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main"
+    ]
+}

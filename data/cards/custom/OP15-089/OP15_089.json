@@ -1,0 +1,17 @@
+{
+    "id": "OP15-089",
+    "name": "Franky",
+    "rarity": "UC",
+    "color": "Black",
+    "cost": 5,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 2000,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "",
+    "trigger": "",
+    "keywords": [
+    ]
+}

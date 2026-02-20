@@ -1,0 +1,18 @@
+{
+    "id": "OP15-065",
+    "name": "Goro",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 3,
+    "power": 0,
+    "attribute": "Wisdom",
+    "counter": 2000,
+    "type": "Alabasta Kingdom / Hot-Spring Island",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Reveal 1 card from the top of your deck. If the revealed card has a cost of 2 or less, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

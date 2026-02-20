@@ -1,0 +1,19 @@
+{
+    "id": "OP15-082",
+    "name": "Charlotte Lola",
+    "rarity": "C",
+    "color": "Black",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Rolling Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Trash 3 cards from the top of your deck.\n[On K.O.] Add up to 1 Character card with a cost of 8 or less from your trash to your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "On K.O."
+    ]
+}

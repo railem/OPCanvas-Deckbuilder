@@ -1,0 +1,19 @@
+{
+    "id": "OP15-093",
+    "name": "Risky Brothers",
+    "rarity": "C",
+    "color": "Black",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Rolling Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[Activate: Main] You may trash this character: If you have 15 or more cards in your trash, up to 1 of your “Monkey.D.Luffy” Character cards gains [Rush: Character] and (Slash) attribute during this turn.",
+    "trigger": "",
+    "keywords": [
+        "Rush: Character",
+        "Activate: Main"
+    ]
+}

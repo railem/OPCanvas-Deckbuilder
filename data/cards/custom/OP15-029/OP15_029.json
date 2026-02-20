@@ -1,0 +1,18 @@
+{
+    "id": "OP15-029",
+    "name": "Bartholomew Kuma",
+    "rarity": "C",
+    "color": "Green",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Seven Warlords of the Sea / Revolutionary Army",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Up to 1 of your opponent’s Characters with a cost of 5 or less cannot be rested until the end of your opponent’s next End Phase.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

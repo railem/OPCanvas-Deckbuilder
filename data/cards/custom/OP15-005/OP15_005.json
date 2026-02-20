@@ -1,0 +1,18 @@
+{
+    "id": "OP15-005",
+    "name": "Cabaji",
+    "rarity": "C",
+    "color": "Red",
+    "cost": 2,
+    "power": 3000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "East Blue / Buggy Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[When Attacking] If your opponent has any given DON!! cards, this Character gains +3000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "When Attacking"
+    ]
+}

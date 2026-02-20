@@ -1,0 +1,19 @@
+{
+    "id": "OP15-073",
+    "name": "Yama",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 3,
+    "power": 4000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Sky Island",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Play up to 1 \"Divine Soldier\" or {Vassals} type Character card with a cost of 1 from your hand.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Play"
+    ]
+}
