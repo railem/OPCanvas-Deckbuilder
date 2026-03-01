@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-012",
+  "rarity" : "C",
+  "name" : "Buggy",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "East Blue/Buggy Pirates",
+  "effect" : "[When Attacking] Give up to 1 rested DON!! card to its owner's Leader or 1 of their Characters. [On K.O.] Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "When Attacking", "On K.O." ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-041",
+  "rarity" : "UC",
+  "name" : "Orlumbus",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Dressrosa/Yonta Maria Fleet",
+  "effect" : "[On K.O.] Draw 1 card. [Activate: Main] [Once Per Turn] You may place 1 of your Characters at the bottom of the owner's deck: This Character gains [Rush] during this turn.",
+  "trigger" : "",
+  "keywords" : [ "Rush", "Activate: Main", "On K.O." ]
+}

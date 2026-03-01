@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-020",
+  "rarity" : "R",
+  "name" : "Fire Fist",
+  "category" : "EVENT",
+  "cost" : 7,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Dressrosa/Revolutionary Army",
+  "effect" : "[Main] Your Leader gains +3000 power during this turn and give up to 1 of your opponent's Characters −8000 power until the end of your opponent's next End Phase. Then, you may trash 2 cards from your hand. If you do, K.O. up to 1 of your opponent's Characters with 0 power or less.",
+  "trigger" : "",
+  "keywords" : [ "Main" ]
+}

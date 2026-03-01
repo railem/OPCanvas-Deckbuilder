@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-071",
+  "rarity" : "C",
+  "name" : "Holly",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Animal/Sky Island",
+  "effect" : "All of your [Ohm] cards and this Character gain [Double Attack]. (This card deals 2 damage.) [Opponent's Turn] All of your [Ohm] cards' base power and this Character's base power become 6000.",
+  "trigger" : "",
+  "keywords" : [ "Double Attack", "Opponents Turn" ]
+}

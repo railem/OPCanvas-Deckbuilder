@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-112",
+  "rarity" : "C",
+  "name" : "Raki",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Ranged",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Sky Island/Shandian Warrior",
+  "effect" : "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Play up to 1 {Shandian Warrior} type Character card with a cost of 3 or less from your hand.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "On Play" ]
+}

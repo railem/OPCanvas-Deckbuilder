@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-083",
+  "rarity" : "C",
+  "name" : "Spoil",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "The Victims' Club",
+  "effect" : "[On Play] Trash 3 cards from the top of your deck. [Activate: Main] You may trash this Character: If you have 15 or more cards in your trash, give up to 1 rested DON!! card to 1 of your Leader or Character cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "Activate: Main" ]
+}

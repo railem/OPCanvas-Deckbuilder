@@ -1,8 +1,16 @@
 [
   {
+    "version": "1.1.5.1",
+    "notes": [
+      "- Updated all OP15 Images.",
+      "- Added first ST30 cards:",
+      "[ST30-001][ST30-012][ST30-007][ST30-011][ST30-005]"
+    ]
+  },
+  {
     "version": "1.1.5",
     "notes": [
-      "- Added auto filtering to match leader colors",
+      "- Added auto filtering to match leader colors.",
       "- Improved category & attribute filtering.",
       "- Added warnings for: total card count / single card limit / multiple leaders",
       "- Allowed holding card quantity buttons instead of requiring separate clicks.",

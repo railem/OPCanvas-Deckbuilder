@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-084",
+  "rarity" : "C",
+  "name" : "Dr. Hogback",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Thriller Bark Pirates",
+  "effect" : "[On Play] If your Leader has the {Thriller Bark Pirates} type, trash 5 cards from the top of your deck. [On K.O.] If you have 6 or less cards in your hand, draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

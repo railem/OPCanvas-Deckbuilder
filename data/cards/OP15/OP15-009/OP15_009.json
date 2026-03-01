@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-009",
+  "rarity" : "UC",
+  "name" : "Koby",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "East Blue/Navy",
+  "effect" : "If your Character with 7000 base power or less would be removed from the field by your opponent's effect, you may give your Leader −2000 power during this turn instead.",
+  "trigger" : "",
+  "keywords" : [ ]
+}

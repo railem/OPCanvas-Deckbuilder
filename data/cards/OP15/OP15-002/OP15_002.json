@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-002",
+  "rarity" : "L",
+  "name" : "Lucy",
+  "category" : "LEADER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : null,
+  "color" : "Red/Blue",
+  "blockIcon" : 4,
+  "type" : "Dressrosa/Revolutionary Army",
+  "effect" : "[When Attacking]/[On Your Opponent's Attack] You may trash any number of Event or Stage cards from your hand. This Leader gains +1000 power during this battle for every card trashed. [Activate: Main] [Once Per Turn] If you have activated an Event with a base cost of 3 or more during this turn, draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "When Attacking", "On Your Opponent's Attack" ]
+}

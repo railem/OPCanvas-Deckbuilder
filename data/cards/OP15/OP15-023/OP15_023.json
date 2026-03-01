@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-023",
+  "rarity" : "R",
+  "name" : "Arlong",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Fish-Man/East Blue/Arlong Pirates",
+  "effect" : "[On K.O.] Up to 2 of your opponent's rested cards will not become active in your opponent's next Refresh Phase. [Activate: Main] [Once Per Turn] You may give 1 of your opponent's rested DON!! cards to 1 of your opponent's Characters: Give up to 1 rested DON!! card from its owner's cost area to its owner's Leader or 1 of their Characters.",
+  "trigger" : "",
+  "keywords" : [ "Activate: Main", "On K.O." ]
+}

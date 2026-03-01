@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-027",
+  "rarity" : "C",
+  "name" : "Dracule Mihawk",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "East Blue/The Seven Warlords of the Sea",
+  "effect" : "[On Play] Rest up to 1 of your opponent's Characters with a DON!! card given.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

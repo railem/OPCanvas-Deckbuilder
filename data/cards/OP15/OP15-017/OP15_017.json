@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-017",
+  "rarity" : "C",
+  "name" : "Morgan",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 1000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "East Blue/Navy",
+  "effect" : "[Blocker] [Activate: Main] [Once Per Turn] You may give 1 of your opponent's rested DON!! cards to 1 of your opponent's Characters: Give up to 1 rested DON!! card to its owner's Leader or 1 of their Characters.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Activate: Main" ]
+}

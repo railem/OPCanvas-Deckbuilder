@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-055",
+  "rarity" : "R",
+  "name" : "Go Ahead and Use 'Em, Mr. Luffy!!!",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Dressrosa/Barto Club",
+  "effect" : "[Main] Choose one: • Draw 2 cards. • Up to 1 of your {Dressrosa} type Characters gains [Blocker] until the end of your opponent's next End Phase.",
+  "trigger" : "",
+  "keywords" : [ "Blocker", "Main" ]
+}

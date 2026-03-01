@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-094",
+  "rarity" : "UC",
+  "name" : "Roronoa Zoro",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Slash",
+  "power" : 1000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Straw Hat Crew",
+  "effect" : "If your {Straw Hat Crew} type Character other than this Character would be removed from the field by your opponent's effect, you may trash this Character instead. [Blocker]",
+  "trigger" : "",
+  "keywords" : [ "Blocker" ]
+}

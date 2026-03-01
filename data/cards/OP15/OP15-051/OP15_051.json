@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-051",
+  "rarity" : "UC",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Dressrosa/Straw Hat Crew",
+  "effect" : "[Opponent's Turn] If your Leader has the {Dressrosa} type, this Character gains +3000 power.",
+  "trigger" : "",
+  "keywords" : [ "Opponents Turn" ]
+}

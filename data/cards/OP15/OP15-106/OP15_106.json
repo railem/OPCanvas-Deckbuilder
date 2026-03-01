@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-106",
+  "rarity" : "C",
+  "name" : "Octoballoon",
+  "category" : "CHARACTER",
+  "cost" : 2,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 1000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Animal/Sky Island",
+  "effect" : "-",
+  "trigger" : "[Trigger] Draw 1 card. Then, play up to 1 yellow Character or Stage card with a cost of 2 or less from your hand.",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-062",
+  "rarity" : "UC",
+  "name" : "Captain Seamars",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "The Moon/Space Pirates",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

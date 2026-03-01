@@ -1,0 +1,19 @@
+{
+    "id": "OP15-022",
+    "name": "Brook",
+    "rarity": "L",
+    "color": "Green/Black",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "Straw Hat Crew",
+    "category": "LEADER",
+    "blockIcon": "4",
+    "effect": "Under the rules of this game, you do not lose when your deck has 0 cards. You lose at the end of the turn in which your deck becomes 0 cards. [Activate: Main] [Once Per Turn] Trash 4 cards from the top of your deck. Then, if your deck has 0 cards, set up to 1 of your Characters as active.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Permanent"
+    ]
+}

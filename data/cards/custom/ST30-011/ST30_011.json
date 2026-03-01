@@ -1,0 +1,19 @@
+{
+    "id": "ST30-011",
+    "name": "Buggy",
+    "rarity": "C",
+    "color": "Green",
+    "cost": 2,
+    "power": 1000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Impel down / Buggy Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "If one of your characters with an original power of 6000 would be removed from field due to your opponents effect, you may instead rest this character. \n\n[Blocker]",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "Permanent"
+    ]
+}

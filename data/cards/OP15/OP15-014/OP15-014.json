@@ -1,0 +1,19 @@
+{
+    "id": "OP15-014",
+    "name": "Bartolomeo",
+    "rarity": "R",
+    "color": "Red",
+    "cost": 4,
+    "power": 6000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Dressrosa/Barto Club",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If this Character would be K.O.'d, you may trash 1 Event from your hand instead. [On Play] Activate up to 1 {Dressrosa} type Event with a base cost of 3 or less from your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Permanent"
+    ]
+}

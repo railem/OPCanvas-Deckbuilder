@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-050",
+  "rarity" : "C",
+  "name" : "Bobby Funk",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Strike",
+  "power" : 3000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Dressrosa/Mogaro Kingdom",
+  "effect" : "If you have [Kelly Funk], this Character gains +3000 power.",
+  "trigger" : "",
+  "keywords" : [ ]
+}

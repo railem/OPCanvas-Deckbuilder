@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-061",
+  "rarity" : "R",
+  "name" : "Ohm",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Sky Island/Vassals",
+  "effect" : "[On Play] DON!! −1: Draw 1 card. [When Attacking] If you have 6 or less DON!! cards on your field, give up to 1 of your opponent's Characters −1000 power during this turn.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-092",
+  "rarity" : "R",
+  "name" : "Monkey.D.Luffy",
+  "category" : "CHARACTER",
+  "cost" : 7,
+  "attribute" : "Special",
+  "power" : 7000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Straw Hat Crew",
+  "effect" : "Apply each of the following effects based on the number of cards in your trash: • If there are 10 or more cards, this Character's base power becomes 9000 and it gains +10 cost. • If you have 20 or more cards, during your opponent's turn, your Leader's base power becomes 7000. • If you have 30 or more cards, this Character gains +1000 power.",
+  "trigger" : "",
+  "keywords" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-048",
+  "rarity" : "C",
+  "name" : "Chinjao",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Dressrosa/Happosui Army",
+  "effect" : "[On Play] You may trash 1 Event from your hand: Draw 2 cards. [Opponent's Turn] [On K.O.] Your opponent places 1 card from their hand at the bottom of their deck.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O.", "Opponents Turn" ]
+}

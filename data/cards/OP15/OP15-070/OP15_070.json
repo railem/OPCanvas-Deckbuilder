@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-070",
+  "rarity" : "C",
+  "name" : "Fuza",
+  "category" : "CHARACTER",
+  "cost" : 3,
+  "attribute" : "Special",
+  "power" : 4000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Animal/Sky Island",
+  "effect" : "All of your [Shura] cards and this Character gain [Unblockable]. (This card cannot be blocked.) [Opponent's Turn] All of your [Shura] cards' base power and this Character's base power become 6000.",
+  "trigger" : "",
+  "keywords" : [ "Unblockable", "Opponents Turn" ]
+}

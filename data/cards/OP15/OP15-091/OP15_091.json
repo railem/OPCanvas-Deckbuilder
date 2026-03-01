@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-091",
+  "rarity" : "C",
+  "name" : "Margarita",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Wisdom",
+  "power" : null,
+  "counter" : 2000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "The Owner of Cindry's Shadow",
+  "effect" : "[On Play] Place up to 1 card from your opponent's trash at the bottom of the owner's deck.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

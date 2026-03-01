@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-028",
+  "rarity" : "UC",
+  "name" : "Meowban Brothers",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "East Blue/Black Cat Pirates",
+  "effect" : "[On Play] If your Leader has the {East Blue} type, give up to 1 DON!! card from your opponent's cost area to 1 of your opponent's Characters.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

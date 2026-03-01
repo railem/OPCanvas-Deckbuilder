@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-067",
+  "rarity" : "R",
+  "name" : "Shura",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Slash",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Sky Island/Vassals",
+  "effect" : "If you have 6 or less DON!! cards on your field, this Character gains [Rush]. (This card can attack on the turn in which it is played.) [On Play] DON!! −1: Draw 1 card.",
+  "trigger" : "",
+  "keywords" : [ "Rush", "On Play" ]
+}

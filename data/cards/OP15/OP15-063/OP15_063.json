@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-063",
+  "rarity" : "R",
+  "name" : "Gedatsu",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Sky Island/Vassals",
+  "effect" : "[On Play] DON!! −1: Draw 1 card. [On K.O.] If you have 6 or less DON!! cards on your field, K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}

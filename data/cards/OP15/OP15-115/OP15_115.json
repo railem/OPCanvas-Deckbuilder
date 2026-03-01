@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-115",
+  "rarity" : "C",
+  "name" : "Impact Dial",
+  "category" : "EVENT",
+  "cost" : 2,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Sky Island/Straw Hat Crew",
+  "effect" : "[Main] K.O. up to 1 of your opponent's Characters with a cost of 4 or less. Then, add 1 card from the top of your Life cards to your hand.",
+  "trigger" : "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "keywords" : [ "Main" ]
+}

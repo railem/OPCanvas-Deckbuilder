@@ -1,0 +1,18 @@
+{
+    "id": "ST30-005",
+    "name": "Edward Newgate",
+    "rarity": "C",
+    "color": "Red",
+    "cost": 8,
+    "power": 6000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Four Emperors / Whitebeard Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "[Your Turn] All of your characters with an original power of 6000 gain +1000 power. ",
+    "trigger": "",
+    "keywords": [
+        "Your Turn"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "ST30-012",
+    "name": "Monkey D. Luffy",
+    "rarity": "SR",
+    "color": "Green",
+    "cost": 4,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Impel Down / Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "[On Play] You may rest 1 of your DON!! cards: This character gains [Rush] this turn. (This card can attack the turn it is played.)\n[When Attacking] Rest up to 1 of your opponent's characters with [Blocker].",
+    "trigger": "",
+    "keywords": [
+        "Rush",
+        "On Play",
+        "When Attacking"
+    ]
+}

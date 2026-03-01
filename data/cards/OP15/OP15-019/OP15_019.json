@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-019",
+  "rarity" : "UC",
+  "name" : "Barrier Bulls",
+  "category" : "EVENT",
+  "cost" : 3,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Dressrosa/Barto Club",
+  "effect" : "[Main] Draw 1 card and your Leader gains +1000 power until the end of your opponent's next End Phase.",
+  "trigger" : "[Trigger] Give up to 1 of your opponent's Characters −4000 power during this turn.",
+  "keywords" : [ "Main" ]
+}

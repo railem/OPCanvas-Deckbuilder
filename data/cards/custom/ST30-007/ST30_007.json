@@ -1,0 +1,20 @@
+{
+    "id": "ST30-007",
+    "name": "Portgas D. Ace",
+    "rarity": "SR",
+    "color": "Red",
+    "cost": 4,
+    "power": 6000,
+    "attribute": "Special",
+    "counter": 0,
+    "type": "Whitebeard Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "[On Play] You may rest 1 of your DON!! cards: this Character gains [Rush] during this turn. (This card can attack the turn it is played.)\n[When Attacking] Give up to 1 of your opponent’s Characters -1000 power during this turn. ",
+    "trigger": "",
+    "keywords": [
+        "Rush",
+        "On Play",
+        "When Attacking"
+    ]
+}

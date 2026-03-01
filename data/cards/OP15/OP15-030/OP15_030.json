@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-030",
+  "rarity" : "UC",
+  "name" : "Hyouzou",
+  "category" : "CHARACTER",
+  "cost" : 5,
+  "attribute" : "Slash",
+  "power" : 6000,
+  "counter" : 2000,
+  "color" : "Green",
+  "blockIcon" : 4,
+  "type" : "Merfolk/Fish-Man Island",
+  "effect" : "-",
+  "trigger" : "",
+  "keywords" : [ ]
+}

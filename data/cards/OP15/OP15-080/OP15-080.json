@@ -1,0 +1,19 @@
+{
+    "id": "OP15-080",
+    "name": "Oars",
+    "rarity": "R",
+    "color": "Black",
+    "cost": 4,
+    "power": null,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Giant/Thriller Bark Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "If you have [Gecko Moria] with 10000 power or more on your field and there are no other [Oars] cards, this Character gains +7000 power. [On K.O.] You may place 3 cards from your trash at the bottom of your deck in any order: Play this Character card from your trash.",
+    "trigger": "",
+    "keywords": [
+        "On K.O.",
+        "Permanent"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-066",
+  "rarity" : "R",
+  "name" : "Satori",
+  "category" : "CHARACTER",
+  "cost" : 1,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 1000,
+  "color" : "Purple",
+  "blockIcon" : 4,
+  "type" : "Sky Island/Vassals",
+  "effect" : "[On Play] DON!! −1: Draw 1 card. [When Attacking] If you have 6 or less DON!! cards on your field, look at 2 cards from the top of your deck and place them at the top or bottom of your deck in any order.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "When Attacking" ]
+}

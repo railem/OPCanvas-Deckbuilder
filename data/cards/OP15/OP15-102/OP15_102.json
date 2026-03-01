@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-102",
+  "rarity" : "R",
+  "name" : "Gan.Fall",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 4000,
+  "counter" : 2000,
+  "color" : "Yellow",
+  "blockIcon" : 4,
+  "type" : "Sky Island",
+  "effect" : "If you have a {Sky Island} type Character with 7000 power or more, give this card in your hand −3 cost. [On Play] Rest up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+  "trigger" : "",
+  "keywords" : [ "On Play" ]
+}

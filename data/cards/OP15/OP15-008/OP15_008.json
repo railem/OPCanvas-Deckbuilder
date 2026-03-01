@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-008",
+  "rarity" : "SR",
+  "name" : "Krieg",
+  "category" : "CHARACTER",
+  "cost" : 8,
+  "attribute" : "Slash",
+  "power" : 9000,
+  "counter" : null,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "East Blue/Krieg Pirates",
+  "effect" : "[On Play] Give up to 3 of your opponent's rested DON!! cards to 1 of your opponent's Characters. Then, this Character gains [Rush] during this turn. [Activate: Main] [Once Per Turn] If this Character was played on this turn, give all of your opponent's Characters −1000 power during this turn for every DON!! card given to that Character.",
+  "trigger" : "",
+  "keywords" : [ "Rush", "On Play", "Activate: Main" ]
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-013",
+  "rarity" : "C",
+  "name" : "Pincers",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Strike",
+  "power" : 2000,
+  "counter" : 2000,
+  "color" : "Red",
+  "blockIcon" : 4,
+  "type" : "Animal/Alabasta",
+  "effect" : "If your Leader has 0 power or less, give this card in your hand −2 cost. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger" : "",
+  "keywords" : [ "Blocker" ]
+}

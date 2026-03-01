@@ -1,0 +1,19 @@
+{
+    "id": "OP15-088",
+    "name": "Pirates Docking Six",
+    "rarity": "R",
+    "color": "Black",
+    "cost": 5,
+    "power": 7000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "This Character gains +6 cost. [On Play] You may trash 3 cards from the top of your deck: Play up to 1 {Straw Hat Crew} type Character card with a cost of 2 or less from your trash.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Permanent"
+    ]
+}

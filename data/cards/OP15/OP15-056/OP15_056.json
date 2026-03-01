@@ -1,0 +1,16 @@
+{
+  "id" : "OP15-056",
+  "rarity" : "C",
+  "name" : "Would You Let Me Eat the Flame-Flame Fruit?",
+  "category" : "EVENT",
+  "cost" : 7,
+  "attribute" : "",
+  "power" : null,
+  "counter" : null,
+  "color" : "Blue",
+  "blockIcon" : 4,
+  "type" : "Dressrosa/Revolutionary Army",
+  "effect" : "[Main] Draw 2 cards. Then, your [Lucy] Leader gains [Double Attack] and +3000 power during this turn. (This card deals 2 damage.)",
+  "trigger" : "[Trigger] Draw 2 cards.",
+  "keywords" : [ "Double Attack", "Main" ]
+}
