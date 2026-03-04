@@ -1,0 +1,18 @@
+{
+    "id": "P-147",
+    "name": "Edward Newgate",
+    "rarity": "P",
+    "color": "Red",
+    "cost": 10,
+    "power": 12000,
+    "attribute": "Special",
+    "counter": 0,
+    "type": "Four Emperors / Whitebeard Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "[On Play] Your Leader and all of your Characters gain +2000 power during this turn. Then, K.O. up to 1 of your opponent’s Characters with 3000 power or less.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

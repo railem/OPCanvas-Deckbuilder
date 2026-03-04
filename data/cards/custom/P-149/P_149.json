@@ -1,0 +1,18 @@
+{
+    "id": "P-149",
+    "name": "Monkey D. Luffy",
+    "rarity": "P",
+    "color": "Red",
+    "cost": 6,
+    "power": 8000,
+    "attribute": "Strike",
+    "counter": 0,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "[On Play] You may rest 3 of your DON!! cards: if your Leader is [Portgas D. Ace], play up to 1 [Portgas D. Ace] with 8000 power or less from your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}

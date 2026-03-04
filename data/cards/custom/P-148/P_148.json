@@ -1,0 +1,18 @@
+{
+    "id": "P-148",
+    "name": "Portgas D. Ace",
+    "rarity": "P",
+    "color": "Red",
+    "cost": 6,
+    "power": 8000,
+    "attribute": "Special",
+    "counter": 0,
+    "type": "Whitebeard Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "[On Play] Give up to 2 of your opponents character -3000 power until the end of this turn.",
+    "trigger": "",
+    "keywords": [
+        "On Play"
+    ]
+}
