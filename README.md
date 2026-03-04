@@ -4,9 +4,10 @@ Flexible deck building or easy card filtering, OPCanvas helps you design smarter
 Decks can even be syncronized with the OPTCG Sim, eliminating manual exports and letting you jump straight into testing.
 
 ## Screenshots
-|<a href="https://i.imgur.com/fDdfQUj.jpeg"><img src="https://i.imgur.com/MILVbwt.jpeg" width="100%" alt="Card Detail"></a>|<a href="https://i.imgur.com/PO0a6Fy.jpeg"><img src="https://i.imgur.com/aomqB4f.jpeg" width="100%" alt="Card Browser"></a>|
+|<a href="https://i.imgur.com/a9ucFBd.png"><img src="https://i.imgur.com/a9ucFBd.png" width="100%" alt="Card Browser"></a>|<a href="https://i.imgur.com/ZXInXh9.png"><img src="https://i.imgur.com/ZXInXh9.png" width="100%" alt="Card Details"></a>|
 |:-:|:-:|
-|<a href="https://i.imgur.com/7d13Usd.jpeg"><img src="https://i.imgur.com/eVaf08R.jpeg" width="100%" alt="Deck Overview"></a>|<a href="https://i.imgur.com/m6sSCbW.jpeg"><img src="https://i.imgur.com/UsAyTBX.jpeg" width="100%" alt="Deck Browser"></a>|
+|<a href="https://i.imgur.com/gXZd6cN.png"><img src="https://i.imgur.com/gXZd6cN.png" width="100%" alt="Deck Overview"></a>|<a href="https://i.imgur.com/1m7Oz0M.png"><img src="https://i.imgur.com/1m7Oz0M.png" width="100%" alt="Draw Simulator"></a>|
+|<a href="https://i.imgur.com/cUpzG6t.png"><img src="https://i.imgur.com/cUpzG6t.png" width="100%" alt="Deck Manager"></a>|<a href="https://i.imgur.com/vw30vZc.png"><img src="https://i.imgur.com/vw30vZc.png" width="100%" alt="Canvas Info"></a>|
 
 ## Feature Overview
 - Create and manage decks on a canvas for maximum overview
