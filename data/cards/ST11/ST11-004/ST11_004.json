@@ -1,16 +1,33 @@
 {
-  "id" : "ST11-004",
-  "rarity" : "SR",
-  "name" : "New Genesis",
-  "category" : "EVENT",
-  "cost" : 1,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Green",
-  "blockIcon" : 2,
-  "type" : "Music/FILM",
-  "effect" : "[Main] If your Leader is [Uta], look at 3 cards from the top of your deck; reveal up to 1 {FILM} type card other than [New Genesis] and add it to your hand. Then, place the rest at the bottom of your deck in any order and set up to 1 of your DON!! cards as active.",
-  "trigger" : "",
-  "keywords" : [ "Main" ]
+    "id": "ST11-004",
+    "name": "New Genesis",
+    "rarity": "SR",
+    "color": "Green",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Music/FILM",
+    "category": "EVENT",
+    "blockIcon": "2",
+    "effect": "[Main] If your Leader is [Uta], look at 3 cards from the top of your deck; reveal up to 1 {FILM} type card other than [New Genesis] and add it to your hand. Then, place the rest at the bottom of your deck in any order and set up to 1 of your DON!! cards as active.",
+    "trigger": "",
+    "keywords": [
+        "Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "FILM"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "New Genesis"
+            }
+        ]
+    }
 }

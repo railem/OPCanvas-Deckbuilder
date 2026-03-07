@@ -1,16 +1,30 @@
 {
-  "id" : "OP09-057",
-  "rarity" : "R",
-  "name" : "Cross Guild",
-  "category" : "EVENT",
-  "cost" : 1,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Blue",
-  "blockIcon" : 3,
-  "type" : "Cross Guild",
-  "effect" : "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Cross Guild} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "[Trigger] Activate this card's [Main] effect.",
-  "keywords" : [ "Main" ]
+    "id": "OP09-057",
+    "name": "Cross Guild",
+    "rarity": "R",
+    "color": "Blue",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Cross Guild",
+    "category": "EVENT",
+    "blockIcon": "3",
+    "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Cross Guild} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "keywords": [
+        "Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 4,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Cross Guild"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

@@ -14,6 +14,23 @@
     "trigger": "",
     "keywords": [
         "On Play",
-        "Permanent"
-    ]
+        "Permanent",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Straw Hat Crew",
+                "category": "Character",
+                "cost": {
+                    "comparator": "<=",
+                    "value": "5"
+                }
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

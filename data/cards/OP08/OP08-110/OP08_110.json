@@ -1,16 +1,30 @@
 {
-  "id" : "OP08-110",
-  "rarity" : "R",
-  "name" : "Wyper",
-  "category" : "CHARACTER",
-  "cost" : 4,
-  "attribute" : "Ranged",
-  "power" : 5000,
-  "counter" : 2000,
-  "color" : "Yellow",
-  "blockIcon" : 2,
-  "type" : "Sky Island/Shandian Warrior",
-  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Upper Yard] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Upper Yard] from your hand.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP08-110",
+    "name": "Wyper",
+    "rarity": "R",
+    "color": "Yellow",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Ranged",
+    "counter": 2000,
+    "type": "Sky Island/Shandian Warrior",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Upper Yard] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Upper Yard] from your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "nameExact": "Upper Yard"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

@@ -13,6 +13,17 @@
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {The Seven Warlords of the Sea} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": "",
     "keywords": [
-        "On Play"
-    ]
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "include": [
+            {
+                "typeExact": "The Seven Warlords of the Sea"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

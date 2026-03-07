@@ -14,6 +14,18 @@
     "trigger": "[Trigger] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
     "keywords": [
         "On Play",
-        "DON!! -X"
-    ]
+        "DON!! -X",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeIncludes": "Baroque Works"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

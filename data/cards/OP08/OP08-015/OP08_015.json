@@ -1,16 +1,36 @@
 {
-  "id" : "OP08-015",
-  "rarity" : "R",
-  "name" : "Dr.Kureha",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Wisdom",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Red",
-  "blockIcon" : 2,
-  "type" : "Drum Kingdom",
-  "effect" : "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Tony Tony.Chopper] or {Drum Kingdom} type card other than [Dr.Kureha] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP08-015",
+    "name": "Dr.Kureha",
+    "rarity": "R",
+    "color": "Red",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Drum Kingdom",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Tony Tony.Chopper] or {Drum Kingdom} type card other than [Dr.Kureha] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 4,
+        "count": 1,
+        "include": [
+            {
+                "nameExact": "Tony Tony.Chopper"
+            },
+            {
+                "typeExact": "Drum Kingdom"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Dr.Kureha"
+            }
+        ]
+    }
 }

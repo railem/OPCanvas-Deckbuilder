@@ -1,16 +1,31 @@
 {
-  "id" : "OP13-116",
-  "rarity" : "UC",
-  "name" : "The One Who Is the Most Free Is the Pirate King!!!",
-  "category" : "EVENT",
-  "cost" : 1,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Yellow",
-  "blockIcon" : 4,
-  "type" : "Supernovas/Straw Hat Crew",
-  "effect" : "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "[Trigger] Activate this card's [Main] effect.",
-  "keywords" : [ "Main" ]
+    "id": "OP13-116",
+    "name": "The One Who Is the Most Free Is the Pirate King!!!",
+    "rarity": "UC",
+    "color": "Yellow",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Supernovas/Straw Hat Crew",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "keywords": [
+        "Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Supernovas",
+                "category": "Character"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

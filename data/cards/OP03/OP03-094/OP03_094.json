@@ -1,16 +1,35 @@
 {
-  "id" : "OP03-094",
-  "rarity" : "UC",
-  "name" : "Air Door",
-  "category" : "EVENT",
-  "cost" : 4,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Black",
-  "blockIcon" : 1,
-  "type" : "CP9",
-  "effect" : "[Main] If your Leader's type includes \"CP\", look at 5 cards from the top of your deck; play up to 1 Character card with a type including \"CP\" and a cost of 5 or less. Then, trash the rest.",
-  "trigger" : "[Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.",
-  "keywords" : [ "Main" ]
+    "id": "OP03-094",
+    "name": "Air Door",
+    "rarity": "UC",
+    "color": "Black",
+    "cost": 4,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "CP9",
+    "category": "EVENT",
+    "blockIcon": "1",
+    "effect": "[Main] If your Leader's type includes \"CP\", look at 5 cards from the top of your deck; play up to 1 Character card with a type including \"CP\" and a cost of 5 or less. Then, trash the rest.",
+    "trigger": "[Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.",
+    "keywords": [
+        "Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeIncludes": "CP",
+                "category": "Character",
+                "cost": {
+                    "comparator": "<=",
+                    "value": "5"
+                }
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

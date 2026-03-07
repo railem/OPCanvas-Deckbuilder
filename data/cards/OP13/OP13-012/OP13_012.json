@@ -1,16 +1,41 @@
 {
-  "id" : "OP13-012",
-  "rarity" : "R",
-  "name" : "Nefeltari Vivi",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Wisdom",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Red",
-  "blockIcon" : 4,
-  "type" : "Alabasta",
-  "effect" : "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Alabasta} or {Straw Hat Crew} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP13-012",
+    "name": "Nefeltari Vivi",
+    "rarity": "R",
+    "color": "Red",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Alabasta",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Alabasta} or {Straw Hat Crew} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 4,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Alabasta",
+                "cost": {
+                    "comparator": ">=",
+                    "value": "2"
+                }
+            },
+            {
+                "typeExact": "Straw Hat Crew",
+                "cost": {
+                    "comparator": ">=",
+                    "value": "2"
+                }
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

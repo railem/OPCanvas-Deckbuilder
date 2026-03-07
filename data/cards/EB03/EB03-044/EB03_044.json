@@ -15,6 +15,18 @@
     "keywords": [
         "Blocker",
         "On Play",
-        "Permanent"
-    ]
+        "Permanent",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "nameExact": "Onigashima Island"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

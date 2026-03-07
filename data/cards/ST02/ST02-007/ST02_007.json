@@ -1,16 +1,30 @@
 {
-  "id" : "ST02-007",
-  "rarity" : "C",
-  "name" : "Jewelry Bonney",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Special",
-  "power" : 1000,
-  "counter" : 1000,
-  "color" : "Green",
-  "blockIcon" : 1,
-  "type" : "Supernovas/Bonney Pirates",
-  "effect" : "[Activate: Main] You may rest 1 of your DON!! cards and this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "Activate: Main" ]
+    "id": "ST02-007",
+    "name": "Jewelry Bonney",
+    "rarity": "C",
+    "color": "Green",
+    "cost": 1,
+    "power": 1000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Supernovas/Bonney Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Supernovas"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

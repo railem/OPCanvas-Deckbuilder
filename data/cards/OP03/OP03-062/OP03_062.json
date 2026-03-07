@@ -1,16 +1,33 @@
 {
-  "id" : "OP03-062",
-  "rarity" : "R",
-  "name" : "Kokoro",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Wisdom",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Purple",
-  "blockIcon" : 1,
-  "type" : "Merfolk/Water Seven",
-  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Water Seven} type card other than [Kokoro] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP03-062",
+    "name": "Kokoro",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Merfolk/Water Seven",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Water Seven} type card other than [Kokoro] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Water Seven"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Kokoro"
+            }
+        ]
+    }
 }

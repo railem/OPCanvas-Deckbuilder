@@ -1,16 +1,33 @@
 {
-  "id" : "OP11-036",
-  "rarity" : "UC",
-  "name" : "Spotted Neptunian",
-  "category" : "CHARACTER",
-  "cost" : 4,
-  "attribute" : "Strike",
-  "power" : 5000,
-  "counter" : 1000,
-  "color" : "Green",
-  "blockIcon" : 3,
-  "type" : "Neptunian",
-  "effect" : "[On Play] If your Leader is [Shirahoshi], look at 5 cards from the top of your deck; reveal up to 1 {Neptunian} type card or [Shirahoshi] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP11-036",
+    "name": "Spotted Neptunian",
+    "rarity": "UC",
+    "color": "Green",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Neptunian",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] If your Leader is [Shirahoshi], look at 5 cards from the top of your deck; reveal up to 1 {Neptunian} type card or [Shirahoshi] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Neptunian"
+            },
+            {
+                "nameExact": "Shirahoshi"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

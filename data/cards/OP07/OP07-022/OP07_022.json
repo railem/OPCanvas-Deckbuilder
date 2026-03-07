@@ -1,16 +1,34 @@
 {
-  "id" : "OP07-022",
-  "rarity" : "R",
-  "name" : "Otama",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Special",
-  "power" : null,
-  "counter" : 2000,
-  "color" : "Green",
-  "blockIcon" : 2,
-  "type" : "Land of Wano",
-  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 green {Land of Wano} type card other than [Otama] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP07-022",
+    "name": "Otama",
+    "rarity": "R",
+    "color": "Green",
+    "cost": 1,
+    "power": null,
+    "attribute": "Special",
+    "counter": 2000,
+    "type": "Land of Wano",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 green {Land of Wano} type card other than [Otama] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "color": "Green",
+                "typeExact": "Land of Wano"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Otama"
+            }
+        ]
+    }
 }

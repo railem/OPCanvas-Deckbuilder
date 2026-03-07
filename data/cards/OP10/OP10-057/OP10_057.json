@@ -1,16 +1,33 @@
 {
-  "id" : "OP10-057",
-  "rarity" : "R",
-  "name" : "Leo",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Strike",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Blue",
-  "blockIcon" : 3,
-  "type" : "The Tontattas/Dressrosa",
-  "effect" : "[On Play] You may rest your Leader or 1 of your Stage cards: If your Leader is [Usopp], look at 5 cards from the top of your deck; reveal up to 2 {Dressrosa} type cards other than [Leo] and add them to your hand. Then, place the rest at the bottom of your deck in any order, and trash 1 card from your hand.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP10-057",
+    "name": "Leo",
+    "rarity": "R",
+    "color": "Blue",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "The Tontattas/Dressrosa",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] You may rest your Leader or 1 of your Stage cards: If your Leader is [Usopp], look at 5 cards from the top of your deck; reveal up to 2 {Dressrosa} type cards other than [Leo] and add them to your hand. Then, place the rest at the bottom of your deck in any order, and trash 1 card from your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 2,
+        "include": [
+            {
+                "typeExact": "Dressrosa"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Leo"
+            }
+        ]
+    }
 }

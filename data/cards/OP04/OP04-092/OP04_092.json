@@ -1,16 +1,33 @@
 {
-  "id" : "OP04-092",
-  "rarity" : "R",
-  "name" : "Rebecca",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Slash",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Black",
-  "blockIcon" : 1,
-  "type" : "Dressrosa",
-  "effect" : "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card other than [Rebecca] and add it to your hand. Then, trash the rest.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP04-092",
+    "name": "Rebecca",
+    "rarity": "R",
+    "color": "Black",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Dressrosa",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card other than [Rebecca] and add it to your hand. Then, trash the rest.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Dressrosa"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Rebecca"
+            }
+        ]
+    }
 }

@@ -1,16 +1,30 @@
 {
-  "id" : "OP09-099",
-  "rarity" : "C",
-  "name" : "Fullalead",
-  "category" : "STAGE",
-  "cost" : 1,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Black",
-  "blockIcon" : 3,
-  "type" : "Blackbeard Pirates",
-  "effect" : "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 {Blackbeard Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "Activate: Main" ]
+    "id": "OP09-099",
+    "name": "Fullalead",
+    "rarity": "C",
+    "color": "Black",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Blackbeard Pirates",
+    "category": "STAGE",
+    "blockIcon": "3",
+    "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 {Blackbeard Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Blackbeard Pirates"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

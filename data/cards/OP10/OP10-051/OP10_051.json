@@ -1,16 +1,32 @@
 {
-  "id" : "OP10-051",
-  "rarity" : "UC",
-  "name" : "Hack",
-  "category" : "CHARACTER",
-  "cost" : 4,
-  "attribute" : "Strike",
-  "power" : 5000,
-  "counter" : 1000,
-  "color" : "Blue",
-  "blockIcon" : 3,
-  "type" : "Fish-Man/Dressrosa/Revolutionary Army",
-  "effect" : "[DON!! x1] [When Attacking] Look at 3 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "When Attacking", "DON!!xX" ]
+    "id": "OP10-051",
+    "name": "Hack",
+    "rarity": "UC",
+    "color": "Blue",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Fish-Man/Dressrosa/Revolutionary Army",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[DON!! x1] [When Attacking] Look at 3 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "When Attacking",
+        "DON!!xX",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Revolutionary Army",
+                "category": "Character"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

@@ -1,16 +1,31 @@
 {
-  "id" : "EB02-036",
-  "rarity" : "R",
-  "name" : "Nico Robin",
-  "category" : "CHARACTER",
-  "cost" : 3,
-  "attribute" : "Strike",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Purple",
-  "blockIcon" : 3,
-  "type" : "Straw Hat Crew",
-  "effect" : "[Blocker] [On K.O.] DON!! −1: Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "Blocker", "On K.O." ]
+    "id": "EB02-036",
+    "name": "Nico Robin",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 3,
+    "power": 2000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[Blocker] [On K.O.] DON!! −1: Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On K.O.",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Straw Hat Crew"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

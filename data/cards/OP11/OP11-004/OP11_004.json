@@ -1,16 +1,34 @@
 {
-  "id" : "OP11-004",
-  "rarity" : "SR",
-  "name" : "Kujyaku",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Special",
-  "power" : null,
-  "counter" : 1000,
-  "color" : "Red",
-  "blockIcon" : 3,
-  "type" : "Navy/SWORD",
-  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card other than [Kujyaku] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Activate: Main] You may trash this Character: Up to 1 of your Characters gains +1000 power during this turn.",
-  "trigger" : "",
-  "keywords" : [ "On Play", "Activate: Main" ]
+    "id": "OP11-004",
+    "name": "Kujyaku",
+    "rarity": "SR",
+    "color": "Red",
+    "cost": 1,
+    "power": null,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Navy/SWORD",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card other than [Kujyaku] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Activate: Main] You may trash this Character: Up to 1 of your Characters gains +1000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Activate: Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Navy"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Kujyaku"
+            }
+        ]
+    }
 }

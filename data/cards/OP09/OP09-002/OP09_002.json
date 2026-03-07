@@ -1,16 +1,30 @@
 {
-  "id" : "OP09-002",
-  "rarity" : "R",
-  "name" : "Uta",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Special",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Red",
-  "blockIcon" : 3,
-  "type" : "FILM",
-  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Red-Haired Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP09-002",
+    "name": "Uta",
+    "rarity": "R",
+    "color": "Red",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "FILM",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Red-Haired Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Red-Haired Pirates"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

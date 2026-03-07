@@ -1,16 +1,39 @@
 {
-  "id" : "EB03-060",
-  "rarity" : "C",
-  "name" : "Will You Be My Servant?",
-  "category" : "EVENT",
-  "cost" : 1,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Yellow",
-  "blockIcon" : 4,
-  "type" : "Straw Hat Crew",
-  "effect" : "[Main] If your Leader is [Nami], look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 2 to 8 and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "[Trigger] Activate this card's [Main] effect.",
-  "keywords" : [ "Main" ]
+    "id": "EB03-060",
+    "name": "Will You Be My Servant?",
+    "rarity": "C",
+    "color": "Yellow",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Straw Hat Crew",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] If your Leader is [Nami], look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 2 to 8 and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "keywords": [
+        "Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 4,
+        "count": 1,
+        "include": [
+            {
+                "cost": {
+                    "comparator": ">=",
+                    "value": "2"
+                }
+            }
+        ],
+        "exclude": [
+            {
+                "cost": {
+                    "comparator": ">=",
+                    "value": "9"
+                }
+            }
+        ]
+    }
 }

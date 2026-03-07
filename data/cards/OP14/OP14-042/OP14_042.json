@@ -1,16 +1,33 @@
 {
-  "id" : "OP14-042",
-  "rarity" : "R",
-  "name" : "Arlong",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Slash",
-  "power" : 3000,
-  "counter" : null,
-  "color" : "Blue",
-  "blockIcon" : 4,
-  "type" : "Fish-Man/The Sun Pirates",
-  "effect" : "[On Play] If your Leader has the {Fish-Man} type, look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP14-042",
+    "name": "Arlong",
+    "rarity": "R",
+    "color": "Blue",
+    "cost": 1,
+    "power": 3000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "Fish-Man/The Sun Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] If your Leader has the {Fish-Man} type, look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 4,
+        "count": 1,
+        "include": [
+            {
+                "cost": {
+                    "comparator": ">=",
+                    "value": "2"
+                }
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

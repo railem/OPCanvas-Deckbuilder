@@ -1,16 +1,38 @@
 {
-  "id" : "OP12-017",
-  "rarity" : "UC",
-  "name" : "Color of Observation Haki",
-  "category" : "EVENT",
-  "cost" : null,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Red",
-  "blockIcon" : 3,
-  "type" : "Former Roger Pirates",
-  "effect" : "[Main] You may give 1 active DON!! card to 1 of your [Silvers Rayleigh]: Look at 4 cards from the top of your deck; reveal up to 1 red Event or up to 1 Character card with a cost of 3 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "Main" ]
+    "id": "OP12-017",
+    "name": "Color of Observation Haki",
+    "rarity": "UC",
+    "color": "Red",
+    "cost": 0,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Former Roger Pirates",
+    "category": "EVENT",
+    "blockIcon": "3",
+    "effect": "[Main] You may give 1 active DON!! card to 1 of your [Silvers Rayleigh]: Look at 4 cards from the top of your deck; reveal up to 1 red Event or up to 1 Character card with a cost of 3 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 4,
+        "count": 1,
+        "include": [
+            {
+                "color": "Red",
+                "category": "Event"
+            },
+            {
+                "category": "Character",
+                "cost": {
+                    "comparator": ">=",
+                    "value": "3"
+                }
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

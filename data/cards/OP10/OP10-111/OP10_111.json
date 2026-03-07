@@ -1,16 +1,33 @@
 {
-  "id" : "OP10-111",
-  "rarity" : "R",
-  "name" : "Monkey.D.Luffy",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Strike",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Yellow",
-  "blockIcon" : 3,
-  "type" : "Supernovas/Straw Hat Crew",
-  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP10-111",
+    "name": "Monkey.D.Luffy",
+    "rarity": "R",
+    "color": "Yellow",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Supernovas/Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Supernovas"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Monkey.D.Luffy"
+            }
+        ]
+    }
 }

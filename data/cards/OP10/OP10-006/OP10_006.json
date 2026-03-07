@@ -1,16 +1,30 @@
 {
-  "id" : "OP10-006",
-  "rarity" : "UC",
-  "name" : "Caesar Clown",
-  "category" : "CHARACTER",
-  "cost" : 7,
-  "attribute" : "Special",
-  "power" : 7000,
-  "counter" : null,
-  "color" : "Red",
-  "blockIcon" : 3,
-  "type" : "Scientist/Punk Hazard",
-  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Smiley] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Smiley] from your hand.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP10-006",
+    "name": "Caesar Clown",
+    "rarity": "UC",
+    "color": "Red",
+    "cost": 7,
+    "power": 7000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Scientist/Punk Hazard",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Smiley] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Smiley] from your hand.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "nameExact": "Smiley"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

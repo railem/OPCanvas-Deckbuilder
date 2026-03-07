@@ -14,6 +14,18 @@
     "trigger": "",
     "keywords": [
         "On Play",
-        "DON!! -X"
-    ]
+        "DON!! -X",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Foxy Pirates"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

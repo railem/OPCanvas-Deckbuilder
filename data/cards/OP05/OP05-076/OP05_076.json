@@ -1,16 +1,36 @@
 {
-  "id" : "OP05-076",
-  "rarity" : "R",
-  "name" : "When You're at Sea You Fight against Pirates!!",
-  "category" : "EVENT",
-  "cost" : 1,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Purple",
-  "blockIcon" : 2,
-  "type" : "Land of Wano",
-  "effect" : "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew}, {Kid Pirates}, or {Heart Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "[Trigger] Activate this card's [Main] effect.",
-  "keywords" : [ "Main" ]
+    "id": "OP05-076",
+    "name": "When You're at Sea You Fight against Pirates!!",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Land of Wano",
+    "category": "EVENT",
+    "blockIcon": "2",
+    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew}, {Kid Pirates}, or {Heart Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "keywords": [
+        "Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Straw Hat Crew"
+            },
+            {
+                "typeExact": "Kid Pirates"
+            },
+            {
+                "typeExact": "Heart Pirates"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

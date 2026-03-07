@@ -1,16 +1,23 @@
 {
-  "id" : "OP03-083",
-  "rarity" : "C",
-  "name" : "Corgy",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Wisdom",
-  "power" : null,
-  "counter" : 1000,
-  "color" : "Black",
-  "blockIcon" : 1,
-  "type" : "World Government",
-  "effect" : "[On Play] Look at 5 cards from the top of your deck and trash up to 2 cards. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP03-083",
+    "name": "Corgy",
+    "rarity": "C",
+    "color": "Black",
+    "cost": 1,
+    "power": null,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "World Government",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] Look at 5 cards from the top of your deck and trash up to 2 cards. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 2
+    }
 }

@@ -1,16 +1,30 @@
 {
-  "id" : "OP02-092",
-  "rarity" : "C",
-  "name" : "Impel Down",
-  "category" : "STAGE",
-  "cost" : 1,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Purple",
-  "blockIcon" : 1,
-  "type" : "Impel Down",
-  "effect" : "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "Activate: Main" ]
+    "id": "OP02-092",
+    "name": "Impel Down",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Impel Down",
+    "category": "STAGE",
+    "blockIcon": "1",
+    "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Impel Down"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

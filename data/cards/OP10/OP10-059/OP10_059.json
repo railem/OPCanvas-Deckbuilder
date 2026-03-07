@@ -1,16 +1,31 @@
 {
-  "id" : "OP10-059",
-  "rarity" : "R",
-  "name" : "Fo...llow...Me...and...I...Will...Gui...de...You",
-  "category" : "EVENT",
-  "cost" : 1,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Blue",
-  "blockIcon" : 3,
-  "type" : "Dressrosa/Straw Hat Crew",
-  "effect" : "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Dressrosa} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "[Trigger] Activate this card's [Main] effect.",
-  "keywords" : [ "Main" ]
+    "id": "OP10-059",
+    "name": "Fo...llow...Me...and...I...Will...Gui...de...You",
+    "rarity": "R",
+    "color": "Blue",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Dressrosa/Straw Hat Crew",
+    "category": "EVENT",
+    "blockIcon": "3",
+    "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Dressrosa} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "keywords": [
+        "Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Dressrosa",
+                "category": "Character"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

@@ -1,16 +1,30 @@
 {
-  "id" : "OP04-036",
-  "rarity" : "C",
-  "name" : "Donquixote Family",
-  "category" : "EVENT",
-  "cost" : 1,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Green",
-  "blockIcon" : 1,
-  "type" : "Donquixote Pirates",
-  "effect" : "[Counter] Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "[Trigger] Activate this card's [Counter] effect.",
-  "keywords" : [ "Counter" ]
+    "id": "OP04-036",
+    "name": "Donquixote Family",
+    "rarity": "C",
+    "color": "Green",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Donquixote Pirates",
+    "category": "EVENT",
+    "blockIcon": "1",
+    "effect": "[Counter] Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Counter] effect.",
+    "keywords": [
+        "Counter",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Donquixote Pirates"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

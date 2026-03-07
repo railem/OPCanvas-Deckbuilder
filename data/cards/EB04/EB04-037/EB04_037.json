@@ -1,16 +1,30 @@
 {
-  "id" : "EB04-037",
-  "rarity" : "C",
-  "name" : "Porche",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Wisdom",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Purple",
-  "blockIcon" : 4,
-  "type" : "Foxy Pirates",
-  "effect" : "[On Play] If your Leader has the {Foxy Pirates} type, look at 5 cards from the top of your deck; reveal up to 1 {Foxy Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "EB04-037",
+    "name": "Porche",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Foxy Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] If your Leader has the {Foxy Pirates} type, look at 5 cards from the top of your deck; reveal up to 1 {Foxy Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Foxy Pirates"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

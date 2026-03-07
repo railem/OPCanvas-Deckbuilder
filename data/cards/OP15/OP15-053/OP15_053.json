@@ -1,16 +1,32 @@
 {
-  "id" : "OP15-053",
-  "rarity" : "SR",
-  "name" : "Rebecca",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Wisdom",
-  "power" : null,
-  "counter" : 1000,
-  "color" : "Blue",
-  "blockIcon" : 4,
-  "type" : "Dressrosa",
-  "effect" : "[DON!! x1] This Character gains [Blocker]. [On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "Blocker", "On Play", "DON!!xX" ]
+    "id": "OP15-053",
+    "name": "Rebecca",
+    "rarity": "SR",
+    "color": "Blue",
+    "cost": 1,
+    "power": null,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Dressrosa",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[DON!! x1] This Character gains [Blocker]. [On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Play",
+        "DON!!xX",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Dressrosa"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

@@ -1,16 +1,32 @@
 {
-  "id" : "EB03-048",
-  "rarity" : "R",
-  "name" : "Rebecca",
-  "category" : "CHARACTER",
-  "cost" : 2,
-  "attribute" : "Wisdom",
-  "power" : null,
-  "counter" : 1000,
-  "color" : "Black",
-  "blockIcon" : 4,
-  "type" : "Dressrosa",
-  "effect" : "[Blocker] [On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Dressrosa} type Stage card and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 {Dressrosa} type Stage card with a cost of 1 from your hand.",
-  "trigger" : "",
-  "keywords" : [ "Blocker", "On Play" ]
+    "id": "EB03-048",
+    "name": "Rebecca",
+    "rarity": "R",
+    "color": "Black",
+    "cost": 2,
+    "power": null,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Dressrosa",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[Blocker] [On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Dressrosa} type Stage card and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 {Dressrosa} type Stage card with a cost of 1 from your hand.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Dressrosa",
+                "category": "Stage"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

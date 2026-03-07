@@ -1,16 +1,34 @@
 {
-  "id" : "OP14-013",
-  "rarity" : "SR",
-  "name" : "Monkey.D.Luffy",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Strike",
-  "power" : null,
-  "counter" : 1000,
-  "color" : "Red",
-  "blockIcon" : 4,
-  "type" : "Supernovas/Straw Hat Crew",
-  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
-  "trigger" : "",
-  "keywords" : [ "On Play", "When Attacking" ]
+    "id": "OP14-013",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SR",
+    "color": "Red",
+    "cost": 1,
+    "power": null,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Supernovas/Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "When Attacking",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Supernovas"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Monkey.D.Luffy"
+            }
+        ]
+    }
 }

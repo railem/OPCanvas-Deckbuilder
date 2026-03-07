@@ -1,16 +1,30 @@
 {
-  "id" : "OP14-067",
-  "rarity" : "UC",
-  "name" : "Dellinger",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Strike",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Purple",
-  "blockIcon" : 4,
-  "type" : "Donquixote Pirates",
-  "effect" : "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it, look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On K.O." ]
+    "id": "OP14-067",
+    "name": "Dellinger",
+    "rarity": "UC",
+    "color": "Purple",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Donquixote Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it, look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On K.O.",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Donquixote Pirates"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

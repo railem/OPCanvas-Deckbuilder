@@ -1,16 +1,34 @@
 {
-  "id" : "EB02-028",
-  "rarity" : "R",
-  "name" : "Portgas.D.Ace",
-  "category" : "CHARACTER",
-  "cost" : 5,
-  "attribute" : "Special",
-  "power" : 5000,
-  "counter" : 1000,
-  "color" : "Blue",
-  "blockIcon" : 3,
-  "type" : "Alabasta/Whitebeard Pirates",
-  "effect" : "[On Play] If your Leader's type includes \"Whitebeard Pirates\", look at 5 cards from the top of your deck; reveal up to 1 Character card with a cost of 2 and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 Character card with a cost of 2 from your hand rested.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "EB02-028",
+    "name": "Portgas.D.Ace",
+    "rarity": "R",
+    "color": "Blue",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Alabasta/Whitebeard Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", look at 5 cards from the top of your deck; reveal up to 1 Character card with a cost of 2 and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 Character card with a cost of 2 from your hand rested.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "cost": {
+                    "comparator": "==",
+                    "value": "2"
+                },
+                "category": "Character"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

@@ -1,16 +1,33 @@
 {
-  "id" : "OP05-015",
-  "rarity" : "R",
-  "name" : "Belo Betty",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Special",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Red",
-  "blockIcon" : 2,
-  "type" : "Revolutionary Army",
-  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type card other than [Belo Betty] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP05-015",
+    "name": "Belo Betty",
+    "rarity": "R",
+    "color": "Red",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Revolutionary Army",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type card other than [Belo Betty] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Revolutionary Army"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Belo Betty"
+            }
+        ]
+    }
 }

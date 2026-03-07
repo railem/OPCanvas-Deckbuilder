@@ -1,16 +1,34 @@
 {
-  "id" : "OP12-028",
-  "rarity" : "R",
-  "name" : "Kouzuki Hiyori",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Wisdom",
-  "power" : null,
-  "counter" : 1000,
-  "color" : "Green",
-  "blockIcon" : 3,
-  "type" : "Land of Wano/Kouzuki Clan",
-  "effect" : "[Activate: Main] You may rest 1 of your DON!! cards and this Character: If your Leader is [Roronoa Zoro], look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "Activate: Main" ]
+    "id": "OP12-028",
+    "name": "Kouzuki Hiyori",
+    "rarity": "R",
+    "color": "Green",
+    "cost": 1,
+    "power": null,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Land of Wano/Kouzuki Clan",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: If your Leader is [Roronoa Zoro], look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "attribute": "Slash"
+            },
+            {
+                "color": "Green",
+                "category": "Event"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

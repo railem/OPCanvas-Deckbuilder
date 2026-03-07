@@ -1,16 +1,34 @@
 {
-  "id" : "OP12-034",
-  "rarity" : "SR",
-  "name" : "Perona",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Special",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Green",
-  "blockIcon" : 3,
-  "type" : "Muggy Kingdom/Thriller Bark Pirates",
-  "effect" : "[On Play] If your Leader has the <Slash> attribute, look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP12-034",
+    "name": "Perona",
+    "rarity": "SR",
+    "color": "Green",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Special",
+    "counter": 1000,
+    "type": "Muggy Kingdom/Thriller Bark Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] If your Leader has the <Slash> attribute, look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "attribute": "Slash"
+            },
+            {
+                "color": "Green",
+                "category": "Event"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

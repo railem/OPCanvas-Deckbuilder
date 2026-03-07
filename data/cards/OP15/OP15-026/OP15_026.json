@@ -1,16 +1,31 @@
 {
-  "id" : "OP15-026",
-  "rarity" : "UC",
-  "name" : "Jango",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Slash",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Green",
-  "blockIcon" : 4,
-  "type" : "East Blue/Black Cat Pirates",
-  "effect" : "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {East Blue} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Activate: Main] You may trash this Character: Give up to 1 of your opponent's rested DON!! cards to 1 of your opponent's Characters.",
-  "trigger" : "",
-  "keywords" : [ "On Play", "Activate: Main" ]
+    "id": "OP15-026",
+    "name": "Jango",
+    "rarity": "UC",
+    "color": "Green",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "East Blue/Black Cat Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {East Blue} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Activate: Main] You may trash this Character: Give up to 1 of your opponent's rested DON!! cards to 1 of your opponent's Characters.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Activate: Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "East Blue"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

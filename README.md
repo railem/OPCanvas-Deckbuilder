@@ -8,6 +8,7 @@ Decks can even be syncronized with the OPTCG Sim, eliminating manual exports and
 |:-:|:-:|
 |<a href="https://i.imgur.com/gXZd6cN.png"><img src="https://i.imgur.com/gXZd6cN.png" width="100%" alt="Deck Overview"></a>|<a href="https://i.imgur.com/1m7Oz0M.png"><img src="https://i.imgur.com/1m7Oz0M.png" width="100%" alt="Draw Simulator"></a>|
 |<a href="https://i.imgur.com/cUpzG6t.png"><img src="https://i.imgur.com/cUpzG6t.png" width="100%" alt="Deck Manager"></a>|<a href="https://i.imgur.com/vw30vZc.png"><img src="https://i.imgur.com/vw30vZc.png" width="100%" alt="Canvas Info"></a>|
+|<a href="https://i.imgur.com/0Pkjc9z.png"><img src="https://i.imgur.com/0Pkjc9z.png" width="100%" alt="Deck Manager"></a>|<a href="https://i.imgur.com/PLgGzDv.png"><img src="https://i.imgur.com/PLgGzDv.png" width="100%" alt="Canvas Info"></a>|
 
 ## Feature Overview
 - Create and manage decks on a canvas for maximum overview
@@ -38,6 +39,11 @@ Decks can even be syncronized with the OPTCG Sim, eliminating manual exports and
   - Keep your decklists aligned between OPCanvas and the OPTCG Sim for smoother testing.
   - Make edits in OPCanvas and see the changes sync automatically to the simulator.
 
+- Simulate using searchers
+  - Gives an overview of cards the searcher can find in a deck.
+  - Shows probabilities for searchers to find specific cards in your deck.
+  - Visual search simulation highlighting if cards cound be taken or not.
+
 ## Prerequisites
 - **Java 17** or newer must be installed. [Download Java21](https://adoptium.net/de/temurin/releases?version=21)
 - **Git** is optional but recommended for automatic updates. [Download Git](https://git-scm.com/install/)
@@ -45,6 +51,7 @@ Decks can even be syncronized with the OPTCG Sim, eliminating manual exports and
 ## Download
 ### With Git (recommended)
 Cloning with Git allows the start script to automatically update the app and card data every time you launch it.
+Just open a terminal where you want to install the program and type:
 ```bash
 git clone https://github.com/railem/OPCanvas-Deckbuilder.git
 ```

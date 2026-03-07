@@ -1,16 +1,33 @@
 {
-  "id" : "OP12-097",
-  "rarity" : "R",
-  "name" : "Captains Assembled",
-  "category" : "EVENT",
-  "cost" : 1,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Black",
-  "blockIcon" : 3,
-  "type" : "Revolutionary Army",
-  "effect" : "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type card other than [Captains Assembled] and add it to your hand. Then, trash the rest.",
-  "trigger" : "[Trigger] Activate this card's [Main] effect.",
-  "keywords" : [ "Main" ]
+    "id": "OP12-097",
+    "name": "Captains Assembled",
+    "rarity": "R",
+    "color": "Black",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Revolutionary Army",
+    "category": "EVENT",
+    "blockIcon": "3",
+    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type card other than [Captains Assembled] and add it to your hand. Then, trash the rest.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "keywords": [
+        "Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Revolutionary Army"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Captains Assembled"
+            }
+        ]
+    }
 }

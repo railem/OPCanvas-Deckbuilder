@@ -1,16 +1,33 @@
 {
-  "id" : "OP09-096",
-  "rarity" : "R",
-  "name" : "My Era...Begins!!",
-  "category" : "EVENT",
-  "cost" : 1,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Black",
-  "blockIcon" : 3,
-  "type" : "Blackbeard Pirates",
-  "effect" : "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Blackbeard Pirates} type card other than [My Era...Begins!!] and add it to your hand. Then, trash the rest.",
-  "trigger" : "[Trigger] Activate this card's [Main] effect.",
-  "keywords" : [ "Main" ]
+    "id": "OP09-096",
+    "name": "My Era...Begins!!",
+    "rarity": "R",
+    "color": "Black",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Blackbeard Pirates",
+    "category": "EVENT",
+    "blockIcon": "3",
+    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Blackbeard Pirates} type card other than [My Era...Begins!!] and add it to your hand. Then, trash the rest.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "keywords": [
+        "Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Blackbeard Pirates"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "My Era...Begins!!"
+            }
+        ]
+    }
 }

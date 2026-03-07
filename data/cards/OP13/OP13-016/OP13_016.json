@@ -1,16 +1,33 @@
 {
-  "id" : "OP13-016",
-  "rarity" : "R",
-  "name" : "Monkey.D.Garp",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Strike",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Red",
-  "blockIcon" : 4,
-  "type" : "Navy",
-  "effect" : "[On Play] If your Leader is [Sabo], [Portgas.D.Ace] or [Monkey.D.Luffy], look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 3 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP13-016",
+    "name": "Monkey.D.Garp",
+    "rarity": "R",
+    "color": "Red",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Navy",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[On Play] If your Leader is [Sabo], [Portgas.D.Ace] or [Monkey.D.Luffy], look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 3 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 4,
+        "count": 1,
+        "include": [
+            {
+                "cost": {
+                    "comparator": ">=",
+                    "value": "3"
+                }
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

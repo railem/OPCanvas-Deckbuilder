@@ -1,16 +1,30 @@
 {
-  "id" : "OP03-020",
-  "rarity" : "C",
-  "name" : "Striker",
-  "category" : "STAGE",
-  "cost" : 1,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Red",
-  "blockIcon" : 1,
-  "type" : "Whitebeard Pirates",
-  "effect" : "[Activate: Main] ② (You may rest the specified number of DON!! cards in your cost area.) You may rest this Stage: If your Leader is [Portgas.D.Ace], look at 5 cards from the top of your deck; reveal up to 1 Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "Activate: Main" ]
+    "id": "OP03-020",
+    "name": "Striker",
+    "rarity": "C",
+    "color": "Red",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Whitebeard Pirates",
+    "category": "STAGE",
+    "blockIcon": "1",
+    "effect": "[Activate: Main] ② (You may rest the specified number of DON!! cards in your cost area.) You may rest this Stage: If your Leader is [Portgas.D.Ace], look at 5 cards from the top of your deck; reveal up to 1 Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "category": "Event"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

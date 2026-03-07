@@ -1,16 +1,36 @@
 {
-  "id" : "OP03-112",
-  "rarity" : "SP CARD",
-  "name" : "Charlotte Pudding",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Wisdom",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Yellow",
-  "blockIcon" : 1,
-  "type" : "Big Mom Pirates",
-  "effect" : "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Sanji] or {Big Mom Pirates} type card other than [Charlotte Pudding] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP03-112",
+    "name": "Charlotte Pudding",
+    "rarity": "SP CARD",
+    "color": "Yellow",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Big Mom Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Sanji] or {Big Mom Pirates} type card other than [Charlotte Pudding] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 4,
+        "count": 1,
+        "include": [
+            {
+                "nameExact": "Sanji"
+            },
+            {
+                "typeExact": "Big Mom Pirates"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Charlotte Pudding"
+            }
+        ]
+    }
 }

@@ -1,16 +1,33 @@
 {
-  "id" : "OP09-117",
-  "rarity" : "R",
-  "name" : "Dereshi!",
-  "category" : "EVENT",
-  "cost" : 3,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Yellow",
-  "blockIcon" : 3,
-  "type" : "Ohara",
-  "effect" : "[Main] Look at 5 cards from the top of your deck; reveal up to 2 cards with a [Trigger] other than [Dereshi!] and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "[Trigger] Draw 1 card.",
-  "keywords" : [ "Main" ]
+    "id": "OP09-117",
+    "name": "Dereshi!",
+    "rarity": "R",
+    "color": "Yellow",
+    "cost": 3,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "Ohara",
+    "category": "EVENT",
+    "blockIcon": "3",
+    "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 2 cards with a [Trigger] other than [Dereshi!] and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "keywords": [
+        "Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 2,
+        "include": [
+            {
+                "keyword": "Trigger"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Dereshi!"
+            }
+        ]
+    }
 }

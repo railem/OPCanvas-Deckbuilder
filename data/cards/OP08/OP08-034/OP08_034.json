@@ -1,16 +1,33 @@
 {
-  "id" : "OP08-034",
-  "rarity" : "R",
-  "name" : "Wanda",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Slash",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Green",
-  "blockIcon" : 2,
-  "type" : "Minks",
-  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Minks} type card other than [Wanda] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP08-034",
+    "name": "Wanda",
+    "rarity": "R",
+    "color": "Green",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Slash",
+    "counter": 1000,
+    "type": "Minks",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Minks} type card other than [Wanda] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Minks"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Wanda"
+            }
+        ]
+    }
 }

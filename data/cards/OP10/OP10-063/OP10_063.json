@@ -13,6 +13,18 @@
     "effect": "[On Play] If your Leader's type includes \"GERMA\", look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": "",
     "keywords": [
-        "On Play"
-    ]
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeIncludes": "GERMA"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

@@ -15,6 +15,22 @@
     "keywords": [
         "On Play",
         "Activate: Main",
-        "DON!! -X"
-    ]
+        "DON!! -X",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Big Mom Pirates",
+                "cost": {
+                    "comparator": ">=",
+                    "value": "2"
+                }
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

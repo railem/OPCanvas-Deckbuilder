@@ -1,16 +1,35 @@
 {
-  "id" : "OP14-019",
-  "rarity" : "UC",
-  "name" : "I Have a Plan to Take Down One of the Four Emperors!!",
-  "category" : "EVENT",
-  "cost" : 1,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Red",
-  "blockIcon" : 4,
-  "type" : "The Seven Warlords of the Sea/Supernovas/Heart Pirates",
-  "effect" : "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Supernovas} or {Straw Hat Crew} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "[Trigger] Draw 1 card.",
-  "keywords" : [ "Main" ]
+    "id": "OP14-019",
+    "name": "I Have a Plan to Take Down One of the Four Emperors!!",
+    "rarity": "UC",
+    "color": "Red",
+    "cost": 1,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "The Seven Warlords of the Sea/Supernovas/Heart Pirates",
+    "category": "EVENT",
+    "blockIcon": "4",
+    "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Supernovas} or {Straw Hat Crew} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "keywords": [
+        "Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 4,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Supernovas",
+                "category": "Character"
+            },
+            {
+                "typeExact": "Straw Hat Crew",
+                "category": "Character"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

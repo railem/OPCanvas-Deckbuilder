@@ -1,16 +1,31 @@
 {
-  "id" : "OP10-039",
-  "rarity" : "UC",
-  "name" : "Gum-Gum Dragon Fire Pistol Twister Star",
-  "category" : "EVENT",
-  "cost" : 3,
-  "attribute" : "",
-  "power" : null,
-  "counter" : null,
-  "color" : "Green",
-  "blockIcon" : 3,
-  "type" : "ODYSSEY/Supernovas/Straw Hat Crew",
-  "effect" : "[Main] If your Leader has the {ODYSSEY} type, look at 5 cards from the top of your deck; reveal up to 2 {ODYSSEY} type Character cards and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
-  "keywords" : [ "Main" ]
+    "id": "OP10-039",
+    "name": "Gum-Gum Dragon Fire Pistol Twister Star",
+    "rarity": "UC",
+    "color": "Green",
+    "cost": 3,
+    "power": null,
+    "attribute": "",
+    "counter": null,
+    "type": "ODYSSEY/Supernovas/Straw Hat Crew",
+    "category": "EVENT",
+    "blockIcon": "3",
+    "effect": "[Main] If your Leader has the {ODYSSEY} type, look at 5 cards from the top of your deck; reveal up to 2 {ODYSSEY} type Character cards and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "keywords": [
+        "Main",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 2,
+        "include": [
+            {
+                "typeExact": "ODYSSEY",
+                "category": "Character"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

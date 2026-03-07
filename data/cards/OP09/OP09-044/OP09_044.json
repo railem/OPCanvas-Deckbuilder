@@ -1,16 +1,33 @@
 {
-  "id" : "OP09-044",
-  "rarity" : "UC",
-  "name" : "Izo",
-  "category" : "CHARACTER",
-  "cost" : 3,
-  "attribute" : "Ranged",
-  "power" : 4000,
-  "counter" : 1000,
-  "color" : "Blue",
-  "blockIcon" : 3,
-  "type" : "Land of Wano/Whitebeard Pirates",
-  "effect" : "[When Attacking] Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card or card with a type including \"Whitebeard Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order and trash 1 card from your hand.",
-  "trigger" : "",
-  "keywords" : [ "When Attacking" ]
+    "id": "OP09-044",
+    "name": "Izo",
+    "rarity": "UC",
+    "color": "Blue",
+    "cost": 3,
+    "power": 4000,
+    "attribute": "Ranged",
+    "counter": 1000,
+    "type": "Land of Wano/Whitebeard Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[When Attacking] Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card or card with a type including \"Whitebeard Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order and trash 1 card from your hand.",
+    "trigger": "",
+    "keywords": [
+        "When Attacking",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Land of Wano"
+            },
+            {
+                "typeIncludes": "Whitebeard Pirates"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

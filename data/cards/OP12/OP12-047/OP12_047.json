@@ -1,16 +1,33 @@
 {
-  "id" : "OP12-047",
-  "rarity" : "R",
-  "name" : "Sengoku",
-  "category" : "CHARACTER",
-  "cost" : 3,
-  "attribute" : "Wisdom",
-  "power" : 3000,
-  "counter" : 1000,
-  "color" : "Blue",
-  "blockIcon" : 3,
-  "type" : "Navy",
-  "effect" : "[On Play] You may trash 1 card from your hand: Look at 5 cards from the top of your deck; reveal up to 2 {Navy} type cards other than [Sengoku] and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP12-047",
+    "name": "Sengoku",
+    "rarity": "R",
+    "color": "Blue",
+    "cost": 3,
+    "power": 3000,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Navy",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] You may trash 1 card from your hand: Look at 5 cards from the top of your deck; reveal up to 2 {Navy} type cards other than [Sengoku] and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 2,
+        "include": [
+            {
+                "typeExact": "Navy"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Sengoku"
+            }
+        ]
+    }
 }

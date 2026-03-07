@@ -1,16 +1,33 @@
 {
-  "id" : "OP10-106",
-  "rarity" : "UC",
-  "name" : "Killer",
-  "category" : "CHARACTER",
-  "cost" : 3,
-  "attribute" : "Slash",
-  "power" : 5000,
-  "counter" : null,
-  "color" : "Yellow",
-  "blockIcon" : 3,
-  "type" : "Supernovas/Kid Pirates",
-  "effect" : "[On K.O.] If your Leader has the {Supernovas} type, look at 3 cards from the top of your deck; reveal up to 1 {Supernovas} or {Kid Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On K.O." ]
+    "id": "OP10-106",
+    "name": "Killer",
+    "rarity": "UC",
+    "color": "Yellow",
+    "cost": 3,
+    "power": 5000,
+    "attribute": "Slash",
+    "counter": null,
+    "type": "Supernovas/Kid Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On K.O.] If your Leader has the {Supernovas} type, look at 3 cards from the top of your deck; reveal up to 1 {Supernovas} or {Kid Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On K.O.",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Supernovas"
+            },
+            {
+                "typeExact": "Kid Pirates"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

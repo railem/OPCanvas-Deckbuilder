@@ -1,16 +1,36 @@
 {
-  "id" : "OP12-086",
-  "rarity" : "R",
-  "name" : "Koala",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Strike",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Black",
-  "blockIcon" : 3,
-  "type" : "Dressrosa/Revolutionary Army",
-  "effect" : "[On Play] If your Leader has the {Revolutionary Army} type, look at 3 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type card other than [Koala] or up to 1 [Nico Robin] and add it to your hand. Then, trash the rest.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP12-086",
+    "name": "Koala",
+    "rarity": "R",
+    "color": "Black",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Dressrosa/Revolutionary Army",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] If your Leader has the {Revolutionary Army} type, look at 3 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type card other than [Koala] or up to 1 [Nico Robin] and add it to your hand. Then, trash the rest.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Revolutionary Army"
+            },
+            {
+                "nameExact": "Nico Robin"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Koala"
+            }
+        ]
+    }
 }

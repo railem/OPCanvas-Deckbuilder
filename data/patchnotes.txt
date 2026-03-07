@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.1.6",
+    "notes": [
+      "- Added Search Simulation Feature.",
+      "— Available in the bottom right of the canvas.",
+      "— Provides overview of cards the searcher can find.",
+      "— Shows probabilities for searchers to find specific cards.",
+      "— Visual search simulation highlighting if cards cound be taken or not."
+    ]
+  },
+  {
     "version": "1.1.5.2",
     "notes": [
       "- Added promo cards:",

@@ -1,16 +1,30 @@
 {
-  "id" : "OP11-047",
-  "rarity" : "R",
-  "name" : "Vinsmoke Reiju",
-  "category" : "CHARACTER",
-  "cost" : 4,
-  "attribute" : "Special",
-  "power" : 5000,
-  "counter" : 2000,
-  "color" : "Blue",
-  "blockIcon" : 3,
-  "type" : "The Vinsmoke Family/GERMA 66",
-  "effect" : "[On Play] If your Leader has the {The Vinsmoke Family} type, look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" and add it to your hand. Then, trash the rest.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP11-047",
+    "name": "Vinsmoke Reiju",
+    "rarity": "R",
+    "color": "Blue",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": 2000,
+    "type": "The Vinsmoke Family/GERMA 66",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] If your Leader has the {The Vinsmoke Family} type, look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" and add it to your hand. Then, trash the rest.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeIncludes": "GERMA"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

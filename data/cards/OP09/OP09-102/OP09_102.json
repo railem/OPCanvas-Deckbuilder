@@ -1,16 +1,30 @@
 {
-  "id" : "OP09-102",
-  "rarity" : "R",
-  "name" : "Professor Clover",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Wisdom",
-  "power" : null,
-  "counter" : 2000,
-  "color" : "Yellow",
-  "blockIcon" : 3,
-  "type" : "Ohara",
-  "effect" : "[On Play] If your Leader is [Nico Robin], look at 3 cards from the top of your deck; reveal up to 1 card with a [Trigger] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "[Trigger] Activate this card's [On Play] effect.",
-  "keywords" : [ "On Play" ]
+    "id": "OP09-102",
+    "name": "Professor Clover",
+    "rarity": "R",
+    "color": "Yellow",
+    "cost": 1,
+    "power": null,
+    "attribute": "Wisdom",
+    "counter": 2000,
+    "type": "Ohara",
+    "category": "CHARACTER",
+    "blockIcon": "3",
+    "effect": "[On Play] If your Leader is [Nico Robin], look at 3 cards from the top of your deck; reveal up to 1 card with a [Trigger] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [On Play] effect.",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "keyword": "Trigger"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

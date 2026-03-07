@@ -1,16 +1,37 @@
 {
-  "id" : "OP08-007",
-  "rarity" : "SR",
-  "name" : "Tony Tony.Chopper",
-  "category" : "CHARACTER",
-  "cost" : 3,
-  "attribute" : "Strike",
-  "power" : 5000,
-  "counter" : null,
-  "color" : "Red",
-  "blockIcon" : 2,
-  "type" : "Animal/Drum Kingdom/Straw Hat Crew",
-  "effect" : "[Your Turn] [On Play]/[When Attacking] Look at 5 cards from the top of your deck and play up to 1 {Animal} type Character card with 4000 power or less rested. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play", "When Attacking", "Your Turn" ]
+    "id": "OP08-007",
+    "name": "Tony Tony.Chopper",
+    "rarity": "SR",
+    "color": "Red",
+    "cost": 3,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Animal/Drum Kingdom/Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[Your Turn] [On Play]/[When Attacking] Look at 5 cards from the top of your deck and play up to 1 {Animal} type Character card with 4000 power or less rested. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "When Attacking",
+        "Your Turn",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Animal",
+                "category": "Character",
+                "power": {
+                    "comparator": "<=",
+                    "value": "4000"
+                }
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

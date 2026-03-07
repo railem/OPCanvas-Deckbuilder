@@ -14,6 +14,21 @@
     "trigger": "",
     "keywords": [
         "On Play",
-        "End of Your Turn"
-    ]
+        "End of Your Turn",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "ODYSSEY"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Lim"
+            }
+        ]
+    }
 }

@@ -1,16 +1,32 @@
 {
-  "id" : "OP15-044",
-  "rarity" : "C",
-  "name" : "Koala",
-  "category" : "CHARACTER",
-  "cost" : 3,
-  "attribute" : "Strike",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Blue",
-  "blockIcon" : 4,
-  "type" : "Dressrosa/Revolutionary Army",
-  "effect" : "[Blocker] [On K.O.] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "Blocker", "On K.O." ]
+    "id": "OP15-044",
+    "name": "Koala",
+    "rarity": "C",
+    "color": "Blue",
+    "cost": 3,
+    "power": 2000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Dressrosa/Revolutionary Army",
+    "category": "CHARACTER",
+    "blockIcon": "4",
+    "effect": "[Blocker] [On K.O.] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "Blocker",
+        "On K.O.",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Dressrosa",
+                "category": "Event"
+            }
+        ],
+        "exclude": [
+        ]
+    }
 }

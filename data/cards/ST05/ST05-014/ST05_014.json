@@ -1,16 +1,33 @@
 {
-  "id" : "ST05-014",
-  "rarity" : "C",
-  "name" : "Buena Festa",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Wisdom",
-  "power" : null,
-  "counter" : 2000,
-  "color" : "Purple",
-  "blockIcon" : 1,
-  "type" : "FILM/The Pirates Fest",
-  "effect" : "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {FILM} type card other than [Buena Festa] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "ST05-014",
+    "name": "Buena Festa",
+    "rarity": "C",
+    "color": "Purple",
+    "cost": 1,
+    "power": null,
+    "attribute": "Wisdom",
+    "counter": 2000,
+    "type": "FILM/The Pirates Fest",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {FILM} type card other than [Buena Festa] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 5,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "FILM"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Buena Festa"
+            }
+        ]
+    }
 }

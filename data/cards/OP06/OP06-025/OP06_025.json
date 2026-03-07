@@ -1,16 +1,36 @@
 {
-  "id" : "OP06-025",
-  "rarity" : "R",
-  "name" : "Camie",
-  "category" : "CHARACTER",
-  "cost" : 1,
-  "attribute" : "Wisdom",
-  "power" : 2000,
-  "counter" : 1000,
-  "color" : "Green",
-  "blockIcon" : 2,
-  "type" : "Merfolk",
-  "effect" : "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Fish-Man} or {Merfolk} type card other than [Camie] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play" ]
+    "id": "OP06-025",
+    "name": "Camie",
+    "rarity": "R",
+    "color": "Green",
+    "cost": 1,
+    "power": 2000,
+    "attribute": "Wisdom",
+    "counter": 1000,
+    "type": "Merfolk",
+    "category": "CHARACTER",
+    "blockIcon": "2",
+    "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Fish-Man} or {Merfolk} type card other than [Camie] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 4,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "Fish-Man"
+            },
+            {
+                "typeExact": "Merfolk"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Camie"
+            }
+        ]
+    }
 }

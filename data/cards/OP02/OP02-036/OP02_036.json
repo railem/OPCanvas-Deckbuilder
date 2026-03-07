@@ -1,16 +1,34 @@
 {
-  "id" : "OP02-036",
-  "rarity" : "SR",
-  "name" : "Nami",
-  "category" : "CHARACTER",
-  "cost" : 3,
-  "attribute" : "Special",
-  "power" : 5000,
-  "counter" : null,
-  "color" : "Green",
-  "blockIcon" : 1,
-  "type" : "FILM/Straw Hat Crew",
-  "effect" : "[On Play]/[When Attacking] ➀ (You may rest the specified number of DON!! cards in your cost area.): Look at 3 cards from the top of your deck; reveal up to 1 {FILM} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-  "trigger" : "",
-  "keywords" : [ "On Play", "When Attacking" ]
+    "id": "OP02-036",
+    "name": "Nami",
+    "rarity": "SR",
+    "color": "Green",
+    "cost": 3,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "FILM/Straw Hat Crew",
+    "category": "CHARACTER",
+    "blockIcon": "1",
+    "effect": "[On Play]/[When Attacking] ➀ (You may rest the specified number of DON!! cards in your cost area.): Look at 3 cards from the top of your deck; reveal up to 1 {FILM} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "When Attacking",
+        "Searcher"
+    ],
+    "searcher": {
+        "depth": 3,
+        "count": 1,
+        "include": [
+            {
+                "typeExact": "FILM"
+            }
+        ],
+        "exclude": [
+            {
+                "nameExact": "Nami"
+            }
+        ]
+    }
 }
