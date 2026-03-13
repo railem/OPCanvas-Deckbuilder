@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.1.6.1",
+    "notes": [
+      "- Updated OP15 to use english images.",
+      "- Improved tutorial to include search & draw simulation."
+    ]
+  },
+  {
     "version": "1.1.6",
     "notes": [
       "- Added Search Simulation Feature.",

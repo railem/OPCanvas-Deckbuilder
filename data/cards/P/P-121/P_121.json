@@ -1,0 +1,16 @@
+{
+  "id" : "P-121",
+  "rarity" : "P",
+  "name" : "Brook",
+  "category" : "CHARACTER",
+  "cost" : 4,
+  "attribute" : "Slash",
+  "power" : 5000,
+  "counter" : 1000,
+  "color" : "Black",
+  "blockIcon" : 4,
+  "type" : "Straw Hat Crew",
+  "effect" : "[On Play] Trash 3 cards from the top of your deck. [On K.O.] Your opponent trashes 2 cards from their hand.",
+  "trigger" : "",
+  "keywords" : [ "On Play", "On K.O." ]
+}
