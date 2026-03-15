@@ -1,0 +1,18 @@
+{
+    "id": "OP16-042",
+    "name": "Prisoner of Impel Down",
+    "rarity": "R",
+    "color": "Blue",
+    "cost": 6,
+    "power": 6000,
+    "attribute": "Strike",
+    "counter": 2000,
+    "type": "Impel Down",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "Under the rules of this game, you may have any number of this card in your deck.",
+    "trigger": "",
+    "keywords": [
+        "Permanent"
+    ]
+}

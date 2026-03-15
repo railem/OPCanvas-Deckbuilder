@@ -1,0 +1,19 @@
+{
+    "id": "OP16-80",
+    "name": "Marshall.D.Teach",
+    "rarity": "L",
+    "color": "Black/Yellow",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "The Seven Warlords of the Sea/Blackbeard Pirates",
+    "category": "LEADER",
+    "blockIcon": "5",
+    "effect": "",
+    "trigger": "",
+    "keywords": [
+        "On Your Opponent's Attack",
+        "Opponents Turn"
+    ]
+}

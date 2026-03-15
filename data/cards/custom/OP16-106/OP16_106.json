@@ -1,0 +1,18 @@
+{
+    "id": "OP16-106",
+    "name": "Sanjuan.Wolf",
+    "rarity": "R",
+    "color": "Yellow",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": 1000,
+    "type": "Giant/Impel Down/Blackbeard Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "",
+    "trigger": "Activate this card's [ON K.O.] effect.",
+    "keywords": [
+        "On K.O."
+    ]
+}

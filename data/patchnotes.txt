@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.1.6.2",
+    "notes": [
+      "- Added first OP16 cards.",
+      "[ST30-014][OP16-001][OP16-003][OP16-011][OP16-022][OP16-026][OP16-055][OP16-041][OP16-042][OP16-056][OP16-060][OP16-063][OP16-065][OP16-073][OP16-079][OP16-80][OP16-106][OP16-108]"
+    ]
+  },
+  {
     "version": "1.1.6.1",
     "notes": [
       "- Updated OP15 to use english images.",

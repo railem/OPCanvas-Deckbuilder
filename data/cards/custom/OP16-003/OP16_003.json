@@ -1,0 +1,20 @@
+{
+    "id": "OP16-003",
+    "name": "Edward.Newgate",
+    "rarity": "SR",
+    "color": "Red",
+    "cost": 8,
+    "power": 10000,
+    "attribute": "Special",
+    "counter": 0,
+    "type": "The Four Emperors/Whitebeard Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "[Your Turn] Your Leader gains [Double Attack] and +2000 power.\n[On Play] You may reveal 2 Character cards with 8000 power from your hand: Give up to 1 of your opponent's Characters -6000 power during this turn.",
+    "trigger": "",
+    "keywords": [
+        "Double Attack",
+        "On Play",
+        "Your Turn"
+    ]
+}

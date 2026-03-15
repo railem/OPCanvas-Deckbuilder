@@ -1,0 +1,18 @@
+{
+    "id": "OP16-060",
+    "name": "Sengoku",
+    "rarity": "L",
+    "color": "Purple",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Wisdom",
+    "counter": null,
+    "type": "Navy",
+    "category": "LEADER",
+    "blockIcon": "5",
+    "effect": "[Activate: Main] You may return 8 of your active DON!! cards to you DON!! deck: Play up to 3 {Admiral} type Character cards with different card names from your hand.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main"
+    ]
+}

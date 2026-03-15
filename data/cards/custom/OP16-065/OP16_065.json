@@ -1,0 +1,20 @@
+{
+    "id": "OP16-065",
+    "name": "Sakazuki",
+    "rarity": "SR",
+    "color": "Purple",
+    "cost": 7,
+    "power": 8000,
+    "attribute": "Special",
+    "counter": 0,
+    "type": "Admiral/Navy",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "",
+    "trigger": "",
+    "keywords": [
+        "On Play",
+        "Activate: Main",
+        "DON!! -X"
+    ]
+}

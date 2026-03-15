@@ -1,0 +1,18 @@
+{
+    "id": "OP16-001",
+    "name": "Portgas.D.Ace",
+    "rarity": "L",
+    "color": "Red",
+    "cost": 5,
+    "power": 5000,
+    "attribute": "Special",
+    "counter": null,
+    "type": "Whitebeard Pirates",
+    "category": "LEADER",
+    "blockIcon": "5",
+    "effect": "[Activate: Main][Once Per Turn] Up to 1 of your [Monkey.D.Luffy] Characters or up to 1 of your Characters with a type including \"Whitebeard Pirates\", with 8000 power or more, gains [Rush] during this turn.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main"
+    ]
+}

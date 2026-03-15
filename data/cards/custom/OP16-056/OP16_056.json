@@ -1,0 +1,18 @@
+{
+    "id": "OP16-056",
+    "name": "Mr.3(Galdino)",
+    "rarity": "SR",
+    "color": "Blue",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "",
+    "counter": 1000,
+    "type": "Impel Down/Former Baroque Works",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "[Activate: Main] You may trash this Character: Draw 2 cards, and up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main"
+    ]
+}

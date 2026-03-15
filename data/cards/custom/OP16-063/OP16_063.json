@@ -1,0 +1,21 @@
+{
+    "id": "OP16-063",
+    "name": "Kuzan",
+    "rarity": "R",
+    "color": "Purple",
+    "cost": 7,
+    "power": 8000,
+    "attribute": "Special",
+    "counter": 0,
+    "type": "Admiral/Navy",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "",
+    "trigger": "",
+    "keywords": [
+        "Unblockable",
+        "On Play",
+        "Activate: Main",
+        "DON!! -X"
+    ]
+}

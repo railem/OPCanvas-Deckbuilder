@@ -1,0 +1,18 @@
+{
+    "id": "OP16-108",
+    "name": "Shiryu",
+    "rarity": "SR",
+    "color": "Yellow",
+    "cost": 6,
+    "power": 8000,
+    "attribute": "Slash",
+    "counter": 0,
+    "type": "Impel Down/Blackbeard Pirates",
+    "category": "CHARACTER",
+    "blockIcon": "5",
+    "effect": "",
+    "trigger": "Draw 2 cards.",
+    "keywords": [
+        "On Play"
+    ]
+}

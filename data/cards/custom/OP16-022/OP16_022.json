@@ -1,0 +1,18 @@
+{
+    "id": "OP16-022",
+    "name": "Monkey.D.Luffy",
+    "rarity": "L",
+    "color": "Blue/Green",
+    "cost": 4,
+    "power": 5000,
+    "attribute": "Strike",
+    "counter": null,
+    "type": "Impel Down/Straw Hat Crew",
+    "category": "LEADER",
+    "blockIcon": "5",
+    "effect": "[Activate: Main][Once Per Turn] If the only Characters on your field are {Impel Down} type Characters, set up to 2 of your DON!! cards as active.",
+    "trigger": "",
+    "keywords": [
+        "Activate: Main"
+    ]
+}
